@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE viastructure SYSTEM "cdnvs.dtd">
+<viastructure>
+  <symbolname>VM_0P35_0P15_FOUT</symbolname>
+  <units>millimeters</units>
+  <accuracy>4</accuracy>
+  <layerstructure>CPCCPC</layerstructure>
+  <layerstack>
+    <layerdefinition>
+      <layertype>conductor</layertype>
+      <layerthickness>0.051000</layerthickness>
+      <layermaterial>COPPER_FOIL_HA</layermaterial>
+      <layerconduct>580000.000000</layerconduct>
+      <layerdielconst>1.000000</layerdielconst>
+      <layerlosstan>0.000000</layerlosstan>
+      </layerdefinition>
+    <layerdefinition>
+      <layertype>dielectric</layertype>
+      <layerthickness>0.200000</layerthickness>
+      <layermaterial>FR4_4.5</layermaterial>
+      <layerconduct>0.000000</layerconduct>
+      <layerdielconst>4.500000</layerdielconst>
+      <layerlosstan>0.016000</layerlosstan>
+      </layerdefinition>
+    <layerdefinition>
+      <layertype>plane</layertype>
+      <layerthickness>0.035000</layerthickness>
+      <layermaterial>COPPER</layermaterial>
+      <layerconduct>596000.000000</layerconduct>
+      <layerdielconst>1.000000</layerdielconst>
+      <layerlosstan>0.000000</layerlosstan>
+      </layerdefinition>
+    <layerdefinition>
+      <layertype>dielectric</layertype>
+      <layerthickness>0.200000</layerthickness>
+      <layermaterial>FR4</layermaterial>
+      <layerconduct>0.000000</layerconduct>
+      <layerdielconst>3.700000</layerdielconst>
+      <layerlosstan>0.019000</layerlosstan>
+      </layerdefinition>
+    <layerdefinition>
+      <layertype>conductor</layertype>
+      <layerthickness>0.035000</layerthickness>
+      <layermaterial>1OZ_COPPER</layermaterial>
+      <layerconduct>580000.000000</layerconduct>
+      <layerdielconst>1.000000</layerdielconst>
+      <layerlosstan>0.000000</layerlosstan>
+      </layerdefinition>
+    <layerdefinition>
+      <layertype>dielectric</layertype>
+      <layerthickness>0.600000</layerthickness>
+      <layermaterial>FR4</layermaterial>
+      <layerconduct>0.000000</layerconduct>
+      <layerdielconst>3.700000</layerdielconst>
+      <layerlosstan>0.019000</layerlosstan>
+      </layerdefinition>
+    <layerdefinition>
+      <layertype>conductor</layertype>
+      <layerthickness>0.035000</layerthickness>
+      <layermaterial>COPPER</layermaterial>
+      <layerconduct>596000.000000</layerconduct>
+      <layerdielconst>1.000000</layerdielconst>
+      <layerlosstan>0.000000</layerlosstan>
+      </layerdefinition>
+    <layerdefinition>
+      <layertype>dielectric</layertype>
+      <layerthickness>0.200000</layerthickness>
+      <layermaterial>FR4</layermaterial>
+      <layerconduct>0.000000</layerconduct>
+      <layerdielconst>3.700000</layerdielconst>
+      <layerlosstan>0.019000</layerlosstan>
+      </layerdefinition>
+    <layerdefinition>
+      <layertype>plane</layertype>
+      <layerthickness>0.035000</layerthickness>
+      <layermaterial>COPPER</layermaterial>
+      <layerconduct>596000.000000</layerconduct>
+      <layerdielconst>1.000000</layerdielconst>
+      <layerlosstan>0.000000</layerlosstan>
+      </layerdefinition>
+    <layerdefinition>
+      <layertype>dielectric</layertype>
+      <layerthickness>0.200000</layerthickness>
+      <layermaterial>FR4</layermaterial>
+      <layerconduct>0.000000</layerconduct>
+      <layerdielconst>3.700000</layerdielconst>
+      <layerlosstan>0.019000</layerlosstan>
+      </layerdefinition>
+    <layerdefinition>
+      <layertype>conductor</layertype>
+      <layerthickness>0.051000</layerthickness>
+      <layermaterial>COPPER_FOIL_HA</layermaterial>
+      <layerconduct>580000.000000</layerconduct>
+      <layerdielconst>1.000000</layerdielconst>
+      <layerlosstan>0.000000</layerlosstan>
+      </layerdefinition>
+    </layerstack>
+  <path>
+    <layer>0</layer>
+    <segment>
+      <width>0.1524</width>
+      <startpoint> (0;0)</startpoint>
+      <endpoint> (0.3126;0.3126)</endpoint>
+      </segment>
+    </path>
+  <via>
+    <padstackname>VIA015_035_FOUT</padstackname>
+    <viaorigin> (0.3126;0.3126)</viaorigin>
+    <viarotation>0</viarotation>
+    </via>
+  <padstack>
+    <padstackname>VIA015_035_FOUT</padstackname>
+    <padstackusage>thruvia</padstackusage>
+    <drillinfo>
+      <slothole>
+        <holetype>CIRCLE</holetype>
+        <width>0.15</width>
+        <positivetolerance>0 MM</positivetolerance>
+        <negativetolerance>0 MM</negativetolerance>
+        <offset> (0;0)</offset>
+        <drillmethod>STANDARD</drillmethod>
+        </slothole>
+      <drillsymbol>
+        <figure>TRIANGLE</figure>
+        <characters>H</characters>
+        <width>1.016</width>
+        <height>1.016</height>
+        </drillsymbol>
+      </drillinfo>
+    <pad>
+      <type>REGULAR_PAD</type>
+      <layer>0</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.35</width>
+      </pad>
+    <pad>
+      <type>THERMAL_PAD</type>
+      <layer>0</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>ANTIPAD_PAD</type>
+      <layer>0</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>REGULAR_PAD</type>
+      <layer>1</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.35</width>
+      </pad>
+    <pad>
+      <type>THERMAL_PAD</type>
+      <layer>1</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>ANTIPAD_PAD</type>
+      <layer>1</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>REGULAR_PAD</type>
+      <layer>2</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.35</width>
+      </pad>
+    <pad>
+      <type>THERMAL_PAD</type>
+      <layer>2</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>ANTIPAD_PAD</type>
+      <layer>2</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>REGULAR_PAD</type>
+      <layer>3</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.35</width>
+      </pad>
+    <pad>
+      <type>THERMAL_PAD</type>
+      <layer>3</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>ANTIPAD_PAD</type>
+      <layer>3</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>REGULAR_PAD</type>
+      <layer>4</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.35</width>
+      </pad>
+    <pad>
+      <type>THERMAL_PAD</type>
+      <layer>4</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>ANTIPAD_PAD</type>
+      <layer>4</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>REGULAR_PAD</type>
+      <layer>5</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.35</width>
+      </pad>
+    <pad>
+      <type>THERMAL_PAD</type>
+      <layer>5</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>ANTIPAD_PAD</type>
+      <layer>5</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>REGULAR_PAD</type>
+      <layer>DEFAULT_INTERNAL</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.35</width>
+      </pad>
+    <pad>
+      <type>THERMAL_PAD</type>
+      <layer>DEFAULT_INTERNAL</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>ANTIPAD_PAD</type>
+      <layer>DEFAULT_INTERNAL</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.3556</width>
+      </pad>
+    <pad>
+      <type>REGULAR_PAD</type>
+      <layer>TOP_PASTE_MASK_PAD</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.35</width>
+      </pad>
+    <pad>
+      <type>REGULAR_PAD</type>
+      <layer>TOP_SOLDER_MASK_PAD</layer>
+      <figure>CIRCLE</figure>
+      <offset> (0;0)</offset>
+      <width>0.4</width>
+      </pad>
+    </padstack>
+  </viastructure>

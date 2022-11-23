@@ -1,0 +1,9 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/DIMENSION"
+color -vis "PACKAGE GEOMETRY/SILKSCREEN_TOP"
+color -vis "PACKAGE GEOMETRY/PIN_NUMBER"
+color -vis "PIN/TOP"
+color -vis "PIN/BOTTOM"

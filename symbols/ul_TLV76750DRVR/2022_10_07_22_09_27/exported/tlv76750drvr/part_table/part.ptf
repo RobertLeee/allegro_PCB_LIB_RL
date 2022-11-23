@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TLV76750DRVR'
+CLASS = IC
+
+{========================================================================================}
+:PACK_TYPE | VALUE = MANUFACTURER_PART_NUMBER | TYPE | REFDES | COPYRIGHT | MFR_NAME | JEDEC_TYPE | PART_NUMBER ;
+{========================================================================================}
+ 'SMD' | 'TLV76750DRVR'(!) = 'TLV76750DRVR' | 'TYPE' | 'RefDes' | 'Copyright (C) 2022 Ultra Librarian. All rights reserved.' | 'Texas Instruments' | 'DRV0006A-IPC_A' | 'TLV76750DRVR'
+
+END_PART
+
+END.

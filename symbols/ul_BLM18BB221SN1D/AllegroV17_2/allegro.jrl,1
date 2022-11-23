@@ -1,0 +1,190 @@
+\t (00:00:02) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Nov 15 14:34:06 2022
+\t (00:00:02)         Host=LENOVO-10529-P1 User=RobertLi Pid=38724 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+   (00:00:02) 
+   (00:00:02) load( "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skill\cmds\\clinecut.il")
+   (00:00:02)                                                            ^^
+   (00:00:02) PARSER WARNING at line 7 column 60 of file allegro.ilinit
+   (00:00:02) *WARNING* (Parser): character found after backslash is not meaningful - '\c'
+   (00:00:02) *Error* load: can't access file - "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skillcmds\\clinecut.il"
+\t (00:00:02) Starting new design...
+\i (00:00:03) trapsize 116667
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2/IND_BLM18_0603_MUR-L.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 766
+\i (00:00:03) trapsize 787
+\i (00:00:03) trapsize 974
+\i (00:00:03) trapsize 974
+\i (00:00:03) trapsize 97365
+\t (00:00:03) Performing DRC...
+\t (00:00:03) Multithreaded DRC update (12 threads).
+\t (00:00:03) No DRC errors detected.
+\t (00:00:03) Opening Design "IND_BLM18_0603_MUR-L.dra"
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 76642
+\i (00:00:04) trapsize 78652
+\i (00:00:04) trapsize 76642
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\t (00:00:04) Performing DRC...
+\t (00:00:04) No DRC errors detected.
+\i (00:00:04) trapsize 22721
+\t (00:00:04) Creating TextBlocks
+\t (00:00:04) Creating Shapes on Package layers
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\t (00:00:04) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2/ind_blm18_0603_mur-l.psm'.
+\t (00:00:04) Starting Create symbol...
+\t (00:00:04) Symbol Created
+   (00:00:04) Loading cmds.cxt 
+   (00:00:04) Loading skillExt.cxt 
+\i (00:00:04) trapsize 546
+\t (00:00:04) Opening existing design...
+\i (00:00:04) trapsize 626
+\i (00:00:04) trapsize 645
+\i (00:00:04) trapsize 626
+\i (00:00:04) trapsize 626
+\d (00:00:04) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2/IND_BLM18_0603_MUR-L.dra
+\t (00:00:04) Symbol Saved
+   (00:00:04) t
+\i (00:00:04) scriptmode +i +n 
+\i (00:00:04) step pkg map 
+\i (00:00:06) fillin yes 
+\i (00:00:06) setwindow form.pkgmap3d 
+\i (00:00:06) FORM pkgmap3d stplist IND_BLM18_0603_MUR.step 
+\i (00:00:06) FORM pkgmap3d rotation_x 0 
+\i (00:00:06) FORM pkgmap3d save_current 
+\i (00:00:06) FORM pkgmap3d done 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) save 
+\i (00:00:06) fillin yes 
+\t (00:00:06) Symbol 'ind_blm18_0603_mur-l.psm' created.
+\i (00:00:06) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2/IND_BLM18_0603_MUR-M.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 16141
+\i (00:00:06) trapsize 16629
+\i (00:00:06) trapsize 16141
+\i (00:00:07) trapsize 21845
+\i (00:00:07) trapsize 21845
+\i (00:00:07) trapsize 21845
+\t (00:00:07) Performing DRC...
+\t (00:00:07) No DRC errors detected.
+\t (00:00:07) Opening Design "IND_BLM18_0603_MUR-M.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 16141
+\i (00:00:07) trapsize 16629
+\i (00:00:07) trapsize 16141
+\i (00:00:07) trapsize 22721
+\i (00:00:07) trapsize 22721
+\i (00:00:07) trapsize 22721
+\t (00:00:07) Performing DRC...
+\i (00:00:07) trapsize 21845
+\t (00:00:08) No DRC errors detected.
+\i (00:00:08) trapsize 22032
+\t (00:00:08) Creating TextBlocks
+\t (00:00:08) Creating Shapes on Package layers
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+\t (00:00:08) Creating Pins
+\t (00:00:08) Creating Vias
+\t (00:00:08) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2/ind_blm18_0603_mur-m.psm'.
+\t (00:00:08) Starting Create symbol...
+\t (00:00:08) Symbol Created
+\i (00:00:08) trapsize 720
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 720
+\i (00:00:08) trapsize 742
+\i (00:00:08) trapsize 720
+\i (00:00:08) trapsize 749
+\d (00:00:08) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2/IND_BLM18_0603_MUR-M.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) scriptmode +i +n 
+\i (00:00:08) step pkg map 
+\i (00:00:09) fillin yes 
+\i (00:00:10) setwindow form.pkgmap3d 
+\i (00:00:10) FORM pkgmap3d stplist IND_BLM18_0603_MUR.step 
+\i (00:00:10) FORM pkgmap3d rotation_x 0 
+\i (00:00:10) FORM pkgmap3d save_current 
+\i (00:00:10) FORM pkgmap3d done 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) save 
+\i (00:00:10) fillin yes 
+\t (00:00:10) Symbol 'ind_blm18_0603_mur-m.psm' created.
+\i (00:00:10) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2/IND_BLM18_0603_MUR.xml" ' 
+\t (00:00:10) Reading Footprint XML
+\t (00:00:10) Creating padstacks
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 16141
+\i (00:00:10) trapsize 16629
+\i (00:00:10) trapsize 16141
+\i (00:00:11) trapsize 22032
+\i (00:00:11) trapsize 22032
+\i (00:00:11) trapsize 22032
+\t (00:00:11) Performing DRC...
+\t (00:00:11) No DRC errors detected.
+\t (00:00:11) Opening Design "IND_BLM18_0603_MUR.dra"
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 16141
+\i (00:00:11) trapsize 16629
+\i (00:00:11) trapsize 16141
+\i (00:00:11) trapsize 22915
+\i (00:00:11) trapsize 22915
+\i (00:00:11) trapsize 22915
+\t (00:00:11) Performing DRC...
+\t (00:00:11) No DRC errors detected.
+\i (00:00:11) trapsize 22806
+\t (00:00:11) Creating TextBlocks
+\t (00:00:11) Creating Shapes on Package layers
+   (00:00:11) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+   (00:00:11) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+   (00:00:11) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+   (00:00:11) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 37.0)
+\e (00:00:11) ERROR(SPMHDB-69): Incomplete arc segment data.
+\t (00:00:11) Creating Pins
+\t (00:00:11) Creating Vias
+\t (00:00:11) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2/ind_blm18_0603_mur.psm'.
+\t (00:00:11) Starting Create symbol...
+\t (00:00:11) Symbol Created
+\i (00:00:11) trapsize 586
+\t (00:00:12) Opening existing design...
+\i (00:00:12) trapsize 586
+\i (00:00:12) trapsize 604
+\i (00:00:12) trapsize 586
+\i (00:00:12) trapsize 610
+\d (00:00:12) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2/IND_BLM18_0603_MUR.dra
+\t (00:00:12) Symbol Saved
+   (00:00:12) t
+\i (00:00:12) scriptmode +i +n 
+\i (00:00:12) step pkg map 
+\i (00:00:13) fillin yes 
+\i (00:00:13) setwindow form.pkgmap3d 
+\i (00:00:13) FORM pkgmap3d stplist IND_BLM18_0603_MUR.step 
+\i (00:00:13) FORM pkgmap3d rotation_x 0 
+\i (00:00:13) FORM pkgmap3d save_current 
+\i (00:00:13) FORM pkgmap3d done 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) save 
+\i (00:00:13) fillin yes 
+\t (00:00:14) Symbol 'ind_blm18_0603_mur.psm' created.
+\i (00:00:14) exit 
+\t (00:00:14)     Journal end - Tue Nov 15 14:34:18 2022

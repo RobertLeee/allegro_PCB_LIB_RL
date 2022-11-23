@@ -1,0 +1,14 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File WRITE                                             )
+(                                                                     )
+(    Drawing          : LED_SML-LX0603GW-TR_LUM.dra                   )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Fri Nov  4 16:35:33 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Layout Name   : E:/share_OrCAD/pcb_lib/symbols/LED_SML-LX0603GW-TR_LUM.dra
+	Paramfile Name : E:/share_OrCAD/parameter/footprint_design_Rlv1006.prm
+

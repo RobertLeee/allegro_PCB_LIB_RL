@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : MP4895AEVBoard.brd                            )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Mon Oct 31 16:57:37 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'E:/share_OrCAD/Proj/HD3_ATE_JIG/SWITCH_BOARD/ref/MP4895AEVBoard/thdtestpoint_blktestpoint_thdtestpoint.txt': written successfully.
+Device file 'E:/share_OrCAD/Proj/HD3_ATE_JIG/SWITCH_BOARD/ref/MP4895AEVBoard/screw_screw-35mm_mountingscrew.txt': written successfully.
+Device file 'E:/share_OrCAD/Proj/HD3_ATE_JIG/SWITCH_BOARD/ref/MP4895AEVBoard/330pf100vx7r0805_0805-cap_330pf100vx7r0805.txt': written successfully.
+Device file 'E:/share_OrCAD/Proj/HD3_ATE_JIG/SWITCH_BOARD/ref/MP4895AEVBoard/47uf16vx5r0805_0805-cap_47uf16vx5r0805.txt': written successfully.
+Device file 'E:/share_OrCAD/Proj/HD3_ATE_JIG/SWITCH_BOARD/ref/MP4895AEVBoard/ph1-10-ua_header100mil1x10_ph1-10-ua.txt': written successfully.
+Device file 'E:/share_OrCAD/Proj/HD3_ATE_JIG/SWITCH_BOARD/ref/MP4895AEVBoard/mp4895a_bga144l-10x10mm_mp4895a.txt': written successfully.
+
+  Created device files: 6
+

@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : DFN18_5X5_MCH.dra                             )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Tue Nov 15 15:01:16 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : E:/share_OrCAD/parameter/footprint_check_Rlv1006.prm
+	Layout Name   : E:/share_OrCAD/pcb_lib/symbols/ul_MD0101K6-G/AllegroV17_2/DFN18_5X5_MCH.dra
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+Reading...drf_parm_type:
+Reading...ministat_parm_type:
+Reading...ats_parm_type:
+Reading...ifp_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

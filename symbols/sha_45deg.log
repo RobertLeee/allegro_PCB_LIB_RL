@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sha_45deg.dra                                 )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Tue Oct  4 11:31:13 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = E:/share_OrCAD/pcb_lib/symbols
+    Name      = sha_45deg.ssm
+    User      = RobertLi
+    Machine   = LENOVO-10529-P1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

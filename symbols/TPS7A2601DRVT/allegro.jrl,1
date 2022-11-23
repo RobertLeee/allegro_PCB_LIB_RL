@@ -1,0 +1,38 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Oct 14 15:56:54 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=14264 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\TPS7A2601DRVT\SON65P200X200X80-7N.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "SON65P200X200X80-7N"
+\d (00:00:03) Design opened: E:/share_OrCAD/pcb_lib/symbols/TPS7A2601DRVT/SON65P200X200X80-7N.dra
+\i (00:00:04) trapsize 1750
+\i (00:00:04) trapsize 1825
+\i (00:00:04) trapsize 1906
+\i (00:00:04) trapsize 1825
+\i (00:00:04) trapsize 1685
+\i (00:00:04) trapsize 1685
+\i (00:00:05) trapsize 1652
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -0.0490 -0.7709
+\i (00:00:06) trapsize 826
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.0490 -0.7709
+\i (00:00:07) trapsize 413
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.0490 -0.7708
+\i (00:00:07) trapsize 206
+\i (00:00:11) setwindow form.mini
+\i (00:00:11) FORM mini subclass PIN_NUMBER 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) updateport CVPane
+\i (00:04:08) exit 
+\t (00:04:08)     Journal end - Fri Oct 14 16:01:00 2022
+0:00:24) setwindow pcb
+\i (00:00:24) updateport CVPane
+\i (00:00:53) exit 
+\t (00:00:54)     Journal end - Fri Oct 14 16:00:52 2022

@@ -1,0 +1,188 @@
+\t (00:00:02) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Sep 23 10:33:15 2022
+\t (00:00:02)         Host=LENOVO-10529-P1 User=RobertLi Pid=28296 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Starting new design...
+\i (00:00:03) trapsize 116667
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_RC0603JR-071ML/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_RC0603JR-071ML/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_RC0603JR-071ML/AllegroV17_2/RC0603N_YAG-L.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 974
+\i (00:00:04) trapsize 1003
+\i (00:00:04) trapsize 1014
+\i (00:00:04) trapsize 974
+\i (00:00:04) trapsize 970
+\i (00:00:04) trapsize 970
+\i (00:00:04) trapsize 970
+\i (00:00:04) trapsize 97043
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (12 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "RC0603N_YAG-L.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 100287
+\i (00:00:04) trapsize 101432
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\t (00:00:04) Performing DRC...
+\t (00:00:04) No DRC errors detected.
+\i (00:00:04) trapsize 23147
+\t (00:00:04) Creating TextBlocks
+\t (00:00:04) Creating Shapes on Package layers
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\t (00:00:04) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_RC0603JR-071ML/AllegroV17_2/rc0603n_yag-l.psm'.
+\t (00:00:04) Starting Create symbol...
+\t (00:00:05) Symbol Created
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\i (00:00:05) trapsize 647
+\i (00:00:05) trapsize 621
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 621
+\i (00:00:05) trapsize 640
+\i (00:00:05) trapsize 621
+\i (00:00:05) trapsize 645
+\d (00:00:05) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_RC0603JR-071ML/AllegroV17_2/RC0603N_YAG-L.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) scriptmode +i +n 
+\i (00:00:05) step pkg map 
+\i (00:00:07) fillin yes 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist RC0603N_YAG.step 
+\i (00:00:08) FORM pkgmap3d rotation_x 0 
+\i (00:00:08) FORM pkgmap3d save_current 
+\i (00:00:08) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'rc0603n_yag-l.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_RC0603JR-071ML/AllegroV17_2/RC0603N_YAG-M.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 17460
+\i (00:00:08) trapsize 18019
+\i (00:00:08) trapsize 17460
+\i (00:00:08) trapsize 23147
+\i (00:00:08) trapsize 23147
+\i (00:00:08) trapsize 23147
+\t (00:00:08) Performing DRC...
+\t (00:00:08) No DRC errors detected.
+\t (00:00:09) Opening Design "RC0603N_YAG-M.dra"
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 17460
+\i (00:00:09) trapsize 18019
+\i (00:00:09) trapsize 17460
+\i (00:00:09) trapsize 23147
+\i (00:00:09) trapsize 23147
+\i (00:00:09) trapsize 23147
+\t (00:00:09) Performing DRC...
+\i (00:00:09) trapsize 22255
+\t (00:00:09) No DRC errors detected.
+\i (00:00:09) trapsize 22442
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_RC0603JR-071ML/AllegroV17_2/rc0603n_yag-m.psm'.
+\t (00:00:09) Starting Create symbol...
+\t (00:00:10) Symbol Created
+\i (00:00:10) trapsize 652
+\t (00:00:10) Opening existing design...
+\i (00:00:10) trapsize 652
+\i (00:00:10) trapsize 672
+\i (00:00:10) trapsize 652
+\i (00:00:10) trapsize 678
+\d (00:00:10) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_RC0603JR-071ML/AllegroV17_2/RC0603N_YAG-M.dra
+\t (00:00:10) Symbol Saved
+   (00:00:10) t
+\i (00:00:10) scriptmode +i +n 
+\i (00:00:10) step pkg map 
+\i (00:00:11) fillin yes 
+\i (00:00:11) setwindow form.pkgmap3d 
+\i (00:00:11) FORM pkgmap3d stplist RC0603N_YAG.step 
+\i (00:00:11) FORM pkgmap3d rotation_x 0 
+\i (00:00:11) FORM pkgmap3d save_current 
+\i (00:00:11) FORM pkgmap3d done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) save 
+\i (00:00:11) fillin yes 
+\t (00:00:11) Symbol 'rc0603n_yag-m.psm' created.
+\i (00:00:11) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_RC0603JR-071ML/AllegroV17_2/RC0603N_YAG.xml" ' 
+\t (00:00:11) Reading Footprint XML
+\t (00:00:11) Creating padstacks
+\t (00:00:11) Starting new design...
+\i (00:00:12) trapsize 17460
+\i (00:00:12) trapsize 18019
+\i (00:00:12) trapsize 17460
+\i (00:00:12) trapsize 23342
+\i (00:00:12) trapsize 23342
+\i (00:00:12) trapsize 23342
+\t (00:00:12) Performing DRC...
+\t (00:00:12) No DRC errors detected.
+\t (00:00:12) Opening Design "RC0603N_YAG.dra"
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 17460
+\i (00:00:12) trapsize 18019
+\i (00:00:12) trapsize 17460
+\i (00:00:12) trapsize 23342
+\i (00:00:12) trapsize 23342
+\i (00:00:12) trapsize 23342
+\t (00:00:12) Performing DRC...
+\t (00:00:12) No DRC errors detected.
+\i (00:00:12) trapsize 23233
+\t (00:00:12) Creating TextBlocks
+\t (00:00:12) Creating Shapes on Package layers
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 28.0)
+\t (00:00:12) Creating Pins
+\t (00:00:12) Creating Vias
+\t (00:00:12) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_RC0603JR-071ML/AllegroV17_2/rc0603n_yag.psm'.
+\t (00:00:12) Starting Create symbol...
+\t (00:00:12) Symbol Created
+\i (00:00:12) trapsize 621
+\t (00:00:13) Opening existing design...
+\i (00:00:13) trapsize 621
+\i (00:00:13) trapsize 640
+\i (00:00:13) trapsize 621
+\i (00:00:13) trapsize 645
+\d (00:00:13) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_RC0603JR-071ML/AllegroV17_2/RC0603N_YAG.dra
+\t (00:00:13) Symbol Saved
+   (00:00:13) t
+\i (00:00:13) scriptmode +i +n 
+\i (00:00:13) step pkg map 
+\i (00:00:14) fillin yes 
+\i (00:00:14) setwindow form.pkgmap3d 
+\i (00:00:14) FORM pkgmap3d stplist RC0603N_YAG.step 
+\i (00:00:14) FORM pkgmap3d rotation_x 0 
+\i (00:00:14) FORM pkgmap3d save_current 
+\i (00:00:14) FORM pkgmap3d done 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) save 
+\i (00:00:14) fillin yes 
+\t (00:00:15) Symbol 'rc0603n_yag.psm' created.
+\i (00:00:15) exit 
+\t (00:00:15)     Journal end - Fri Sep 23 10:33:27 2022

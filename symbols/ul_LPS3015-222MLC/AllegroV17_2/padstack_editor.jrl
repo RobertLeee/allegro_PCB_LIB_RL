@@ -1,0 +1,18 @@
+\t (00:00:00) padstack_editor 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Oct 13 13:03:12 2022
+\t (00:00:00)         Host=LENOVO-10529-P1 User=RobertLi Pid=28912 CPUs=12
+\t (00:00:00) CmdLine= padstack_editor -mpssession RobertLi -file C:/Users/RobertLi/AppData/Local/Temp/#Taaaaan28380.tmp -pname RX45Y120D0T -data C:/Users/RobertLi/AppData/Local/Temp/#Taaaaaq28380.tmp
+\t (00:00:00) 
+\d (00:00:19) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:19) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:30) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:32) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:00:45) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:45) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:48) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:53) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:53) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\t (00:01:14)     Journal end - Thu Oct 13 13:04:26 2022

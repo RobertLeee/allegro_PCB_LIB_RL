@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SAMTEC_IPL1-104-01-X-S-K.dra                  )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Tue Sep 20 13:37:00 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/share_OrCAD/pcb_lib/symbols
+    Name      = samtec_ipl1-104-01-x-s-k.psm
+    User      = RobertLi
+    Machine   = LENOVO-10529-P1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

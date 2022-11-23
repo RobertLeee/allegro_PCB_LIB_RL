@@ -1,0 +1,69 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Oct  7 15:56:54 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=28492 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\ul_TLV76750DRVR\AllegroV17_2\DRV0006A-IPC_A.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "DRV0006A-IPC_A"
+\d (00:00:03) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TLV76750DRVR/AllegroV17_2/DRV0006A-IPC_A.dra
+\i (00:00:03) trapsize 178
+\i (00:00:03) trapsize 183
+\i (00:00:03) trapsize 178
+\i (00:00:04) trapsize 200
+\i (00:00:04) trapsize 204
+\i (00:00:15) setwindow form.mini
+\i (00:00:15) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) updateport CVPane
+\i (00:00:20) trapsize 179
+\i (00:00:22) trapsize 204
+\i (00:01:53) setwindow form.mini
+\i (00:01:53) FORM mini subcolor color 24 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) updateport CVPane
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out -0.0816 0.3592
+\t (00:01:56) Grids are drawn 0.0500, 0.0500 apart for enhanced viewing.
+\i (00:01:56) trapsize 408
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out -0.0816 0.3593
+\t (00:01:56) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:01:56) trapsize 816
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in -0.0815 0.3592
+\t (00:01:57) Grids are drawn 0.0500, 0.0500 apart for enhanced viewing.
+\i (00:01:57) trapsize 408
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in -0.0815 0.3593
+\i (00:01:57) trapsize 204
+\i (00:01:58) zoom out 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom out -0.0815 0.3593
+\i (00:01:58) trapsize 408
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in -0.0815 0.3594
+\i (00:01:59) trapsize 204
+\i (00:01:59) zoom out 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom out -0.0815 0.3594
+\i (00:01:59) trapsize 408
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in -0.0815 0.3595
+\i (00:02:00) trapsize 204
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out -0.0815 0.3595
+\i (00:02:01) trapsize 408
+\i (00:02:30) setwindow form.mini
+\i (00:02:30) FORM mini subclass SILKSCREEN_TOP 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) updateport CVPane
+\i (00:03:07) exit 
+\t (00:03:08)     Journal end - Fri Oct  7 15:59:59 2022

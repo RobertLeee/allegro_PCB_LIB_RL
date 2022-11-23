@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ECLGA-14_MPM4710.dra                          )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Tue Oct  4 11:44:29 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/share_OrCAD/pcb_lib/symbols/ul_MP2276GD-P/AllegroV17_2
+    Name      = eclga-14_mpm4710.psm
+    User      = RobertLi
+    Machine   = LENOVO-10529-P1
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+
+Create symbol completed.
+

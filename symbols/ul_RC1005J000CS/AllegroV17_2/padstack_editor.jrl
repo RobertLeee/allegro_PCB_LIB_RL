@@ -1,0 +1,10 @@
+\t (00:00:00) padstack_editor 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Nov 14 10:06:58 2022
+\t (00:00:00)         Host=LENOVO-10529-P1 User=RobertLi Pid=20144 CPUs=12
+\t (00:00:00) CmdLine= padstack_editor -mpssession RobertLi -file C:/Users/RobertLi/AppData/Local/Temp/#Taaaabg03740.tmp -pname RX15P84Y17P69D0T -data C:/Users/RobertLi/AppData/Local/Temp/#Taaaabj03740.tmp
+\t (00:00:00) 
+\d (00:00:06) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:00:08) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:00:09) QtSignal GuidedDesignLayersTab LayersTable cellDoubleClicked 0 "Regular Pad" 0 2
+\d (00:00:09) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\t (00:00:34)     Journal end - Mon Nov 14 10:07:33 2022

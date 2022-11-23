@@ -1,0 +1,4 @@
+skill load "E:/share_OrCAD/pcb_lib/symbols/ul_5-103635-1/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_5-103635-1/AllegroV17_2" 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_5-103635-1/AllegroV17_2/CONN_5-103635-1_TYCO.xml" 
+exit 

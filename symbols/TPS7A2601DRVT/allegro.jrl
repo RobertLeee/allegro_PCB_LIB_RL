@@ -1,0 +1,41 @@
+\t (00:00:11) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:11)     Journal start - Fri Oct 14 20:15:35 2022
+\t (00:00:11)         Host=LENOVO-10529-P1 User=RobertLi Pid=28792 CPUs=12
+\t (00:00:11) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\TPS7A2601DRVT\ps_r69_32_d250.dra
+\t (00:00:11) 
+   (00:00:11) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\i (00:00:13) fillin yes 
+\i (00:00:13) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ps_r69_32_d250"
+\d (00:00:13) Design opened: E:/share_OrCAD/pcb_lib/symbols/TPS7A2601DRVT/ps_r69_32_d250.dra
+\i (00:00:13) trapsize 7789
+\i (00:00:13) trapsize 8073
+\i (00:00:13) trapsize 8378
+\i (00:00:13) trapsize 8073
+\i (00:00:14) trapsize 7539
+\i (00:00:14) trapsize 7539
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out -21.8045 -26.4786
+\i (00:00:16) trapsize 7539
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out -21.8045 -26.4786
+\i (00:00:16) trapsize 7539
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out -21.8045 -26.4786
+\i (00:00:16) trapsize 7539
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -21.8045 -26.4786
+\i (00:00:17) trapsize 7539
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -21.8045 -26.4786
+\i (00:00:17) trapsize 7539
+\i (00:00:23) setwindow form.mini
+\i (00:00:23) FORM mini class 'ANTI ETCH' 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) exit 
+\t (00:00:27)     Journal end - Fri Oct 14 20:15:51 2022

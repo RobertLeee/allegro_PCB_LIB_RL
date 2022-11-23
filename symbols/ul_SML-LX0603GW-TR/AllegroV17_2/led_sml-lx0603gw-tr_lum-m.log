@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LED_SML-LX0603GW-TR_LUM-M.dra                 )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Tue Sep 27 14:34:46 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/share_OrCAD/pcb_lib/symbols/ul_SML-LX0603GW-TR/AllegroV17_2
+    Name      = led_sml-lx0603gw-tr_lum-m.psm
+    User      = RobertLi
+    Machine   = LENOVO-10529-P1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

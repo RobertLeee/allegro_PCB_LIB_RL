@@ -1,0 +1,32 @@
+\t (00:35:31) allegro 17.4 S028 Windows SPB 64-bit Edition
+\t (00:35:31)     Journal start - Mon Sep 12 16:37:33 2022
+\t (00:35:31)         Host=LENOVO-10529-P1 User=RobertLi Pid=17308 CPUs=12
+\t (00:35:31) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:35:31) 
+\d (00:35:31) Design opened: E:/share_OrCAD/pcb_lib/symbols/T1M-07-GF-S-V-K-TR/SAMTEC_T1M-07-GF-S-V-K-TR.dra
+\i (00:35:31) trapsize 4978
+\i (00:35:31) generaledit 
+\i (00:35:36) zoom in 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom in 0.4424 1.1375
+\i (00:35:36) trapsize 2489
+\i (00:35:37) zoom in 1 
+\i (00:35:37) setwindow pcb
+\i (00:35:37) zoom in 0.4424 3.0120
+\i (00:35:37) trapsize 1244
+\i (00:35:38) zoom out 1 
+\i (00:35:38) setwindow pcb
+\i (00:35:38) zoom out 0.4424 3.0120
+\i (00:35:38) trapsize 2489
+\i (00:35:44) save_as 
+\i (00:36:00) fillin "E:/share_OrCAD/pcb_lib/symbols/SAMTEC_T1M-07-GF-S-V-K-TR.dra"
+\i (00:36:00) cd "E:/share_OrCAD/pcb_lib/symbols"
+\t (00:36:00) Symbol 'samtec_t1m-07-gf-s-v-k-tr.psm' created.
+\i (00:36:00) generaledit 
+\i (00:36:25) open 
+\i (00:36:29) fillin "E:/share_OrCAD/pcb_lib/symbols/T1M-04-GF-S-V-K-TR/SAMTEC_T1M-04-GF-S-V-K-TR.dra"
+\i (00:36:29) cd "E:/share_OrCAD/pcb_lib/symbols/T1M-04-GF-S-V-K-TR"
+\t (00:36:29) Opening existing design...
+\i (00:36:32) fillin yes 
+\i (00:36:32) trapsize 3638
+\t (00:36:32)     Journal end - Mon Sep 12 16:38:34 2022

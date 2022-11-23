@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : IND_BLM18_0603_MUR-M.dra                      )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Tue Nov 15 14:34:14 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2
+    Name      = ind_blm18_0603_mur-m.psm
+    User      = RobertLi
+    Machine   = LENOVO-10529-P1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

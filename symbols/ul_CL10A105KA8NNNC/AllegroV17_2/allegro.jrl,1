@@ -1,0 +1,73 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Sep 22 15:57:23 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=23184 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\e (00:00:03) Retrieval of 'OrCAD_PCB_Editor_Basics' license failed: ''. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:13) fillin confirm
+\i (00:00:46) fillin OrCAD_PCB_Editor_Basics
+\t (00:00:46) Starting new design...
+\i (00:00:46) trapsize 116667
+\i (00:00:47) replay builder.scr.txt 
+\i (00:00:47) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_CL10A105KA8NNNC/AllegroV17_2/builder.ile" ' 
+   (00:00:47) t
+\i (00:00:47) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_CL10A105KA8NNNC/AllegroV17_2" ' 
+   (00:00:47) t
+\i (00:00:47) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_CL10A105KA8NNNC/AllegroV17_2/CAP_CL10_SAM-L.xml" ' 
+\t (00:00:47) Reading Footprint XML
+\t (00:00:47) Creating padstacks
+\t (00:00:47) Starting new design...
+\i (00:00:47) trapsize 811
+\i (00:00:47) trapsize 833
+\i (00:00:47) trapsize 811
+\i (00:00:47) trapsize 936
+\i (00:00:47) trapsize 936
+\i (00:00:47) trapsize 93612
+\t (00:00:47) Performing DRC...
+\t (00:00:47) Multithreaded DRC update (12 threads).
+\t (00:00:47) No DRC errors detected.
+\t (00:00:47) Opening Design "CAP_CL10_SAM-L.dra"
+\t (00:00:47) Starting new design...
+\i (00:00:47) trapsize 81081
+\i (00:00:47) trapsize 83333
+\i (00:00:47) trapsize 81081
+\i (00:00:47) trapsize 97365
+\i (00:00:47) trapsize 97365
+\i (00:00:47) trapsize 97365
+\t (00:00:47) Performing DRC...
+\t (00:00:47) No DRC errors detected.
+\i (00:00:47) trapsize 23157
+\t (00:00:47) Creating TextBlocks
+\t (00:00:47) Creating Shapes on Package layers
+   (00:00:47) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.4331)
+   (00:00:47) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.4331)
+   (00:00:47) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.4331)
+   (00:00:47) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.4331)
+\t (00:00:47) Creating Pins
+\t (00:00:47) Creating Vias
+\t (00:00:47) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_CL10A105KA8NNNC/AllegroV17_2/cap_cl10_sam-l.psm'.
+\t (00:00:47) Starting Create symbol...
+\t (00:00:47) Symbol Created
+   (00:00:47) Loading cmds.cxt 
+   (00:00:47) Loading skillExt.cxt 
+\i (00:00:47) trapsize 566
+\t (00:00:48) Opening existing design...
+\i (00:00:48) trapsize 649
+\i (00:00:48) trapsize 670
+\i (00:00:48) trapsize 649
+\i (00:00:48) trapsize 649
+\d (00:00:48) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_CL10A105KA8NNNC/AllegroV17_2/CAP_CL10_SAM-L.dra
+\t (00:00:48) Symbol Saved
+   (00:00:48) t
+\i (00:00:48) scriptmode +i +n 
+\i (00:00:48) step pkg map 
+\i (00:00:50) fillin no 
+\i (00:00:50) setwindow form.pkgmap3d 
+\e (00:00:50) Can't find window; form.pkgmap3d
+\i (00:00:50) trapsize 649
+\i (00:00:52) exit 
+\e (00:00:52) Do you want to save the changes you made to CAP_CL10_SAM-L.dra?
+\i (00:00:54) fillin yes 
+\t (00:00:54) Symbol 'cap_cl10_sam-l.psm' created.
+\t (00:00:54)     Journal end - Thu Sep 22 15:58:14 2022

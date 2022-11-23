@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : RES_1608_SAM.dra                              )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Mon Nov 14 11:57:54 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : E:/share_OrCAD/parameter/footprint_check_dimention.color
+	Layout Name   : E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/RES_1608_SAM.dra
+
+Error at input file, line 1,   Message: invalid document structure
+
+..... Total number of errors: 1.
+..... Total number of warnings: 0.

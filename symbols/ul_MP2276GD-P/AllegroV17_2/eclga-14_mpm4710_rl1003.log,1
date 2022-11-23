@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ECLGA-14_MPM4710_RL1003.dra                   )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Thu Oct  6 15:48:18 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/share_OrCAD/pcb_lib/symbols/ul_MP2276GD-P/AllegroV17_2
+    Name      = eclga-14_mpm4710_rl1003.psm
+    User      = RobertLi
+    Machine   = LENOVO-10529-P1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

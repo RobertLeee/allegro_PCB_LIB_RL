@@ -1,0 +1,151 @@
+\t (00:09:08) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:09:08)     Journal start - Tue Nov 15 14:44:53 2022
+\t (00:09:08)         Host=LENOVO-10529-P1 User=RobertLi Pid=38080 CPUs=12
+\t (00:09:08) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\BEADC1608X95N.dra
+\t (00:09:08) 
+\d (00:09:08) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_BLM18BB221SN1D/AllegroV17_2/IND_BLM18_0603_MUR.dra
+\i (00:09:08) etchedit 
+\i (00:09:10) zoom out 1 
+\i (00:09:10) setwindow pcb
+\i (00:09:10) zoom out -22.683 41.263
+\i (00:09:10) trapsize 1220
+\i (00:09:10) zoom out 1 
+\i (00:09:10) setwindow pcb
+\i (00:09:10) zoom out -22.683 41.262
+\i (00:09:10) trapsize 2439
+\i (00:09:11) zoom in 1 
+\i (00:09:11) setwindow pcb
+\i (00:09:11) zoom in -22.683 41.263
+\i (00:09:11) trapsize 1220
+\i (00:09:11) zoom in 1 
+\i (00:09:11) setwindow pcb
+\i (00:09:11) zoom in -22.683 41.263
+\i (00:09:11) trapsize 610
+\i (00:09:12) zoom out 1 
+\i (00:09:12) setwindow pcb
+\i (00:09:12) zoom out -22.683 41.264
+\i (00:09:12) trapsize 1220
+\i (00:09:21) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: footprint_check_dimention"
+\i (00:09:21) color -globvis off 
+\i (00:09:21) color -vis 'BOARD GEOMETRY/DIMENSION' 
+\i (00:09:21) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:09:21) color -vis 'PACKAGE GEOMETRY/PIN_NUMBER' 
+\i (00:09:21) color -vis PIN/TOP 
+\i (00:09:22) color -vis PIN/BOTTOM 
+\i (00:09:22) trapsize 1220
+\i (00:09:22) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: footprint_check_dimention"
+\i (00:09:22) etchedit 
+\i (00:09:43) prepopup -14.146 16.141
+\i (00:09:46) dimension edit 
+\i (00:09:47) updateport CVPane
+\i (00:09:47) prepopup -16.097 14.677
+\i (00:09:51) pop dyn_option_select '@:@Linear dimension' 
+\t (00:09:51) Pick an element or point to dimension ...
+\i (00:09:52) prepopup -13.902 14.433
+\i (00:09:54) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:09:54) last pick:  -10.500 18.500
+\t (00:09:54) First point found ... pick the second point.
+\i (00:09:56) prepopup 11.952 15.409
+\i (00:09:59) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:09:59) last pick:  10.500 18.500
+\t (00:09:59) Pick location for the dimension value.
+\i (00:10:01) zoom out 1 
+\i (00:10:01) setwindow pcb
+\i (00:10:01) zoom out -10.487 52.971
+\i (00:10:01) trapsize 2439
+\i (00:10:01) zoom out 1 
+\i (00:10:02) setwindow pcb
+\i (00:10:02) zoom out -10.488 52.971
+\i (00:10:02) trapsize 4878
+\i (00:10:02) zoom out 1 
+\i (00:10:02) setwindow pcb
+\i (00:10:02) zoom out -10.487 52.971
+\i (00:10:02) trapsize 9756
+\i (00:10:13) param in 
+\i (00:10:15) setwindow form.parm_in
+\i (00:10:15) FORM parm_in browse  
+\i (00:10:24) fillin "E:/share_OrCAD/parameter/footprint_check_Rlv1006.prm"
+\i (00:10:25) FORM parm_in execute  
+\t (00:10:25) Starting Importing parameter file...
+\t (00:10:25) Opening existing design...
+\t (00:10:25) Grids are drawn 9.842, 9.842 apart for enhanced viewing.
+\i (00:10:25) setwindow pcb
+\i (00:10:25) trapsize 9756
+\t (00:10:26) Parameter file read completed.
+\i (00:10:28) setwindow form.parm_in
+\i (00:10:28) FORM parm_in cancel  
+\i (00:10:28) setwindow pcb
+\i (00:10:28) etchedit 
+\i (00:10:29) zoom in 1 
+\i (00:10:29) setwindow pcb
+\i (00:10:29) zoom in -49.513 64.679
+\i (00:10:29) trapsize 4878
+\i (00:10:29) zoom in 1 
+\i (00:10:29) setwindow pcb
+\i (00:10:29) zoom in -49.513 64.679
+\i (00:10:29) trapsize 2439
+\i (00:10:29) zoom in 1 
+\i (00:10:29) setwindow pcb
+\i (00:10:29) zoom in -49.513 64.191
+\i (00:10:29) trapsize 1220
+\i (00:10:30) zoom in 1 
+\i (00:10:30) setwindow pcb
+\i (00:10:30) zoom in -50.000 63.948
+\i (00:10:30) trapsize 610
+\i (00:10:30) zoom out 1 
+\i (00:10:30) setwindow pcb
+\i (00:10:30) zoom out -26.829 34.679
+\i (00:10:30) trapsize 1220
+\i (00:10:30) zoom out 1 
+\i (00:10:30) setwindow pcb
+\i (00:10:30) zoom out -26.829 34.680
+\i (00:10:30) trapsize 2439
+\i (00:10:31) zoom in 1 
+\i (00:10:31) setwindow pcb
+\i (00:10:31) zoom in 38.538 18.581
+\i (00:10:31) trapsize 1220
+\i (00:10:33) dimension edit 
+\i (00:10:33) updateport CVPane
+\i (00:10:34) prepopup -45.853 45.655
+\i (00:10:35) pop dyn_option_select '@:@Linear dimension' 
+\t (00:10:35) Pick an element or point to dimension ...
+\i (00:10:37) prepopup -45.853 12.240
+\i (00:10:40) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:10:40) last pick:  -48.500 18.500
+\t (00:10:40) First point found ... pick the second point.
+\i (00:10:41) prepopup 16.099 15.411
+\i (00:10:44) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:10:44) last pick:  10.500 18.500
+\t (00:10:44) Pick location for the dimension value.
+\i (00:10:46) prepopup 5.123 60.534
+\i (00:10:47) oops 
+\t (00:10:47) last pick:  -48.500 18.500
+\t (00:10:47) First point found ... pick the second point.
+\i (00:10:49) prepopup 44.149 16.143
+\i (00:10:52) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:10:52) last pick:  48.500 18.500
+\t (00:10:52) Pick location for the dimension value.
+\i (00:10:55) pick grid -1.218 56.631
+\t (00:10:55) last pick:  0.000 59.052
+\t (00:10:55) Pick an element or point to dimension ...
+\i (00:10:56) prepopup -10.975 17.850
+\i (00:10:59) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:10:59) last pick:  -10.500 18.500
+\t (00:10:59) Pick an element or point to dimension ...
+\t (00:10:59) First point found ... pick the second point.
+\i (00:11:01) prepopup 11.953 16.630
+\i (00:11:03) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:11:03) last pick:  10.500 18.500
+\t (00:11:03) Pick location for the dimension value.
+\i (00:11:05) pick grid 0.245 37.119
+\t (00:11:05) last pick:  0.000 39.368
+\t (00:11:05) Pick an element or point to dimension ...
+\i (00:11:06) prepopup -53.658 101.266
+\i (00:11:07) done 
+\i (00:11:07) etchedit 
+\i (00:11:08) save 
+\i (00:11:09) fillin yes 
+\t (00:11:09) Symbol 'ind_blm18_0603_mur.psm' created.
+\i (00:11:09) etchedit 
+\i (00:11:22) exit 
+\t (00:11:23)     Journal end - Tue Nov 15 14:47:08 2022

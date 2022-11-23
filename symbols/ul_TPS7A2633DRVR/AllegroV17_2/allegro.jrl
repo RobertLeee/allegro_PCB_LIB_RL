@@ -1,0 +1,143 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Sep 14 10:19:57 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=5240 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 116667
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_TPS7A2633DRVR/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_TPS7A2633DRVR/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TPS7A2633DRVR/AllegroV17_2/DRV0006A.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 1227
+\i (00:00:03) trapsize 1250
+\i (00:00:03) trapsize 1292
+\i (00:00:03) trapsize 1227
+\i (00:00:03) trapsize 1227
+\i (00:00:03) trapsize 1227
+\i (00:00:03) trapsize 122655
+\t (00:00:03) Performing DRC...
+\t (00:00:03) Multithreaded DRC update (12 threads).
+\t (00:00:03) No DRC errors detected.
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 120000
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 125000
+\i (00:00:04) trapsize 129179
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 122655
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (12 threads).
+\t (00:00:04) No DRC errors detected.
+   (00:00:04) *WARNING* (axlDBCreatePadStack): Figure FIG_RECTANGLE and size (0 23622)
+\w (00:00:04) WARNING(SPMHA1-102): Illegal figure size.
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 120000
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 125000
+\i (00:00:04) trapsize 129179
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 122655
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (12 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "DRV0006A.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 125000
+\i (00:00:04) trapsize 129179
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 122655
+\i (00:00:04) trapsize 122655
+\t (00:00:04) Performing DRC...
+\i (00:00:04) trapsize 120000
+\i (00:00:04) trapsize 115639
+\t (00:00:05) No DRC errors detected.
+\i (00:00:05) trapsize 34937
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+\t (00:00:05) Creating Pins
+\e (00:00:05) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_TPS7A2633DRVR/AllegroV17_2/drv0006a.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:05) Symbol Created
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\i (00:00:05) trapsize 3018
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 3018
+\i (00:00:05) trapsize 3139
+\i (00:00:05) trapsize 3018
+\i (00:00:05) trapsize 3276
+\d (00:00:05) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TPS7A2633DRVR/AllegroV17_2/DRV0006A.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TPS7A2633DRVR/AllegroV17_2/DRV0006A_NV.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 18252
+\i (00:00:05) trapsize 18984
+\i (00:00:05) trapsize 18252
+\i (00:00:05) trapsize 37926
+\i (00:00:05) trapsize 37926
+\i (00:00:05) trapsize 37926
+\t (00:00:05) Performing DRC...
+\t (00:00:05) No DRC errors detected.
+   (00:00:05) *WARNING* (axlDBCreatePadStack): Figure FIG_RECTANGLE and size (0 23622)
+\w (00:00:05) WARNING(SPMHA1-102): Illegal figure size.
+\t (00:00:05) Starting new design...
+\i (00:00:06) trapsize 18252
+\i (00:00:06) trapsize 18984
+\i (00:00:06) trapsize 18252
+\i (00:00:06) trapsize 37926
+\i (00:00:06) trapsize 37926
+\i (00:00:06) trapsize 37926
+\t (00:00:06) Performing DRC...
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Opening Design "DRV0006A_NV.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 18252
+\i (00:00:06) trapsize 18984
+\i (00:00:06) trapsize 18252
+\i (00:00:06) trapsize 37926
+\i (00:00:06) trapsize 37926
+\i (00:00:06) trapsize 37926
+\t (00:00:06) Performing DRC...
+\i (00:00:06) trapsize 34937
+\t (00:00:07) No DRC errors detected.
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+\t (00:00:07) Creating Pins
+\e (00:00:07) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_TPS7A2633DRVR/AllegroV17_2/drv0006a_nv.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 3018
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 3018
+\i (00:00:07) trapsize 3139
+\i (00:00:07) trapsize 3018
+\i (00:00:07) trapsize 3276
+\d (00:00:07) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TPS7A2633DRVR/AllegroV17_2/DRV0006A_NV.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Wed Sep 14 10:20:01 2022

@@ -1,0 +1,20 @@
+\t (00:00:04) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Oct  3 14:56:11 2022
+\t (00:00:04)         Host=LENOVO-10529-P1 User=RobertLi Pid=23808 CPUs=12
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "RC0603N_YAG"
+\d (00:00:07) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_RC0603FR-07100KL/AllegroV17_2/RC0603N_YAG.dra
+\i (00:00:07) trapsize 654
+\i (00:00:07) trapsize 675
+\i (00:00:08) trapsize 654
+\i (00:00:08) trapsize 756
+\i (00:00:08) trapsize 774
+\i (00:00:14) open 
+\i (00:00:19) fillin "menu_cancel"
+\i (00:00:49) opencd E:/share_OrCAD/pcb_lib/symbols/ul_MP2276GD-P/AllegroV17_2/ECLGA-14_MPM4710.dra 
+\t (00:00:49) Opening existing design...
+\i (00:00:49) trapsize 1142
+\t (00:00:49)     Journal end - Mon Oct  3 14:56:55 2022

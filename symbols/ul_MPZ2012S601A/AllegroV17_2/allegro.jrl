@@ -1,0 +1,68 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Sep 22 13:07:47 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=12456 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 116667
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_MPZ2012S601A/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_MPZ2012S601A/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_MPZ2012S601A/AllegroV17_2/IND_MPZ2012_TDK.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 811
+\i (00:00:04) trapsize 833
+\i (00:00:04) trapsize 811
+\i (00:00:04) trapsize 936
+\i (00:00:04) trapsize 936
+\i (00:00:04) trapsize 93612
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (12 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "IND_MPZ2012_TDK.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 81081
+\i (00:00:05) trapsize 83333
+\i (00:00:05) trapsize 81081
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 97365
+\t (00:00:05) Performing DRC...
+\t (00:00:05) No DRC errors detected.
+\i (00:00:05) trapsize 21002
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 41.0)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 41.0)
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_MPZ2012S601A/AllegroV17_2/ind_mpz2012_tdk.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:05) Symbol Created
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\i (00:00:05) trapsize 606
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 696
+\i (00:00:05) trapsize 718
+\i (00:00:05) trapsize 696
+\i (00:00:05) trapsize 696
+\d (00:00:05) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_MPZ2012S601A/AllegroV17_2/IND_MPZ2012_TDK.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) scriptmode +i +n 
+\i (00:00:05) step pkg map 
+\i (00:00:07) fillin no 
+\i (00:00:07) setwindow form.pkgmap3d 
+\e (00:00:07) Can't find window; form.pkgmap3d
+\i (00:00:07) trapsize 696
+\i (00:00:09) exit 
+\e (00:00:09) Do you want to save the changes you made to IND_MPZ2012_TDK.dra?
+\i (00:00:13) fillin yes 
+\t (00:00:13) Symbol 'ind_mpz2012_tdk.psm' created.
+\t (00:00:14)     Journal end - Thu Sep 22 13:07:57 2022

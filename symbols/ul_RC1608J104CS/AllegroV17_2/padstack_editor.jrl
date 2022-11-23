@@ -1,0 +1,27 @@
+\t (00:00:00) padstack_editor 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Nov 14 15:06:55 2022
+\t (00:00:00)         Host=LENOVO-10529-P1 User=RobertLi Pid=2000 CPUs=12
+\t (00:00:00) CmdLine= padstack_editor -mpssession RobertLi -file C:/Users/RobertLi/AppData/Local/Temp/#Taaaajw11732.tmp -pname RX27P78Y31P5D0T_08-08 -data C:/Users/RobertLi/AppData/Local/Temp/#Taaaajz11732.tmp
+\t (00:00:00) 
+\d (00:00:18) QtSignal GuidedDesignLayersTab PadWidth editingFinished "0.9500"
+\d (00:00:22) QtSignal GuidedDesignLayersTab PadHeight editingFinished "1.0000"
+\d (00:00:26) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:36) QtSignal GuidedMaskLayersTab PadWidth editingFinished "1.0500"
+\d (00:00:41) QtSignal GuidedMaskLayersTab PadHeight editingFinished "1.1000"
+\d (00:00:44) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:00:44) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:00:49) QtSignal GuidedMaskLayersTab PadWidth editingFinished "0.9500"
+\d (00:00:53) QtSignal GuidedMaskLayersTab PadHeight editingFinished "1.0000"
+\d (00:00:58) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:59) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:01:00) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:00) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:04) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:07) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:14) QtSignal MainWindow SaveAs triggered
+\d (00:01:22) QtFillin "RX27P78Y31P5D0T_IPC-B.pad"
+\t (00:01:25)     Journal end - Mon Nov 14 15:08:21 2022

@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : SON65P200X200X80-7N.dra                       )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Wed Sep 21 17:02:34 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   2
+  Updated DRC errors:    2
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.

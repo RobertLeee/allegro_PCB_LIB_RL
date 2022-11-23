@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CAPC10555_55N_KEM-L.dra                       )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Wed Oct  5 15:07:10 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2
+    Name      = capc10555_55n_kem-l.psm
+    User      = RobertLi
+    Machine   = LENOVO-10529-P1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

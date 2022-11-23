@@ -1,0 +1,178 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Sep 14 10:11:30 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=18156 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 116667
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/DBV5-L.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1227
+\i (00:00:04) trapsize 1250
+\i (00:00:04) trapsize 1292
+\i (00:00:04) trapsize 1227
+\i (00:00:04) trapsize 1227
+\i (00:00:04) trapsize 1227
+\i (00:00:04) trapsize 122655
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (12 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "DBV5-L.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 122655
+\i (00:00:05) trapsize 125000
+\i (00:00:05) trapsize 129179
+\i (00:00:05) trapsize 122655
+\i (00:00:05) trapsize 122655
+\i (00:00:05) trapsize 122655
+\i (00:00:05) trapsize 122655
+\t (00:00:05) Performing DRC...
+\t (00:00:05) No DRC errors detected.
+\i (00:00:05) trapsize 30649
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 57.0)
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/dbv5-l.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:05) Symbol Created
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\i (00:00:05) trapsize 1836
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 1769
+\i (00:00:05) trapsize 1840
+\i (00:00:05) trapsize 1769
+\i (00:00:06) trapsize 3110
+\d (00:00:06) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/DBV5-L.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) scriptmode +i +n 
+\i (00:00:06) step pkg map 
+\i (00:00:07) fillin yes 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist DBV5.step 
+\i (00:00:08) FORM pkgmap3d rotation_x 0 
+\i (00:00:08) FORM pkgmap3d save_current 
+\i (00:00:08) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'dbv5-l.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/DBV5-M.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 22160
+\i (00:00:08) trapsize 23048
+\i (00:00:08) trapsize 22160
+\i (00:00:08) trapsize 47838
+\i (00:00:08) trapsize 47838
+\i (00:00:08) trapsize 47838
+\t (00:00:08) Performing DRC...
+\t (00:00:08) No DRC errors detected.
+\t (00:00:09) Opening Design "DBV5-M.dra"
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 22160
+\i (00:00:09) trapsize 23048
+\i (00:00:09) trapsize 22160
+\i (00:00:09) trapsize 51932
+\i (00:00:09) trapsize 51932
+\i (00:00:09) trapsize 51932
+\t (00:00:09) Performing DRC...
+\i (00:00:09) trapsize 47838
+\t (00:00:09) No DRC errors detected.
+\i (00:00:09) trapsize 47838
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 57.0)
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/dbv5-m.psm'.
+\t (00:00:09) Starting Create symbol...
+\t (00:00:09) Symbol Created
+\i (00:00:09) trapsize 3068
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 3068
+\i (00:00:09) trapsize 3191
+\i (00:00:09) trapsize 3068
+\i (00:00:09) trapsize 3330
+\d (00:00:09) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/DBV5-M.dra
+\t (00:00:10) Symbol Saved
+   (00:00:10) t
+\i (00:00:10) scriptmode +i +n 
+\i (00:00:10) step pkg map 
+\i (00:00:11) fillin yes 
+\i (00:00:11) setwindow form.pkgmap3d 
+\i (00:00:11) FORM pkgmap3d stplist DBV5.step 
+\i (00:00:11) FORM pkgmap3d rotation_x 0 
+\i (00:00:11) FORM pkgmap3d save_current 
+\i (00:00:11) FORM pkgmap3d done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) save 
+\i (00:00:11) fillin yes 
+\t (00:00:11) Symbol 'dbv5-m.psm' created.
+\i (00:00:11) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/DBV5.xml" ' 
+\t (00:00:11) Reading Footprint XML
+\t (00:00:11) Creating padstacks
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 22204
+\i (00:00:11) trapsize 23094
+\i (00:00:11) trapsize 22204
+\i (00:00:12) trapsize 47838
+\i (00:00:12) trapsize 47838
+\i (00:00:12) trapsize 47838
+\t (00:00:12) Performing DRC...
+\t (00:00:12) No DRC errors detected.
+\t (00:00:12) Opening Design "DBV5.dra"
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 22204
+\i (00:00:12) trapsize 23094
+\i (00:00:12) trapsize 22204
+\i (00:00:12) trapsize 51932
+\i (00:00:12) trapsize 51932
+\i (00:00:12) trapsize 51932
+\t (00:00:12) Performing DRC...
+\i (00:00:12) trapsize 47838
+\t (00:00:12) No DRC errors detected.
+\i (00:00:12) trapsize 46993
+\t (00:00:12) Creating TextBlocks
+\t (00:00:12) Creating Shapes on Package layers
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 57.0)
+\t (00:00:12) Creating Pins
+\t (00:00:12) Creating Vias
+\t (00:00:12) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/dbv5.psm'.
+\t (00:00:12) Starting Create symbol...
+\t (00:00:12) Symbol Created
+\i (00:00:12) trapsize 2978
+\t (00:00:12) Opening existing design...
+\i (00:00:12) trapsize 2978
+\i (00:00:13) trapsize 3097
+\i (00:00:13) trapsize 2978
+\i (00:00:13) trapsize 3232
+\d (00:00:13) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/DBV5.dra
+\t (00:00:13) Symbol Saved
+   (00:00:13) t
+\i (00:00:13) scriptmode +i +n 
+\i (00:00:13) step pkg map 
+\i (00:00:14) fillin yes 
+\i (00:00:14) setwindow form.pkgmap3d 
+\i (00:00:14) FORM pkgmap3d stplist DBV5.step 
+\i (00:00:14) FORM pkgmap3d rotation_x 0 
+\i (00:00:14) FORM pkgmap3d save_current 
+\i (00:00:14) FORM pkgmap3d done 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) save 
+\i (00:00:14) fillin yes 
+\t (00:00:14) Symbol 'dbv5.psm' created.
+\i (00:00:14) exit 
+\t (00:00:14)     Journal end - Wed Sep 14 10:11:41 2022

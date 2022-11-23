@@ -1,0 +1,49 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : MP4895A-BGA144.dra                            )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Sun Oct 16 22:06:28 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Oct 16 22:06:28 2022				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'E:/share_OrCAD/pcb_lib/symbols/MP4895A-BGA144.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.4/share/local/pcb/symbols 
+           c:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+           . 
+           E:/share_OrCAD/pcb_lib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.4/share/local/pcb/padstacks 
+           c:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+           E:/share_OrCAD/pcb_lib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'BGA_LLB_PAD4_1'  pad stack refresh starting.
+
+     'BGA_LLB_PAD4_1'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

@@ -1,0 +1,556 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Nov 14 11:47:46 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=11732 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\ul_RC1608J104CS\AllegroV17_2\RES_1608_SAM.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) 
+   (00:00:03) load( "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skill\cmds\\clinecut.il")
+   (00:00:03)                                                            ^^
+   (00:00:03) PARSER WARNING at line 7 column 60 of file allegro.ilinit
+   (00:00:03) *WARNING* (Parser): character found after backslash is not meaningful - '\c'
+   (00:00:03) *Error* load: can't access file - "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skillcmds\\clinecut.il"
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "RES_1608_SAM"
+\d (00:00:05) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/RES_1608_SAM.dra
+\i (00:00:06) trapsize 543
+\i (00:00:06) trapsize 557
+\i (00:00:06) trapsize 543
+\i (00:00:06) trapsize 610
+\i (00:00:06) trapsize 622
+\i (00:00:06) etchedit 
+\i (00:00:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (00:00:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Colors
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Colors
+\i (00:00:10) color192 
+\i (00:00:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Setup 2 "|" Colors
+\i (00:00:11) etchedit 
+\i (00:00:12) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:00:14) QtSignal CVDLayerTable VertHeader clickedCheckBox Top 1
+\i (00:00:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:00:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup "Design Parameters"
+\i (00:00:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup "Design Parameters"
+\i (00:00:22) prmed 
+\i (00:00:24) setwindow form.prmedit
+\i (00:00:24) FORM prmedit design  
+\i (00:00:27) FORM prmedit units Millimeter 
+   (00:00:27) Accuracy or unit changes can cause design round-off issues. DRCs and physical changes should be checked.
+\i (00:00:28) fillin confirm
+\e (00:00:28) Change may cause round-off; run dbcheck.
+\i (00:00:29) FORM prmedit apply  
+\w (00:00:29) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:29) setwindow pcb
+\i (00:00:29) trapsize 158
+\t (00:00:29) Performing DRC...
+\t (00:00:29) No DRC errors detected.
+\i (00:00:29) trapsize 163
+\i (00:00:29) trapsize 158
+\i (00:00:29) setwindow form.prmedit
+\i (00:00:29) FORM prmedit done  
+\i (00:00:29) setwindow pcb
+\i (00:00:29) etchedit 
+\i (00:00:35) param in 
+\i (00:00:36) setwindow form.parm_in
+\i (00:00:36) FORM parm_in browse  
+\i (00:00:44) fillin "E:/share_OrCAD/parameter/footprint_check_Rlv1006.prm"
+\i (00:00:45) FORM parm_in execute  
+\t (00:00:45) Starting Importing parameter file...
+\t (00:00:45) Opening existing design...
+\i (00:00:45) setwindow pcb
+\i (00:00:45) trapsize 158
+\i (00:00:45) trapsize 163
+\i (00:00:46) trapsize 158
+\i (00:00:46) trapsize 164
+\t (00:00:47) Parameter file read completed.
+\i (00:00:48) setwindow form.parm_in
+\i (00:00:48) FORM parm_in cancel  
+\i (00:00:48) setwindow pcb
+\i (00:00:48) etchedit 
+\i (00:01:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Colors
+\i (00:01:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Colors
+\i (00:01:07) color192 
+\i (00:01:07) etchedit 
+\i (00:01:09) QtSignal ColorVisibilityDialog CVDTabs currentChanged "Visibility Pane"
+\i (00:01:19) QtSignal ColorVisibilityDialog CVDTabs currentChanged Favorites
+\i (00:01:20) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:01:27) QtSignal ColorVisibilityDialog CVDTabs currentChanged "Visibility Pane"
+\i (00:01:39) QtSignal ColorVisibilityDialog CVDTabs currentChanged Favorites
+\i (00:01:39) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:01:46) QtSignal CVDSaveMenu CVDSaveColorViewAction triggered
+\i (00:01:46) colorview create 
+\i (00:01:47) etchedit 
+\i (00:01:59) setwindow form.colorview_create
+\i (00:01:59) FORM colorview_create color_browse  
+\i (00:03:13) fillin "E:/share_OrCAD/parameter/footprint_check_dimention.color"
+\i (00:03:19) FORM colorview_create save  
+\i (00:03:23) FORM colorview_create done  
+\i (00:03:37) setwindow pcb
+\i (00:03:37) enved 
+\i (00:03:37) setwindow form.prfedit
+\i (00:03:37) FORM prfedit treelist  My_favorites 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) etchedit 
+\i (00:03:41) setwindow form.prfedit
+\i (00:03:41) FORM prfedit treelist  Display 
+\i (00:03:50) FORM prfedit treelist  Interfaces 
+\i (00:03:54) FORM prfedit treelist  Interactive 
+\i (00:03:56) FORM prfedit treelist  Ic_packaging 
+\i (00:03:58) FORM prfedit treelist  File_management 
+\i (00:04:03) FORM prfedit treelist  UI 
+\i (00:04:07) FORM prfedit treelist  Color UI 
+\i (00:04:18) FORM prfedit treelist  Display 
+\i (00:04:21) FORM prfedit treelist  General Display 
+\i (00:04:23) FORM prfedit treelist  Cursor Display 
+\i (00:04:25) FORM prfedit treelist  Element Display 
+\i (00:04:25) FORM prfedit treelist  Datatips Display 
+\i (00:04:26) FORM prfedit treelist  General Display 
+\i (00:04:29) FORM prfedit treelist  Visual Display 
+\i (00:04:38) FORM prfedit cancel  
+\i (00:06:09) setwindow pcb
+\i (00:06:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Colors
+\i (00:06:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Colors
+\i (00:06:09) color192 
+\i (00:06:09) etchedit 
+\i (00:06:12) QtSignal ColorVisibilityDialog CVDTabs currentChanged "Visibility Pane"
+\i (00:06:15) QtSignal ColorVisibilityDialog CVDTabs currentChanged Favorites
+\i (00:06:17) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:06:24) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:06:48) QtSignal ColorVisibilityDialog CVDTabs currentChanged "Visibility Pane"
+\i (00:07:59) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:08:03) artwork 
+\i (00:08:13) setwindow form.film_control
+\i (00:08:13) FORM film_control general_parameters  
+\i (00:08:15) FORM film_control film_control  
+\i (00:08:19) FORM film_control filmtree  TOP 
+\i (00:08:32) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:08:46) FORM film_control filmtree  BOTTOM 
+\i (00:08:46) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:09:11) FORM film_control filmtree popup Cut'MULTISEL YES' BOTTOM 
+\i (00:09:13) FORM film_control filmtree  ETCH/TOP TOP 
+\i (00:09:13) FORM film_control filmtree  TOP 
+\i (00:09:14) FORM film_control filmtree popup 'Display for Visibility' TOP 
+\i (00:09:14) setwindow pcb
+\i (00:09:14) updateport CVPane
+\i (00:09:25) setwindow form.film_control
+\i (00:09:25) FORM film_control filmtree  'VIA CLASS/TOP' TOP 
+\i (00:09:26) FORM film_control filmtree  PIN/TOP TOP 
+\i (00:09:26) FORM film_control filmtree  ETCH/TOP TOP 
+\i (00:09:27) FORM film_control filmtree  PIN/TOP TOP 
+\i (00:09:28) FORM film_control filmtree  'VIA CLASS/TOP' TOP 
+\i (00:09:29) FORM film_control filmtree  ETCH/TOP TOP 
+\i (00:09:45) setwindow pcb
+\i (00:09:45) param in 
+\i (00:09:47) setwindow form.parm_in
+\i (00:09:47) FORM parm_in browse  
+\i (00:10:10) fillin "E:/share_OrCAD/parameter/footprint_check_dimention.color"
+\i (00:10:11) FORM parm_in execute  
+\t (00:10:11) Starting Importing parameter file...
+\e (00:10:12) ERROR(SPMHGE-268): param in had errors, use Viewlog to review the log file.
+\t (00:10:13) A problem occurred; check the logfile.
+\i (00:10:15) setwindow text
+\i (00:10:15) close
+\i (00:10:16) setwindow form.parm_in
+\i (00:10:16) FORM parm_in cancel  
+\i (00:10:16) setwindow pcb
+\i (00:10:16) etchedit 
+\i (00:10:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Colors
+\i (00:10:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Colors
+\i (00:10:22) color192 
+\i (00:10:23) etchedit 
+\i (00:10:25) trapsize 164
+\i (00:10:25) trapsize 164
+\i (00:10:33) param in 
+\i (00:10:34) setwindow form.parm_in
+\i (00:10:34) FORM parm_in browse  
+\i (00:10:42) fillin "E:/share_OrCAD/parameter/footprint_check_Rlv1006.prm"
+\i (00:10:43) FORM parm_in execute  
+\t (00:10:43) Starting Importing parameter file...
+\t (00:10:44) Opening existing design...
+\i (00:10:44) setwindow pcb
+\i (00:10:44) trapsize 164
+\i (00:10:44) trapsize 169
+\i (00:10:44) trapsize 164
+\t (00:10:44) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:10:44) trapsize 171
+\t (00:10:45) Parameter file read completed.
+\i (00:10:46) setwindow form.parm_in
+\i (00:10:46) FORM parm_in cancel  
+\i (00:10:46) setwindow pcb
+\i (00:10:46) etchedit 
+\i (00:10:56) artwork 
+\i (00:11:01) setwindow form.film_control
+\i (00:11:01) FORM film_control filmtree  TOP 
+\i (00:11:02) FORM film_control filmtree  ETCH/TOP TOP 
+\i (00:11:02) FORM film_control filmtree  PIN/TOP TOP 
+\i (00:11:03) FORM film_control filmtree  'VIA CLASS/TOP' TOP 
+\i (00:11:04) FORM film_control general_parameters  
+\i (00:11:05) FORM film_control film_control  
+\i (00:14:20) setwindow pcb
+\i (00:14:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Colors
+\i (00:14:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Colors
+\i (00:14:20) color192 
+\i (00:14:29) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:14:32) QtSignal ColorVisibilityDialog CVDTabs currentChanged Nets
+\i (00:14:32) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:14:47) QtSignal ColorVisibilityDialog CVDTabs currentChanged "Visibility Pane"
+\i (00:14:58) QtSignal Classes CVDVisibleClassSelector currentRowChanged 3
+\i (00:14:58) QtSignal Classes CVDVisibleClassSelector itemSelectionChanged Drc
+\i (00:14:58) QtSignal Classes CVDVisibleClassSelector itemClicked Drc
+\i (00:16:37) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:16:52) QtSignal ColorVisibilityDialog CVDTabs currentChanged "Visibility Pane"
+\i (00:17:07) artwork 
+\i (00:17:12) setwindow form.film_control
+\i (00:17:12) FORM film_control load  
+\i (00:17:17) fillin "menu_cancel"
+\i (00:17:20) FORM film_control general_parameters  
+\i (00:17:22) FORM film_control film_control  
+\i (00:18:56) setwindow pcb
+\i (00:18:56) colorview create 
+\i (00:19:19) setwindow form.colorview_create
+\i (00:19:19) FORM colorview_create colorview_name footprint_check_top 
+\i (00:19:19) FORM colorview_create save  
+\i (00:19:21) FORM colorview_create done  
+\i (00:19:47) setwindow pcb
+\i (00:19:47) enved 
+\i (00:19:52) setwindow form.prfedit
+\i (00:19:52) FORM prfedit treelist  Paths 
+\i (00:19:52) FORM prfedit treelist  Os 
+\i (00:19:53) FORM prfedit treelist  Paths 
+\i (00:19:57) FORM prfedit treelist  Config Paths 
+\w (00:20:44) Save pending
+\i (00:21:18) FORM prfedit next_prfs  
+\i (00:21:20) FORM prfedit viewpath  
+\i (00:21:39) fillin "E:/share_OrCAD/parameter"
+\i (00:24:25) FORM prfedit viewpath  
+\i (00:25:23) FORM prfedit apply  
+\i (00:25:24) FORM prfedit apply  
+\i (00:25:25) FORM prfedit done  
+\i (00:25:40) setwindow pcb
+\i (00:25:40) pick grid -1.5759 1.7588
+\t (00:25:40) last pick:  -1.6250 1.7500
+\i (00:25:46) setwindow form.film_control
+\i (00:25:46) FORM film_control cancel  
+\i (00:25:46) setwindow pcb
+\i (00:25:46) etchedit 
+\t (00:25:46) Performing autosave...
+\t (00:25:46) Autosave successful
+\i (00:25:48) zoom out 1 
+\i (00:25:48) setwindow pcb
+\i (00:25:48) zoom out -0.3178 -0.2070
+\i (00:25:48) trapsize 342
+\i (00:25:49) zoom in 1 
+\i (00:25:49) setwindow pcb
+\i (00:25:49) zoom in -0.2974 -0.1797
+\i (00:25:49) trapsize 171
+\i (00:25:49) zoom in 1 
+\i (00:25:49) setwindow pcb
+\i (00:25:49) zoom in -0.2974 -0.1797
+\i (00:25:49) trapsize 85
+\i (00:25:49) zoom out 1 
+\i (00:25:49) setwindow pcb
+\i (00:25:49) zoom out -0.2973 -0.1796
+\i (00:25:49) trapsize 171
+\i (00:26:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Colors
+\i (00:26:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Colors
+\i (00:26:00) color192 
+\i (00:26:00) etchedit 
+\i (00:26:02) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:26:05) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up"
+\i (00:26:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:27:56) dimension edit 
+\i (00:27:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:27:56) updateport CVPane
+\i (00:27:58) prepopup -1.1384 0.3639
+\i (00:28:01) pop dyn_option_select '@:@Linear dimension' 
+\t (00:28:01) Pick an element or point to dimension ...
+\i (00:28:02) prepopup -1.1350 0.2785
+\i (00:28:04) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:28:04) last pick:  -1.1556 0.4000
+\t (00:28:04) First point found ... pick the second point.
+\i (00:28:06) prepopup 1.1522 0.3571
+\i (00:28:08) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:28:08) last pick:  1.1556 0.4000
+\t (00:28:08) Pick location for the dimension value.
+\i (00:28:14) pick grid -0.0444 1.2562
+\t (00:28:14) last pick:  0.0000 1.2500
+\t (00:28:14) Pick an element or point to dimension ...
+\i (00:28:16) prepopup -0.4478 0.3844
+\i (00:28:22) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:28:22) last pick:  -0.4500 0.4000
+\t (00:28:22) Pick an element or point to dimension ...
+\t (00:28:23) First point found ... pick the second point.
+\i (00:28:24) prepopup 0.4547 0.3708
+\i (00:28:28) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:28:28) last pick:  0.4500 0.4000
+\t (00:28:28) Pick location for the dimension value.
+\i (00:28:30) pick grid 0.0616 0.8733
+\t (00:28:30) last pick:  0.0000 0.8750
+\t (00:28:30) Pick an element or point to dimension ...
+\i (00:28:33) prepopup -1.1213 0.3742
+\i (00:28:35) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:28:35) last pick:  -1.1556 0.4000
+\t (00:28:35) Pick an element or point to dimension ...
+\t (00:28:35) First point found ... pick the second point.
+\i (00:28:37) prepopup -1.1213 -0.3916
+\i (00:28:39) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:28:39) last pick:  -1.1556 -0.4000
+\t (00:28:39) Pick location for the dimension value.
+\i (00:28:46) pick grid -1.5726 -0.2720
+\t (00:28:46) last pick:  -1.6250 -0.2500
+\t (00:28:46) Pick an element or point to dimension ...
+\i (00:28:48) prepopup -1.7196 -0.0395
+\i (00:28:49) oops 
+\t (00:28:49) last pick:  -1.1556 -0.4000
+\t (00:28:49) Pick location for the dimension value.
+\i (00:28:51) pick grid -1.5897 -0.0292
+\t (00:28:51) last pick:  -1.6250 0.0000
+\t (00:28:51) Pick an element or point to dimension ...
+\i (00:28:54) prepopup -0.7623 1.6733
+\i (00:28:55) done 
+\i (00:28:55) etchedit 
+\i (00:29:44) padeditdb 
+\i (00:29:54) setwindow form.mini
+\i (00:29:54) FORM mini padlist RX27P78Y31P5D0T 
+\i (00:29:54) FORMDBLCLK mini padlist RX27P78Y31P5D0T 
+\i (00:31:29) setwindow pcb
+\i (00:31:29) replace padstack 
+\i (00:31:30) setwindow form.mini
+\i (00:31:30) FORM mini oldname_browse  
+\i (00:31:32) fillin "Rx27p78y31p5d0t"
+\i (00:31:33) FORM mini newname_browse  
+\i (00:31:44) fillin "Rx27p78y31p5d0t_08-08"
+\i (00:31:45) FORM mini replace  
+\t (00:31:45) Done, updated padstack.
+\t (00:31:45) 2 out of 2 old padstack RX27P78Y31P5D0T were replaced with new padstack RX27P78Y31P5D0T_08-08.
+\i (00:31:56) setwindow pcb
+\i (00:31:56) prepopup -0.5333 1.6699
+\i (00:31:57) done 
+\t (00:31:57) Performing DRC...
+\t (00:31:57) No DRC errors detected.
+\i (00:31:57) etchedit 
+\i (00:32:00) dimension edit 
+\i (00:32:01) prepopup -0.4717 1.7383
+\i (00:32:12) pop dyn_option_select '@:@Delete dimensions' 
+\i (00:32:14) pick grid 0.1300 1.2836
+\t (00:32:14) last pick:  0.1250 1.2500
+\i (00:32:16) pick grid 0.0889 0.8767
+\t (00:32:16) last pick:  0.1250 0.8750
+\i (00:32:22) prepopup -0.5435 1.4067
+\i (00:32:23) done 
+\i (00:32:23) etchedit 
+\i (00:32:23) prepopup -0.6051 1.5742
+\i (00:32:25) dimension edit 
+\i (00:32:26) prepopup -0.7794 1.7143
+\i (00:32:27) pop dyn_option_select '@:@Linear dimension' 
+\t (00:32:27) Pick an element or point to dimension ...
+\i (00:32:29) prepopup -1.1931 0.2716
+\i (00:32:32) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:32:32) last pick:  -1.2028 0.4000
+\t (00:32:32) First point found ... pick the second point.
+\i (00:32:34) prepopup 1.1966 0.3537
+\i (00:32:38) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:32:38) last pick:  1.2028 0.4000
+\t (00:32:38) Pick location for the dimension value.
+\i (00:32:43) pick grid -0.0410 1.4511
+\t (00:32:43) last pick:  0.0000 1.5000
+\t (00:32:43) Pick an element or point to dimension ...
+\i (00:32:44) prepopup -0.3965 0.3400
+\i (00:32:48) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:32:48) last pick:  -0.4028 0.4000
+\t (00:32:48) Pick an element or point to dimension ...
+\t (00:32:48) First point found ... pick the second point.
+\i (00:32:51) prepopup 0.4206 0.3537
+\i (00:32:53) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:32:53) last pick:  0.4028 0.4000
+\t (00:32:53) Pick location for the dimension value.
+\i (00:32:56) pick grid -0.0478 0.9622
+\t (00:32:56) last pick:  0.0000 1.0000
+\t (00:32:56) Pick an element or point to dimension ...
+\i (00:32:57) prepopup 0.6325 1.1126
+\i (00:32:58) done 
+\i (00:32:58) etchedit 
+\i (00:32:59) zoom out 1 
+\i (00:32:59) setwindow pcb
+\i (00:32:59) zoom out 0.4171 0.6819
+\i (00:32:59) trapsize 342
+\i (00:32:59) zoom out 1 
+\i (00:32:59) setwindow pcb
+\i (00:32:59) zoom out 0.4172 0.6818
+\i (00:32:59) trapsize 684
+\i (00:33:00) zoom in 1 
+\i (00:33:00) setwindow pcb
+\i (00:33:00) zoom in 0.4172 0.6819
+\i (00:33:00) trapsize 342
+\i (00:33:00) zoom in 1 
+\i (00:33:00) setwindow pcb
+\i (00:33:00) zoom in 0.4172 0.6819
+\i (00:33:00) trapsize 171
+\i (00:33:12) save_as 
+\i (00:33:48) fillin "RES_1608_SAM_G_V1001.dra"
+\t (00:33:48) Symbol 'res_1608_sam_g_v1001.psm' created.
+\i (00:33:48) etchedit 
+\i (03:19:02) padeditdb 
+\i (03:19:12) setwindow form.mini
+\i (03:19:12) FORM mini padlist RX27P78Y31P5D0T_08-08 
+\i (03:19:12) FORMDBLCLK mini padlist RX27P78Y31P5D0T_08-08 
+\i (03:20:48) setwindow pcb
+\i (03:20:48) replace padstack 
+\i (03:20:49) setwindow form.mini
+\i (03:20:49) FORM mini oldname_browse  
+\i (03:20:51) fillin "Rx27p78y31p5d0t_08-08"
+\i (03:20:52) FORM mini newname_browse  
+\i (03:21:03) fillin "Rx27p78y31p5d0t_Ipc-b"
+\i (03:21:05) FORM mini replace  
+\t (03:21:05) Done, updated padstack.
+\t (03:21:05) 2 out of 2 old padstack RX27P78Y31P5D0T_08-08 were replaced with new padstack RX27P78Y31P5D0T_IPC-B.
+\i (03:21:12) setwindow pcb
+\i (03:21:12) prepopup -0.7520 1.9572
+\i (03:21:13) done 
+\t (03:21:13) Performing DRC...
+\t (03:21:13) No DRC errors detected.
+\i (03:21:13) etchedit 
+\i (03:21:14) dimension edit 
+\i (03:21:15) prepopup -0.7520 1.8785
+\i (03:21:16) pick grid -1.3127 1.8067
+\t (03:21:16) last pick:  -1.3750 1.7500
+\w (03:21:16) WARNING(SPMHDI-55): No dimension found.
+\i (03:21:18) dimension edit 
+\i (03:21:18) prepopup -0.8306 1.8614
+\i (03:21:20) pop dyn_option_select '@:@Linear dimension' 
+\t (03:21:20) Pick an element or point to dimension ...
+\i (03:21:22) prepopup -0.8375 1.8614
+\i (03:21:24) pop dyn_option_select '@:@Delete dimensions' 
+\i (03:21:25) pick grid 0.0993 1.6803
+\t (03:21:25) last pick:  0.1250 1.6250
+\i (03:21:26) pick grid 0.0378 1.0649
+\t (03:21:26) last pick:  0.0000 1.1250
+\i (03:21:27) pick grid -1.6203 0.0974
+\t (03:21:27) last pick:  -1.6250 0.1250
+\i (03:21:29) prepopup -0.3759 1.5025
+\i (03:21:30) done 
+\i (03:21:30) etchedit 
+\i (03:21:30) prepopup -0.3725 1.6563
+\i (03:21:32) dimension edit 
+\t (03:21:32) Pick an element or point to dimension ...
+\i (03:21:32) prepopup -0.4511 1.7555
+\i (03:21:34) pick grid -0.9263 1.0615
+\t (03:21:34) last pick:  -0.8750 1.0000
+\t (03:21:34) First point found ... pick the second point.
+\w (03:21:34) WARNING(SPMHDI-89): Dimension point at (-0.8750, 1.0000) is not being associated with an object.
+\i (03:21:35) prepopup -0.5434 0.9657
+\i (03:21:38) oops 
+\t (03:21:38) Pick an element or point to dimension ...
+\i (03:21:39) prepopup -1.2682 0.4598
+\i (03:21:43) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (03:21:43) last pick:  -1.2778 0.5000
+\t (03:21:43) First point found ... pick the second point.
+\i (03:21:44) prepopup 1.2548 0.4632
+\i (03:21:47) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (03:21:47) last pick:  1.2778 0.5000
+\t (03:21:47) Pick location for the dimension value.
+\i (03:21:50) pick grid 0.0138 1.4375
+\t (03:21:50) last pick:  0.0000 1.5000
+\t (03:21:50) Pick an element or point to dimension ...
+\i (03:21:52) prepopup -0.3452 0.4666
+\i (03:21:54) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (03:21:54) last pick:  -0.3278 0.5000
+\t (03:21:54) Pick an element or point to dimension ...
+\t (03:21:54) First point found ... pick the second point.
+\i (03:21:56) prepopup 0.3420 0.4632
+\i (03:21:58) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (03:21:58) last pick:  0.3278 0.5000
+\t (03:21:58) Pick location for the dimension value.
+\i (03:22:00) pick grid 0.0001 1.0649
+\t (03:22:00) last pick:  0.0000 1.1250
+\t (03:22:00) Pick an element or point to dimension ...
+\i (03:22:03) prepopup -1.2648 0.4768
+\i (03:22:06) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (03:22:06) last pick:  -1.2778 0.5000
+\t (03:22:06) Pick an element or point to dimension ...
+\t (03:22:06) First point found ... pick the second point.
+\i (03:22:08) prepopup -1.2580 -0.4633
+\i (03:22:11) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (03:22:11) last pick:  -1.2778 -0.5000
+\t (03:22:11) Pick location for the dimension value.
+\i (03:22:14) pick grid -1.6853 0.0222
+\t (03:22:14) last pick:  -1.6250 0.0000
+\t (03:22:14) Pick an element or point to dimension ...
+\i (03:22:16) prepopup -0.9229 0.9008
+\i (03:22:17) done 
+\i (03:22:17) etchedit 
+\i (03:22:20) save_as 
+\i (03:22:44) fillin "E:/share_OrCAD/pcb_lib/symbols/RES_1608_SAM_IPC-B_V1001.dra"
+\i (03:22:44) cd "E:/share_OrCAD/pcb_lib/symbols"
+\t (03:22:45) Symbol 'res_1608_sam_ipc-b_v1001.psm' created.
+\i (03:22:45) etchedit 
+\i (03:23:17) padeditdb 
+\i (03:23:18) setwindow form.mini
+\i (03:23:18) FORM mini padlist RX27P78Y31P5D0T_IPC-B 
+\i (03:23:18) FORMDBLCLK mini padlist RX27P78Y31P5D0T_IPC-B 
+\i (04:46:37) setwindow pcb
+\i (04:46:37) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Colors
+\i (04:46:37) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Colors
+\i (04:46:37) color192 
+\i (04:46:39) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (04:46:41) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (04:46:43) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (04:46:44) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox RefDes 0
+\i (04:46:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 1
+\i (04:46:46) zoom out 1 
+\i (04:46:46) setwindow pcb
+\i (04:46:46) zoom out -0.2255 0.6341
+\i (04:46:46) trapsize 342
+\i (04:46:48) pick grid -2.1468 1.6871
+\t (04:46:48) last pick:  -2.1250 1.6250
+\i (04:46:50) delete 
+\i (04:46:51) setwindow form.find
+\i (04:46:51) FORM find all_off  
+\i (04:46:51) FORM find all_off  
+\i (04:46:52) FORM find text YES 
+\i (04:46:53) setwindow pcb
+\i (04:46:53) drag_start grid -2.4682 1.4751
+\i (04:46:54) drag_stop 2.7693 -1.1026
+\i (04:46:55) pick grid -0.2665 0.2991
+\t (04:46:55) last pick:  -0.2500 0.2500
+\i (04:46:55) prepopup -0.1708 0.2991
+\i (04:46:56) done 
+\i (04:46:56) etchedit 
+\i (04:47:01) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (04:47:02) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (04:47:04) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Silkscreen_Top" RefDes 1
+\i (04:47:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 1
+\i (04:47:04) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (04:47:10) change 
+\i (04:47:15) setwindow form.mini
+\i (04:47:15) FORM mini change_subclass SILKSCREEN_TOP 
+\i (04:47:18) setwindow pcb
+\i (04:47:18) pick grid 0.1574 0.6341
+\t (04:47:18) last pick:  0.1250 0.6250
+\t (04:47:18) No DRC errors detected.
+\t (04:47:18) Changed 1 items out of 1 items found.
+\i (04:47:22) setwindow form.mini
+\i (04:47:22) FORM mini apply_subclass NO 
+\i (04:47:23) FORM mini change_subcolor 0 
+\i (04:47:23) setwindow pcb
+\i (04:47:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (04:47:24) updateport CVPane
+\i (04:47:26) setwindow form.mini
+\i (04:47:26) FORM mini change_subclass ASSEMBLY_TOP 
+\i (04:47:27) FORM mini change_subcolor 1 
+\i (04:47:27) setwindow pcb
+\i (04:47:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (04:47:27) updateport CVPane
+\i (04:47:30) pick grid -1.0597 0.5316
+\t (04:47:30) last pick:  -1.0000 0.5000
+\t (04:47:30) No DRC errors detected.
+\t (04:47:30) Changed 1 items out of 1 items found.
+\i (04:47:31) prepopup 0.3694 2.0905
+\i (04:47:32) done 
+\i (04:47:32) etchedit 
+\i (04:47:35) save 
+\i (04:47:39) fillin yes 
+\t (04:47:39) Symbol 'res_1608_sam_ipc-b_v1001.psm' created.
+\i (04:47:39) etchedit 
+\i (04:47:41) exit 
+\t (04:47:41)     Journal end - Mon Nov 14 16:35:24 2022

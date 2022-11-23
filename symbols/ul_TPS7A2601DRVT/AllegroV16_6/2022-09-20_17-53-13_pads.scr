@@ -1,0 +1,155 @@
+# Allegro Script file created by :
+# Ultra Librarian Gold 8.3.307 Copyright © 1999-2021 EMA Design Automation
+# http://www.UltraLibrarian.com
+ 
+# Registered to :
+# Frank Frank
+# 
+ 
+# Original file name : 
+ 
+Version 13.6
+
+setwindow Form.padedit
+
+######################## New PadStack #########################
+pse_new
+fillin "R10120180000000A.pad"
+
+FORM padedit units Mils
+FORM padedit decimal_places 4
+
+FORM padedit layers
+FORM padedit grid row 1
+FORM padedit geometry Rectangle
+FORM padedit width 11.811
+FORM padedit height 17.7165
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 4
+FORM padedit geometry Rectangle
+FORM padedit width 11.811
+FORM padedit height 17.7165
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit grid row 6
+FORM padedit geometry Rectangle
+FORM padedit width 11.811
+FORM padedit height 17.7165
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit parameters
+FORM padedit single YES
+FORM padedit plating Non-Plated
+pse_save_as
+fillin "R10120180000000A.pad"
+
+######################## New PadStack #########################
+pse_new
+fillin "R10390630000020A.pad"
+
+FORM padedit units Mils
+FORM padedit decimal_places 4
+
+FORM padedit layers
+FORM padedit grid row 1
+FORM padedit geometry Rectangle
+FORM padedit width 39.3701
+FORM padedit height 62.9921
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 4
+FORM padedit geometry Rectangle
+FORM padedit width 39.3701
+FORM padedit height 62.9921
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit grid row 6
+FORM padedit geometry Rectangle
+FORM padedit width .0001
+FORM padedit height 23.6221
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit parameters
+FORM padedit single YES
+FORM padedit plating Non-Plated
+pse_save_as
+fillin "R10390630000020A.pad"
+FORM padedit single NO
+
+######################## New PadStack #########################
+pse_new
+fillin "V10200200080000A.pad"
+
+FORM padedit units Mils
+FORM padedit decimal_places 4
+
+FORM padedit layers
+FORM padedit grid row 1
+FORM padedit geometry Circle
+FORM padedit width 19.685
+FORM padedit height 19.685
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 4
+FORM padedit geometry Circle
+FORM padedit width 19.685
+FORM padedit height 19.685
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit grid row 3
+FORM padedit geometry Circle
+FORM padedit width 19.685
+FORM padedit height 19.685
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 5
+FORM padedit geometry Circle
+FORM padedit width 19.685
+FORM padedit height 19.685
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit grid row 2
+FORM padedit geometry Circle
+FORM padedit width 19.685
+FORM padedit height 19.685
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit grid row 2
+FORM padedit geometry_th Flash
+FORM padedit width_th 28
+FORM padedit height_th 28
+FORM padedit x_offset_th 0
+FORM padedit y_offset_th 0
+FORM padedit flashbutton_th
+fillin ths18x28x45x10
+FORM padedit grid row 2
+FORM padedit grid row 2
+FORM padedit geometry_ant Circle
+FORM padedit width_ant 28
+FORM padedit height_ant 28
+FORM padedit x_offset_ant 0
+FORM padedit y_offset_ant 0
+FORM padedit grid row 6
+FORM padedit geometry Null
+FORM padedit grid row 7
+FORM padedit geometry Null
+FORM padedit parameters
+FORM padedit through_hole YES
+FORM padedit hole_size_y 8
+FORM padedit hole_size_x 8
+FORM padedit drill_fig Triangle
+FORM padedit characters H
+FORM padedit drill_width 50
+FORM padedit drill_height 50
+FORM padedit plating Plated
+pse_save_as
+fillin "V10200200080000A.pad"
+pse_exit
+FORM padedit done
+ 
+# end of padstack script

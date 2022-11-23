@@ -1,0 +1,149 @@
+# Allegro Script file created by :
+# Ultra Librarian Gold 8.3.307 Copyright © 1999-2021 EMA Design Automation
+# http://www.UltraLibrarian.com
+ 
+# Registered to :
+# Frank Frank
+# 
+ 
+# Original file name : 
+ 
+Version 13.6
+
+setwindow Form.padedit
+
+######################## New PadStack #########################
+pse_new
+fillin "RX32Y10D0T.pad"
+
+FORM padedit units Mils
+FORM padedit decimal_places 4
+
+FORM padedit layers
+FORM padedit grid row 1
+FORM padedit geometry Rectangle
+FORM padedit width 32
+FORM padedit height 10
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 6
+FORM padedit geometry Rectangle
+FORM padedit width 32
+FORM padedit height 10
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit grid row 4
+FORM padedit geometry Rectangle
+FORM padedit width 32
+FORM padedit height 10
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit parameters
+FORM padedit single YES
+FORM padedit plating Non-Plated
+pse_save_as
+fillin "RX32Y10D0T.pad"
+
+######################## New PadStack #########################
+pse_new
+fillin "RX148Y175D0T.pad"
+
+FORM padedit units Mils
+FORM padedit decimal_places 4
+
+FORM padedit layers
+FORM padedit grid row 1
+FORM padedit geometry Rectangle
+FORM padedit width 148
+FORM padedit height 175
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 6
+FORM padedit geometry Rectangle
+FORM padedit width 148
+FORM padedit height 175
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit grid row 4
+FORM padedit geometry Rectangle
+FORM padedit width 148
+FORM padedit height 175
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit parameters
+FORM padedit single YES
+FORM padedit plating Non-Plated
+pse_save_as
+fillin "RX148Y175D0T.pad"
+
+######################## New PadStack #########################
+pse_new
+fillin "RX28Y10D0T.pad"
+
+FORM padedit units Mils
+FORM padedit decimal_places 4
+
+FORM padedit layers
+FORM padedit grid row 1
+FORM padedit geometry Rectangle
+FORM padedit width 28
+FORM padedit height 10
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 6
+FORM padedit geometry Rectangle
+FORM padedit width 28
+FORM padedit height 10
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit grid row 4
+FORM padedit geometry Rectangle
+FORM padedit width 28
+FORM padedit height 10
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit parameters
+FORM padedit single YES
+FORM padedit plating Non-Plated
+pse_save_as
+fillin "RX28Y10D0T.pad"
+
+######################## New PadStack #########################
+pse_new
+fillin "RX36Y10D0T.pad"
+
+FORM padedit units Mils
+FORM padedit decimal_places 4
+
+FORM padedit layers
+FORM padedit grid row 1
+FORM padedit geometry Rectangle
+FORM padedit width 36
+FORM padedit height 10
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 6
+FORM padedit geometry Rectangle
+FORM padedit width 36
+FORM padedit height 10
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit grid row 4
+FORM padedit geometry Rectangle
+FORM padedit width 36
+FORM padedit height 10
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit parameters
+FORM padedit single YES
+FORM padedit plating Non-Plated
+pse_save_as
+fillin "RX36Y10D0T.pad"
+pse_exit
+FORM padedit done
+ 
+# end of padstack script

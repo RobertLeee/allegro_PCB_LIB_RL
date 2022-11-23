@@ -1,0 +1,17 @@
+\t (00:00:00) padstack_editor 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Nov 14 12:17:37 2022
+\t (00:00:00)         Host=LENOVO-10529-P1 User=RobertLi Pid=22200 CPUs=12
+\t (00:00:00) CmdLine= padstack_editor -mpssession RobertLi -file C:/Users/RobertLi/AppData/Local/Temp/#Taaaajg11732.tmp -pname RX27P78Y31P5D0T -data C:/Users/RobertLi/AppData/Local/Temp/#Taaaajj11732.tmp
+\t (00:00:00) 
+\d (00:00:12) QtSignal GuidedDesignLayersTab PadWidth editingFinished "0.8000"
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:28) QtSignal GuidedMaskLayersTab PadWidth editingFinished "0.9000"
+\d (00:00:33) QtSignal GuidedMaskLayersTab PadHeight editingFinished "0.9000"
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:00:42) QtSignal GuidedMaskLayersTab PadWidth editingFinished "0.8000"
+\d (00:00:44) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:44) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:00:54) QtSignal MainWindow SaveAs triggered
+\d (00:01:09) QtFillin "RX27P78Y31P5D0T_08-08.pad"
+\t (00:01:24)     Journal end - Mon Nov 14 12:19:01 2022

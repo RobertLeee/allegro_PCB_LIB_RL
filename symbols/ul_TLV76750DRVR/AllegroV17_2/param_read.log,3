@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : DRV0006A-IPC_A.dra                            )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Fri Oct  7 15:28:32 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : E:/share_OrCAD/parameter/footprint_design_para_RLv1002.prm
+	Layout Name   : E:/share_OrCAD/pcb_lib/symbols/ul_TLV76750DRVR/AllegroV17_2/DRV0006A-IPC_A.dra
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+Reading...ifp_parm_type:
+Reading...ministat_parm_type:
+Reading...ats_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

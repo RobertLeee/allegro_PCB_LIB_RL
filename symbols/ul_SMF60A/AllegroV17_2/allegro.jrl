@@ -1,0 +1,188 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Sep 26 09:39:55 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=19284 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\e (00:00:03) Retrieval of 'OrCAD_PCB_Editor_Basics' license failed: ''. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:07) fillin confirm
+\i (00:00:34) fillin OrCAD_PCB_Editor_Basics
+\t (00:00:34) Starting new design...
+\i (00:00:35) trapsize 116667
+\i (00:00:35) replay builder.scr.txt 
+\i (00:00:35) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_SMF60A/AllegroV17_2/builder.ile" ' 
+   (00:00:35) t
+\i (00:00:35) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_SMF60A/AllegroV17_2" ' 
+   (00:00:35) t
+\i (00:00:35) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_SMF60A/AllegroV17_2/SMF60A_LTF-L.xml" ' 
+\t (00:00:35) Reading Footprint XML
+\t (00:00:35) Creating padstacks
+\t (00:00:35) Starting new design...
+\i (00:00:35) trapsize 1026
+\i (00:00:35) trapsize 1063
+\i (00:00:35) trapsize 1063
+\i (00:00:35) trapsize 1063
+\i (00:00:35) trapsize 106275
+\t (00:00:35) Performing DRC...
+\t (00:00:35) Multithreaded DRC update (12 threads).
+\t (00:00:35) No DRC errors detected.
+\t (00:00:35) Opening Design "SMF60A_LTF-L.dra"
+\t (00:00:35) Starting new design...
+\i (00:00:35) trapsize 102639
+\i (00:00:35) trapsize 106275
+\i (00:00:35) trapsize 104294
+\i (00:00:35) trapsize 102639
+\i (00:00:35) trapsize 102639
+\i (00:00:35) trapsize 102639
+\i (00:00:35) trapsize 102639
+\t (00:00:35) Performing DRC...
+\t (00:00:35) No DRC errors detected.
+\i (00:00:35) trapsize 24012
+\t (00:00:35) Creating TextBlocks
+\t (00:00:35) Creating Shapes on Package layers
+   (00:00:35) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+   (00:00:35) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+   (00:00:35) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+   (00:00:35) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+\t (00:00:35) Creating Pins
+\t (00:00:35) Creating Vias
+\t (00:00:35) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_SMF60A/AllegroV17_2/smf60a_ltf-l.psm'.
+\t (00:00:35) Starting Create symbol...
+\t (00:00:36) Symbol Created
+   (00:00:36) Loading cmds.cxt 
+   (00:00:36) Loading skillExt.cxt 
+\i (00:00:36) trapsize 995
+\i (00:00:36) trapsize 1011
+\t (00:00:36) Opening existing design...
+\i (00:00:36) trapsize 1011
+\i (00:00:36) trapsize 1048
+\i (00:00:36) trapsize 1011
+\i (00:00:36) trapsize 1053
+\d (00:00:37) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_SMF60A/AllegroV17_2/SMF60A_LTF-L.dra
+\t (00:00:37) Symbol Saved
+   (00:00:37) t
+\i (00:00:37) scriptmode +i +n 
+\i (00:00:37) step pkg map 
+\i (00:00:38) fillin yes 
+\i (00:00:38) setwindow form.pkgmap3d 
+\i (00:00:38) FORM pkgmap3d stplist SMF60A_LTF.step 
+\i (00:00:39) FORM pkgmap3d rotation_x 0 
+\i (00:00:39) FORM pkgmap3d save_current 
+\i (00:00:39) FORM pkgmap3d done 
+\i (00:00:39) setwindow pcb 
+\i (00:00:39) save 
+\i (00:00:39) fillin yes 
+\t (00:00:39) Symbol 'smf60a_ltf-l.psm' created.
+\i (00:00:39) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_SMF60A/AllegroV17_2/SMF60A_LTF-M.xml" ' 
+\t (00:00:39) Reading Footprint XML
+\t (00:00:39) Creating padstacks
+\t (00:00:39) Starting new design...
+\i (00:00:39) trapsize 19891
+\i (00:00:39) trapsize 20608
+\i (00:00:39) trapsize 19891
+\i (00:00:39) trapsize 24012
+\i (00:00:39) trapsize 24012
+\i (00:00:39) trapsize 24012
+\t (00:00:39) Performing DRC...
+\t (00:00:39) No DRC errors detected.
+\t (00:00:39) Opening Design "SMF60A_LTF-M.dra"
+\t (00:00:39) Starting new design...
+\i (00:00:39) trapsize 19891
+\i (00:00:39) trapsize 20608
+\i (00:00:39) trapsize 19891
+\i (00:00:39) trapsize 24012
+\i (00:00:39) trapsize 24012
+\i (00:00:39) trapsize 24012
+\t (00:00:39) Performing DRC...
+\t (00:00:40) No DRC errors detected.
+\i (00:00:40) trapsize 24047
+\t (00:00:40) Creating TextBlocks
+\t (00:00:40) Creating Shapes on Package layers
+   (00:00:40) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+   (00:00:40) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+   (00:00:40) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+   (00:00:40) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+\t (00:00:40) Creating Pins
+\t (00:00:40) Creating Vias
+\t (00:00:40) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_SMF60A/AllegroV17_2/smf60a_ltf-m.psm'.
+\t (00:00:40) Starting Create symbol...
+\t (00:00:40) Symbol Created
+\i (00:00:40) trapsize 1153
+\t (00:00:40) Opening existing design...
+\i (00:00:40) trapsize 1153
+\i (00:00:40) trapsize 1195
+\i (00:00:40) trapsize 1153
+\i (00:00:40) trapsize 1201
+\d (00:00:40) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_SMF60A/AllegroV17_2/SMF60A_LTF-M.dra
+\t (00:00:40) Symbol Saved
+   (00:00:40) t
+\i (00:00:40) scriptmode +i +n 
+\i (00:00:40) step pkg map 
+\i (00:00:41) fillin yes 
+\i (00:00:41) setwindow form.pkgmap3d 
+\i (00:00:41) FORM pkgmap3d stplist SMF60A_LTF.step 
+\i (00:00:41) FORM pkgmap3d rotation_x 0 
+\i (00:00:41) FORM pkgmap3d save_current 
+\i (00:00:41) FORM pkgmap3d done 
+\i (00:00:42) setwindow pcb 
+\i (00:00:42) save 
+\i (00:00:42) fillin yes 
+\t (00:00:42) Symbol 'smf60a_ltf-m.psm' created.
+\i (00:00:42) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_SMF60A/AllegroV17_2/SMF60A_LTF.xml" ' 
+\t (00:00:42) Reading Footprint XML
+\t (00:00:42) Creating padstacks
+\t (00:00:42) Starting new design...
+\i (00:00:42) trapsize 19891
+\i (00:00:42) trapsize 20608
+\i (00:00:42) trapsize 19891
+\i (00:00:42) trapsize 24047
+\i (00:00:42) trapsize 24047
+\i (00:00:42) trapsize 24047
+\t (00:00:42) Performing DRC...
+\t (00:00:42) No DRC errors detected.
+\t (00:00:42) Opening Design "SMF60A_LTF.dra"
+\t (00:00:42) Starting new design...
+\i (00:00:42) trapsize 19891
+\i (00:00:43) trapsize 20608
+\i (00:00:43) trapsize 19891
+\i (00:00:43) trapsize 24047
+\i (00:00:43) trapsize 24047
+\i (00:00:43) trapsize 24047
+\t (00:00:43) Performing DRC...
+\i (00:00:43) trapsize 23096
+\t (00:00:43) No DRC errors detected.
+\i (00:00:43) trapsize 23079
+\t (00:00:43) Creating TextBlocks
+\t (00:00:43) Creating Shapes on Package layers
+   (00:00:43) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+   (00:00:43) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+   (00:00:43) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+   (00:00:43) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 43.0)
+\t (00:00:43) Creating Pins
+\t (00:00:43) Creating Vias
+\t (00:00:43) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_SMF60A/AllegroV17_2/smf60a_ltf.psm'.
+\t (00:00:43) Starting Create symbol...
+\t (00:00:43) Symbol Created
+\i (00:00:43) trapsize 1064
+\t (00:00:43) Opening existing design...
+\i (00:00:43) trapsize 1064
+\i (00:00:43) trapsize 1102
+\i (00:00:43) trapsize 1064
+\i (00:00:43) trapsize 1107
+\d (00:00:43) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_SMF60A/AllegroV17_2/SMF60A_LTF.dra
+\t (00:00:44) Symbol Saved
+   (00:00:44) t
+\i (00:00:44) scriptmode +i +n 
+\i (00:00:44) step pkg map 
+\i (00:00:44) fillin yes 
+\i (00:00:45) setwindow form.pkgmap3d 
+\i (00:00:45) FORM pkgmap3d stplist SMF60A_LTF.step 
+\i (00:00:45) FORM pkgmap3d rotation_x 0 
+\i (00:00:45) FORM pkgmap3d save_current 
+\i (00:00:45) FORM pkgmap3d done 
+\i (00:00:45) setwindow pcb 
+\i (00:00:45) save 
+\i (00:00:45) fillin yes 
+\t (00:00:45) Symbol 'smf60a_ltf.psm' created.
+\i (00:00:45) exit 
+\t (00:00:45)     Journal end - Mon Sep 26 09:40:37 2022

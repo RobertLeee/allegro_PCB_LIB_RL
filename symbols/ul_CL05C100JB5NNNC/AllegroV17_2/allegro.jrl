@@ -1,0 +1,87 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Nov 14 14:03:38 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=27520 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\ul_CL05C100JB5NNNC\AllegroV17_2\CAP_CL05_SAM.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) 
+   (00:00:03) load( "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skill\cmds\\clinecut.il")
+   (00:00:03)                                                            ^^
+   (00:00:03) PARSER WARNING at line 7 column 60 of file allegro.ilinit
+   (00:00:03) *WARNING* (Parser): character found after backslash is not meaningful - '\c'
+   (00:00:03) *Error* load: can't access file - "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skillcmds\\clinecut.il"
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "CAP_CL05_SAM"
+\d (00:00:03) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_CL05C100JB5NNNC/AllegroV17_2/CAP_CL05_SAM.dra
+\i (00:00:04) trapsize 543
+\i (00:00:04) trapsize 557
+\i (00:00:04) trapsize 543
+\i (00:00:04) trapsize 610
+\i (00:00:04) trapsize 659
+\i (00:00:04) etchedit 
+\i (00:00:10) param in 
+\i (00:00:12) setwindow form.parm_in
+\i (00:00:12) FORM parm_in browse  
+\i (00:00:21) fillin "E:/share_OrCAD/parameter/footprint_check_Rlv1006.prm"
+\i (00:00:23) FORM parm_in execute  
+\t (00:00:23) Starting Importing parameter file...
+\t (00:00:23) Opening existing design...
+\i (00:00:23) setwindow pcb
+\i (00:00:23) trapsize 659
+\i (00:00:23) trapsize 678
+\i (00:00:23) trapsize 659
+\i (00:00:24) trapsize 685
+\t (00:00:25) Parameter file read completed.
+\i (00:00:27) setwindow form.parm_in
+\i (00:00:27) FORM parm_in cancel  
+\i (00:00:27) setwindow pcb
+\i (00:00:27) etchedit 
+\i (00:00:39) dimension edit 
+\i (00:00:40) updateport CVPane
+\i (00:00:40) prepopup -18.764 49.427
+\i (00:00:41) pop dyn_option_select '@:@Linear dimension' 
+\t (00:00:41) Pick an element or point to dimension ...
+\i (00:00:43) prepopup -32.600 7.510
+\i (00:00:45) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:00:45) last pick:  -33.685 9.842
+\t (00:00:45) First point found ... pick the second point.
+\i (00:00:47) prepopup 32.878 8.195
+\i (00:00:51) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:00:51) last pick:  33.685 9.842
+\t (00:00:51) Pick location for the dimension value.
+\i (00:00:54) pick grid 2.057 36.961
+\t (00:00:54) last pick:  0.000 39.368
+\t (00:00:54) Pick an element or point to dimension ...
+\i (00:00:56) prepopup -10.135 9.702
+\i (00:00:59) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:00:59) last pick:  -9.843 9.842
+\t (00:00:59) Pick an element or point to dimension ...
+\t (00:00:59) First point found ... pick the second point.
+\i (00:01:01) prepopup 10.413 8.606
+\i (00:01:04) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:01:04) last pick:  9.843 9.842
+\t (00:01:04) Pick location for the dimension value.
+\i (00:01:06) pick grid 0.276 22.167
+\t (00:01:06) last pick:  0.000 24.605
+\t (00:01:06) Pick an element or point to dimension ...
+\i (00:01:09) prepopup -33.011 8.332
+\i (00:01:11) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:01:11) last pick:  -33.685 9.842
+\t (00:01:11) Pick an element or point to dimension ...
+\t (00:01:11) First point found ... pick the second point.
+\i (00:01:13) prepopup -33.148 -9.064
+\i (00:01:16) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:01:16) last pick:  -33.685 -9.842
+\t (00:01:16) Pick location for the dimension value.
+\i (00:01:17) pick grid -51.914 -3.448
+\t (00:01:17) last pick:  -54.131 -4.921
+\t (00:01:17) Pick an element or point to dimension ...
+\i (00:01:18) prepopup -44.654 61.344
+\i (00:01:19) done 
+\i (00:01:19) etchedit 
+\i (00:01:21) save 
+\i (00:01:23) fillin yes 
+\t (00:01:23) Symbol 'cap_cl05_sam.psm' created.
+\i (00:01:23) etchedit 
+\i (00:41:23) exit 
+\t (00:41:23)     Journal end - Mon Nov 14 14:44:58 2022

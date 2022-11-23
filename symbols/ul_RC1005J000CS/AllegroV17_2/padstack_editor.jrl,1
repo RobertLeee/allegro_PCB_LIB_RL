@@ -1,0 +1,33 @@
+\t (00:00:00) padstack_editor 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Nov 14 10:02:30 2022
+\t (00:00:00)         Host=LENOVO-10529-P1 User=RobertLi Pid=10680 CPUs=12
+\t (00:00:00) CmdLine= padstack_editor -mpssession RobertLi -file C:/Users/RobertLi/AppData/Local/Temp/#Taaaabc03740.tmp -pname RX15P84Y17P69D0T -data C:/Users/RobertLi/AppData/Local/Temp/#Taaaabf03740.tmp
+\t (00:00:00) 
+\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:07) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:26) QtSignal GuidedDesignLayersTab PadWidth editingFinished "0.6000"
+\d (00:00:32) QtSignal GuidedDesignLayersTab PadHeight editingFinished "0.5000"
+\d (00:00:36) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:28) QtSignal GuidedMaskLayersTab PadWidth editingFinished "0.7000"
+\d (00:01:34) QtSignal GuidedMaskLayersTab PadHeight editingFinished "0.6000"
+\d (00:01:44) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:01:44) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:01:52) QtSignal GuidedMaskLayersTab PadWidth editingFinished "0.6000"
+\d (00:02:01) QtSignal GuidedMaskLayersTab PadHeight editingFinished "0.5000"
+\d (00:02:07) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:02:07) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:02:08) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:02:08) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:02:09) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:02:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:02:14) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:02:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:02:17) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:02:31) QtSignal MainWindow SaveAs triggered
+\d (00:03:37) QtFillin "RX15P84Y17P69D0T_06-05.pad"
+\d (00:03:50) QtSignal MainWindow SaveAs triggered
+\d (00:04:03) QtFillin "E:/share_OrCAD/pcb_lib/symbols/rx15p84y17p69d0t_06-05.pad"
+\t (00:04:11)     Journal end - Mon Nov 14 10:06:41 2022

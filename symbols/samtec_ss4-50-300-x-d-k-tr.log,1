@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SAMTEC_SS4-50-300-X-D-K-TR.dra                )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Mon Oct 17 10:09:03 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/share_OrCAD/pcb_lib/symbols
+    Name      = samtec_ss4-50-300-x-d-k-tr.psm
+    User      = RobertLi
+    Machine   = LENOVO-10529-P1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

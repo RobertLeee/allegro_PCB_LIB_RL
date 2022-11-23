@@ -1,0 +1,321 @@
+\t (00:00:07) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Tue Oct 11 15:30:14 2022
+\t (00:00:07)         Host=LENOVO-10529-P1 User=RobertLi Pid=15160 CPUs=12
+\t (00:00:07) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\e (00:00:07) Retrieval of 'OrCAD_PCB_Editor_Basics' license failed: ''. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:08) fillin confirm
+\i (00:00:41) fillin OrCAD_PCB_Editor_Basics
+\t (00:00:41) Starting new design...
+\i (00:00:42) trapsize 116667
+\i (00:00:42) replay builder.scr.txt 
+\i (00:00:42) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_max5488ete/AllegroV17_2/builder.ile" ' 
+   (00:00:42) t
+\i (00:00:42) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_max5488ete/AllegroV17_2" ' 
+   (00:00:42) t
+\i (00:00:42) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_max5488ete/AllegroV17_2/21-0136I_T1633F-3_MXM-L.xml" ' 
+\t (00:00:42) Reading Footprint XML
+\t (00:00:42) Creating padstacks
+\t (00:00:42) Starting new design...
+\i (00:00:42) trapsize 773
+\i (00:00:42) trapsize 793
+\i (00:00:42) trapsize 773
+\i (00:00:42) trapsize 974
+\i (00:00:42) trapsize 974
+\i (00:00:42) trapsize 97365
+\t (00:00:42) Performing DRC...
+\t (00:00:42) Multithreaded DRC update (12 threads).
+\t (00:00:42) No DRC errors detected.
+\t (00:00:42) Starting new design...
+\i (00:00:43) trapsize 77263
+\i (00:00:43) trapsize 79305
+\i (00:00:43) trapsize 77263
+\i (00:00:43) trapsize 97365
+\i (00:00:43) trapsize 97365
+\i (00:00:43) trapsize 97365
+\t (00:00:43) Performing DRC...
+\t (00:00:43) Multithreaded DRC update (12 threads).
+\t (00:00:43) No DRC errors detected.
+\t (00:00:43) Opening Design "21-0136I_T1633F-3_MXM-L.dra"
+\t (00:00:43) Starting new design...
+\i (00:00:43) trapsize 77263
+\i (00:00:43) trapsize 79305
+\i (00:00:43) trapsize 77263
+\i (00:00:43) trapsize 97365
+\i (00:00:43) trapsize 97365
+\i (00:00:43) trapsize 97365
+\t (00:00:43) Performing DRC...
+\t (00:00:43) No DRC errors detected.
+\i (00:00:43) trapsize 24622
+\t (00:00:43) Creating TextBlocks
+\t (00:00:43) Creating Shapes on Package layers
+   (00:00:43) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 32.0)
+   (00:00:43) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 32.0)
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:43) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\t (00:00:43) Creating Pins
+\t (00:00:43) Creating Vias
+\t (00:00:43) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_max5488ete/AllegroV17_2/21-0136i_t1633f-3_mxm-l.psm'.
+\t (00:00:43) Starting Create symbol...
+\t (00:00:43) Symbol Created
+   (00:00:43) Loading cmds.cxt 
+   (00:00:43) Loading skillExt.cxt 
+\i (00:00:43) trapsize 1008
+\i (00:00:44) trapsize 1147
+\t (00:00:44) Opening existing design...
+\i (00:00:44) trapsize 1147
+\i (00:00:44) trapsize 1182
+\i (00:00:44) trapsize 1147
+\i (00:00:44) trapsize 1193
+\d (00:00:44) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_max5488ete/AllegroV17_2/21-0136I_T1633F-3_MXM-L.dra
+\t (00:00:44) Symbol Saved
+   (00:00:44) t
+\i (00:00:44) scriptmode +i +n 
+\i (00:00:44) step pkg map 
+\i (00:00:46) fillin yes 
+\i (00:00:46) setwindow form.pkgmap3d 
+\i (00:00:46) FORM pkgmap3d stplist 21-0136I_T1633F-3_MXM.step 
+\i (00:00:46) FORM pkgmap3d rotation_x 0 
+\i (00:00:46) FORM pkgmap3d save_current 
+\i (00:00:46) FORM pkgmap3d done 
+\i (00:00:46) setwindow pcb 
+\i (00:00:46) save 
+\i (00:00:46) fillin yes 
+\t (00:00:47) Symbol '21-0136i_t1633f-3_mxm-l.psm' created.
+\i (00:00:47) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_max5488ete/AllegroV17_2/21-0136I_T1633F-3_MXM-M.xml" ' 
+\t (00:00:47) Reading Footprint XML
+\t (00:00:47) Creating padstacks
+\t (00:00:47) Starting new design...
+\i (00:00:47) trapsize 17672
+\i (00:00:47) trapsize 18205
+\i (00:00:47) trapsize 17672
+\i (00:00:47) trapsize 24622
+\i (00:00:47) trapsize 24622
+\i (00:00:47) trapsize 24622
+\t (00:00:47) Performing DRC...
+\t (00:00:47) No DRC errors detected.
+\t (00:00:47) Starting new design...
+\i (00:00:47) trapsize 17672
+\i (00:00:47) trapsize 18205
+\i (00:00:47) trapsize 17672
+\i (00:00:48) trapsize 24622
+\i (00:00:48) trapsize 24622
+\i (00:00:48) trapsize 24622
+\t (00:00:48) Performing DRC...
+\i (00:00:48) trapsize 23673
+\t (00:00:48) No DRC errors detected.
+\t (00:00:48) Opening Design "21-0136I_T1633F-3_MXM-M.dra"
+\t (00:00:48) Starting new design...
+\i (00:00:48) trapsize 17672
+\i (00:00:48) trapsize 18205
+\i (00:00:48) trapsize 17672
+\i (00:00:48) trapsize 24622
+\i (00:00:48) trapsize 24622
+\i (00:00:48) trapsize 24622
+\t (00:00:48) Performing DRC...
+\i (00:00:48) trapsize 23673
+\t (00:00:48) No DRC errors detected.
+\i (00:00:48) trapsize 23739
+\t (00:00:48) Creating TextBlocks
+\t (00:00:48) Creating Shapes on Package layers
+   (00:00:48) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 32.0)
+   (00:00:48) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 32.0)
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:48) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\t (00:00:48) Creating Pins
+\t (00:00:48) Creating Vias
+\t (00:00:48) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_max5488ete/AllegroV17_2/21-0136i_t1633f-3_mxm-m.psm'.
+\t (00:00:48) Starting Create symbol...
+\t (00:00:49) Symbol Created
+\i (00:00:49) trapsize 1233
+\t (00:00:49) Opening existing design...
+\i (00:00:49) trapsize 1233
+\i (00:00:49) trapsize 1271
+\i (00:00:49) trapsize 1233
+\i (00:00:49) trapsize 1283
+\d (00:00:49) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_max5488ete/AllegroV17_2/21-0136I_T1633F-3_MXM-M.dra
+\t (00:00:49) Symbol Saved
+   (00:00:49) t
+\i (00:00:49) scriptmode +i +n 
+\i (00:00:49) step pkg map 
+\i (00:00:50) fillin yes 
+\i (00:00:50) setwindow form.pkgmap3d 
+\i (00:00:50) FORM pkgmap3d stplist 21-0136I_T1633F-3_MXM.step 
+\i (00:00:51) FORM pkgmap3d rotation_x 0 
+\i (00:00:51) FORM pkgmap3d save_current 
+\i (00:00:51) FORM pkgmap3d done 
+\i (00:00:51) setwindow pcb 
+\i (00:00:51) save 
+\i (00:00:51) fillin yes 
+\t (00:00:51) Symbol '21-0136i_t1633f-3_mxm-m.psm' created.
+\i (00:00:51) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_max5488ete/AllegroV17_2/21-0136I_T1633F-3_MXM.xml" ' 
+\t (00:00:51) Reading Footprint XML
+\t (00:00:51) Creating padstacks
+\t (00:00:51) Starting new design...
+\i (00:00:51) trapsize 17768
+\i (00:00:51) trapsize 18305
+\i (00:00:51) trapsize 17768
+\i (00:00:51) trapsize 24691
+\i (00:00:51) trapsize 24691
+\i (00:00:51) trapsize 24691
+\t (00:00:51) Performing DRC...
+\t (00:00:51) No DRC errors detected.
+\t (00:00:51) Starting new design...
+\i (00:00:51) trapsize 17768
+\i (00:00:51) trapsize 18305
+\i (00:00:51) trapsize 17768
+\i (00:00:51) trapsize 24691
+\i (00:00:51) trapsize 24691
+\i (00:00:51) trapsize 24691
+\t (00:00:51) Performing DRC...
+\i (00:00:52) trapsize 23739
+\t (00:00:52) No DRC errors detected.
+\t (00:00:52) Opening Design "21-0136I_T1633F-3_MXM.dra"
+\t (00:00:52) Starting new design...
+\i (00:00:52) trapsize 17768
+\i (00:00:52) trapsize 18305
+\i (00:00:52) trapsize 17768
+\i (00:00:52) trapsize 24691
+\i (00:00:52) trapsize 24691
+\i (00:00:52) trapsize 24691
+\t (00:00:52) Performing DRC...
+\i (00:00:52) trapsize 23739
+\t (00:00:52) No DRC errors detected.
+\i (00:00:52) trapsize 23706
+\t (00:00:52) Creating TextBlocks
+\t (00:00:52) Creating Shapes on Package layers
+   (00:00:52) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 32.0)
+   (00:00:52) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 32.0)
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\w (00:00:52) WARNING(SPMHA1-108): Illegal line segment ... end points.
+\t (00:00:52) Creating Pins
+\t (00:00:52) Creating Vias
+\t (00:00:52) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_max5488ete/AllegroV17_2/21-0136i_t1633f-3_mxm.psm'.
+\t (00:00:52) Starting Create symbol...
+\t (00:00:53) Symbol Created
+\i (00:00:53) trapsize 1079
+\t (00:00:53) Opening existing design...
+\i (00:00:53) trapsize 1079
+\i (00:00:53) trapsize 1112
+\i (00:00:53) trapsize 1079
+\i (00:00:53) trapsize 1123
+\d (00:00:53) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_max5488ete/AllegroV17_2/21-0136I_T1633F-3_MXM.dra
+\t (00:00:53) Symbol Saved
+   (00:00:53) t
+\i (00:00:53) scriptmode +i +n 
+\i (00:00:53) step pkg map 
+\i (00:00:54) fillin yes 
+\i (00:00:55) setwindow form.pkgmap3d 
+\i (00:00:55) FORM pkgmap3d stplist 21-0136I_T1633F-3_MXM.step 
+\i (00:00:55) FORM pkgmap3d rotation_x 0 
+\i (00:00:55) FORM pkgmap3d save_current 
+\i (00:00:55) FORM pkgmap3d done 
+\i (00:00:55) setwindow pcb 
+\i (00:00:55) save 
+\i (00:00:55) fillin yes 
+\t (00:00:55) Symbol '21-0136i_t1633f-3_mxm.psm' created.
+\i (00:00:55) exit 
+\t (00:00:55)     Journal end - Tue Oct 11 15:31:02 2022

@@ -1,0 +1,83 @@
+\t (00:00:10) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Thu Oct 13 09:47:12 2022
+\t (00:00:10)         Host=LENOVO-10529-P1 User=RobertLi Pid=14340 CPUs=12
+\t (00:00:10) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:10) 
+   (00:00:10) Loading axlcore.cxt 
+\e (00:00:10) Retrieval of 'OrCAD_PCB_Editor_Basics' license failed: ''. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:13) fillin confirm
+\i (00:00:53) fillin OrCAD_PCB_Editor_Basics
+\t (00:00:53) Starting new design...
+\i (00:00:53) trapsize 116667
+\i (00:00:53) replay builder.scr.txt 
+\i (00:00:53) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_TPS63002DRCR/AllegroV17_2/builder.ile" ' 
+   (00:00:53) t
+\i (00:00:53) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_TPS63002DRCR/AllegroV17_2" ' 
+   (00:00:53) t
+\i (00:00:53) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TPS63002DRCR/AllegroV17_2/DRC0010J.xml" ' 
+\t (00:00:53) Reading Footprint XML
+\t (00:00:53) Creating padstacks
+\t (00:00:53) Starting new design...
+\i (00:00:54) trapsize 773
+\i (00:00:54) trapsize 793
+\i (00:00:54) trapsize 773
+\i (00:00:54) trapsize 974
+\i (00:00:54) trapsize 974
+\i (00:00:54) trapsize 97365
+\t (00:00:54) Performing DRC...
+\t (00:00:54) Multithreaded DRC update (12 threads).
+\t (00:00:54) No DRC errors detected.
+\t (00:00:54) Starting new design...
+\i (00:00:54) trapsize 77263
+\i (00:00:54) trapsize 79305
+\i (00:00:54) trapsize 77263
+\i (00:00:54) trapsize 97365
+\i (00:00:54) trapsize 97365
+\i (00:00:54) trapsize 97365
+\t (00:00:54) Performing DRC...
+\t (00:00:54) Multithreaded DRC update (12 threads).
+\t (00:00:54) No DRC errors detected.
+\t (00:00:54) Starting new design...
+\i (00:00:54) trapsize 77263
+\i (00:00:54) trapsize 79305
+\i (00:00:55) trapsize 77263
+\i (00:00:55) trapsize 97365
+\i (00:00:55) trapsize 97365
+\i (00:00:55) trapsize 97365
+\t (00:00:55) Performing DRC...
+\t (00:00:55) Multithreaded DRC update (12 threads).
+\t (00:00:55) No DRC errors detected.
+\t (00:00:55) Opening Design "DRC0010J.dra"
+\t (00:00:55) Starting new design...
+\i (00:00:55) trapsize 77263
+\i (00:00:55) trapsize 79305
+\i (00:00:55) trapsize 77263
+\i (00:00:55) trapsize 97365
+\i (00:00:55) trapsize 97365
+\i (00:00:55) trapsize 97365
+\t (00:00:55) Performing DRC...
+\i (00:00:55) trapsize 93612
+\t (00:00:55) No DRC errors detected.
+\i (00:00:55) trapsize 17300
+\t (00:00:55) Creating TextBlocks
+\t (00:00:55) Creating Shapes on Package layers
+   (00:00:55) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+   (00:00:55) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 100.0)
+\t (00:00:55) Creating Pins
+\t (00:00:55) Creating Vias
+\t (00:00:55) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_TPS63002DRCR/AllegroV17_2/drc0010j.psm'.
+\t (00:00:55) Starting Create symbol...
+\t (00:00:56) Symbol Created
+   (00:00:56) Loading cmds.cxt 
+   (00:00:56) Loading skillExt.cxt 
+\i (00:00:56) trapsize 2295
+\t (00:00:56) Opening existing design...
+\i (00:00:56) trapsize 2295
+\i (00:00:56) trapsize 2364
+\i (00:00:56) trapsize 2295
+\i (00:00:56) trapsize 2387
+\d (00:00:56) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TPS63002DRCR/AllegroV17_2/DRC0010J.dra
+\t (00:00:56) Symbol Saved
+   (00:00:56) t
+\i (00:00:56) exit 
+\t (00:00:57)     Journal end - Thu Oct 13 09:47:59 2022

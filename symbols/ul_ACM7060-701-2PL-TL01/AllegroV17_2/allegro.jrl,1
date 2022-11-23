@@ -1,0 +1,72 @@
+\t (00:00:04) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Sep 21 10:04:50 2022
+\t (00:00:04)         Host=LENOVO-10529-P1 User=RobertLi Pid=23636 CPUs=12
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 116667
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_ACM7060-701-2PL-TL01/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_ACM7060-701-2PL-TL01/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_ACM7060-701-2PL-TL01/AllegroV17_2/IND_ACM7060_TDK.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 879
+\i (00:00:05) trapsize 905
+\i (00:00:05) trapsize 879
+\i (00:00:05) trapsize 936
+\i (00:00:05) trapsize 936
+\i (00:00:05) trapsize 936
+\i (00:00:05) trapsize 93612
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (12 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "IND_ACM7060_TDK.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 87866
+\i (00:00:05) trapsize 90517
+\i (00:00:05) trapsize 87866
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 97365
+\t (00:00:05) Performing DRC...
+\t (00:00:05) No DRC errors detected.
+\i (00:00:05) trapsize 24233
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 138.0)
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_ACM7060-701-2PL-TL01/AllegroV17_2/ind_acm7060_tdk.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:06) Symbol Created
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\i (00:00:06) trapsize 1833
+\i (00:00:06) trapsize 1905
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 1905
+\i (00:00:06) trapsize 1964
+\i (00:00:06) trapsize 1905
+\i (00:00:06) trapsize 2018
+\d (00:00:06) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_ACM7060-701-2PL-TL01/AllegroV17_2/IND_ACM7060_TDK.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) scriptmode +i +n 
+\i (00:00:06) step pkg map 
+\i (00:00:09) fillin yes 
+\i (00:00:09) setwindow form.pkgmap3d 
+\i (00:00:09) FORM pkgmap3d stplist IND_ACM7060_TDK.step 
+\i (00:00:09) FORM pkgmap3d rotation_x 0 
+\i (00:00:09) FORM pkgmap3d save_current 
+\i (00:00:09) FORM pkgmap3d done 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) save 
+\i (00:00:09) fillin yes 
+\t (00:00:09) Symbol 'ind_acm7060_tdk.psm' created.
+\i (00:00:09) exit 
+\t (00:00:10)     Journal end - Wed Sep 21 10:04:57 2022

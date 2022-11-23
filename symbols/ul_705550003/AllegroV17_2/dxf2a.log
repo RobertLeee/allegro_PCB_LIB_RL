@@ -1,0 +1,19 @@
+Reading Layer Conversion File 
+Error: Illegal class encountered in layer conversion file.
+  Cannot import DXF data into class PIN...mappings ignored.
+Error: Illegal class encountered in layer conversion file.
+  Cannot import DXF data into class VIA CLASS...mappings ignored.
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space0.
+done.
+Layer conversion file: C:/Cadence/SPB_17.4/share/pcb/text/ecad_mcad.cnv
+DXF file: C:/Users/RobertLi/Downloads/tr.DXF
+BRD file: E:/share_OrCAD/pcb_lib/symbols/ul_705550003/AllegroV17_2/#Taaaaad20316.dra
+Update existing design?: YES
+Use default text?: YES
+DXF units: MILS
+Design units: MILS
+Design precision: 3
+dxf2a complete.

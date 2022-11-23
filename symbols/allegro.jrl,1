@@ -1,0 +1,48 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Nov 22 09:33:51 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=20392 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\IND_MPZ2012_TDK.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) 
+   (00:00:03) load( "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skill\cmds\\clinecut.il")
+   (00:00:03)                                                            ^^
+   (00:00:03) PARSER WARNING at line 7 column 60 of file allegro.ilinit
+   (00:00:03) *WARNING* (Parser): character found after backslash is not meaningful - '\c'
+   (00:00:03) *Error* load: can't access file - "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skillcmds\\clinecut.il"
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "IND_MPZ2012_TDK"
+\d (00:00:03) Design opened: E:/share_OrCAD/pcb_lib/symbols/IND_MPZ2012_TDK.dra
+\t (00:00:03) Grids are drawn 0.0250, 0.0250 apart for enhanced viewing.
+\i (00:00:03) trapsize 164
+\i (00:00:03) trapsize 168
+\i (00:00:03) trapsize 164
+\i (00:00:03) trapsize 184
+\t (00:00:03) Grids are drawn 0.0250, 0.0250 apart for enhanced viewing.
+\i (00:00:03) trapsize 188
+\i (00:00:03) generaledit 
+\i (00:00:07) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:53) setwindow form.find
+\i (00:00:53) FORM find all_off  
+\i (00:00:53) FORM find all_off  
+\i (00:00:57) setwindow pcb
+\i (00:00:57) delete 
+\i (00:00:59) setwindow form.find
+\i (00:00:59) FORM find all_off  
+\i (00:00:59) FORM find all_off  
+\i (00:01:06) FORM find lines YES 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) pick grid -0.9928 0.0605
+\t (00:01:09) last pick:  -0.9875 0.0625
+\t (00:01:09) Line "Package Geometry/Assembly_Top"
+\i (00:01:10) pick grid -0.9928 0.0605
+\t (00:01:10) last pick:  -0.9875 0.0625
+\i (00:01:13) prepopup -0.5723 1.3970
+\i (00:01:15) done 
+\i (00:01:15) generaledit 
+\i (00:01:20) save 
+\i (00:01:21) fillin yes 
+\t (00:01:21) Symbol 'ind_mpz2012_tdk.psm' created.
+\i (00:01:22) generaledit 
+\i (00:01:40) exit 
+\t (00:01:40)     Journal end - Tue Nov 22 09:35:28 2022

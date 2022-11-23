@@ -1,0 +1,73 @@
+\t (00:00:04) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Fri Oct 14 15:52:32 2022
+\t (00:00:04)         Host=LENOVO-10529-P1 User=RobertLi Pid=31300 CPUs=12
+\t (00:00:04) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\ul_TPS7A2601DRVT\AllegroV17_2\DRV0006A.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:06) fillin yes 
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged DRV0006A
+\d (00:00:06) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TPS7A2601DRVT/AllegroV17_2/DRV0006A.dra
+\i (00:00:07) trapsize 2042
+\i (00:00:07) trapsize 2096
+\i (00:00:07) trapsize 2042
+\i (00:00:07) trapsize 2295
+\i (00:00:07) trapsize 2295
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 10.004 -10.689
+\i (00:00:10) trapsize 1147
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 10.004 -10.688
+\i (00:00:10) trapsize 574
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 10.004 -10.688
+\i (00:00:11) trapsize 1147
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 10.004 -10.688
+\i (00:00:11) trapsize 2295
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 6.791 -28.588
+\i (00:00:12) trapsize 1147
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 6.791 -28.588
+\i (00:00:13) trapsize 574
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 6.791 -28.588
+\i (00:00:15) trapsize 1147
+\i (00:00:24) setwindow form.mini
+\i (00:00:24) FORM mini subcolor 0 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) updateport CVPane
+\i (00:00:32) setwindow form.mini
+\i (00:00:32) FORM mini subclass PIN_NUMBER 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) updateport CVPane
+\i (00:00:33) setwindow form.mini
+\i (00:00:33) FORM mini subcolor 0 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) updateport CVPane
+\i (00:00:33) setwindow form.mini
+\i (00:00:33) FORM mini subcolor 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) updateport CVPane
+\i (00:00:36) setwindow form.mini
+\i (00:00:36) FORM mini subcolor 0 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) updateport CVPane
+\i (00:00:37) setwindow form.mini
+\i (00:00:37) FORM mini subcolor 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) updateport CVPane
+\i (00:00:42) setwindow form.mini
+\i (00:00:42) FORM mini subcolor color 59 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) updateport CVPane
+\i (00:08:53) exit 
+\t (00:08:53)     Journal end - Fri Oct 14 16:01:20 2022

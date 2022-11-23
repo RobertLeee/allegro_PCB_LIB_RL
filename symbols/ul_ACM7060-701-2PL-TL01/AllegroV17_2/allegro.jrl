@@ -1,0 +1,224 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Nov 15 14:23:09 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=39344 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\ul_ACM7060-701-2PL-TL01\AllegroV17_2\IND_ACM7060_TDK.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) 
+   (00:00:03) load( "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skill\cmds\\clinecut.il")
+   (00:00:03)                                                            ^^
+   (00:00:03) PARSER WARNING at line 7 column 60 of file allegro.ilinit
+   (00:00:03) *WARNING* (Parser): character found after backslash is not meaningful - '\c'
+   (00:00:03) *Error* load: can't access file - "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skillcmds\\clinecut.il"
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "IND_ACM7060_TDK"
+\d (00:00:03) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_ACM7060-701-2PL-TL01/AllegroV17_2/IND_ACM7060_TDK.dra
+\i (00:00:03) trapsize 1729
+\i (00:00:03) trapsize 1775
+\i (00:00:03) trapsize 1729
+\i (00:00:03) trapsize 1943
+\i (00:00:03) trapsize 1943
+\i (00:00:04) etchedit 
+\i (00:00:09) trapsize 1973
+\i (00:00:10) trapsize 1943
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 25.446 42.936
+\i (00:00:46) trapsize 3887
+\i (00:01:09) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: footprint_check_dimention"
+\i (00:01:09) color -globvis off 
+\i (00:01:09) color -vis 'BOARD GEOMETRY/DIMENSION' 
+\i (00:01:09) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:01:09) color -vis 'PACKAGE GEOMETRY/PIN_NUMBER' 
+\i (00:01:09) color -vis PIN/TOP 
+\i (00:01:09) color -vis PIN/BOTTOM 
+\i (00:01:09) trapsize 3887
+\i (00:01:09) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: footprint_check_dimention"
+\i (00:01:09) etchedit 
+\i (00:01:14) dimension edit 
+\i (00:01:15) updateport CVPane
+\i (00:01:15) prepopup -278.504 165.760
+\i (00:01:17) pop dyn_option_select '@:@Linear dimension' 
+\t (00:01:17) Pick an element or point to dimension ...
+\i (00:01:18) prepopup -161.122 -79.111
+\i (00:01:21) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:01:21) last pick:  -177.000 -88.555
+\t (00:01:21) First point found ... pick the second point.
+\i (00:01:23) prepopup 171.591 -82.998
+\i (00:01:26) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:01:26) last pick:  177.000 -88.555
+\t (00:01:26) Pick location for the dimension value.
+\i (00:01:44) prepopup -40.630 -229.142
+\i (00:01:48) cancel 
+\i (00:01:48) etchedit 
+\i (00:02:02) param in 
+\i (00:02:04) setwindow form.parm_in
+\i (00:02:04) FORM parm_in browse  
+\i (00:02:13) fillin "E:/share_OrCAD/parameter/footprint_check_Rlv1006.prm"
+\i (00:02:15) FORM parm_in execute  
+\t (00:02:15) Starting Importing parameter file...
+\t (00:02:15) Opening existing design...
+\i (00:02:15) setwindow pcb
+\i (00:02:15) trapsize 3887
+\i (00:02:15) trapsize 4004
+\i (00:02:15) trapsize 3887
+\i (00:02:15) trapsize 4043
+\t (00:02:17) Parameter file read completed.
+\i (00:02:18) setwindow form.parm_in
+\i (00:02:18) FORM parm_in cancel  
+\i (00:02:18) setwindow pcb
+\i (00:02:18) etchedit 
+\i (00:02:26) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: footprint_check_dimention"
+\i (00:02:26) color -globvis off 
+\i (00:02:26) color -vis 'BOARD GEOMETRY/DIMENSION' 
+\i (00:02:26) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:02:26) color -vis 'PACKAGE GEOMETRY/PIN_NUMBER' 
+\i (00:02:26) color -vis PIN/TOP 
+\i (00:02:26) color -vis PIN/BOTTOM 
+\i (00:02:26) trapsize 4043
+\i (00:02:26) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: footprint_check_dimention"
+\i (00:02:26) etchedit 
+\i (00:02:28) zoom in 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom in -36.646 -82.529
+\i (00:02:28) trapsize 2021
+\i (00:02:29) zoom out 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom out -10.773 -76.465
+\i (00:02:29) trapsize 4043
+\i (00:02:31) zoom fit 
+\i (00:02:31) trapsize 1783
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 21.473 19.619
+\i (00:02:34) trapsize 3567
+\i (00:02:35) zoom in 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom in 211.946 -24.611
+\i (00:02:35) trapsize 1783
+\i (00:02:36) zoom out 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out 211.946 -24.611
+\i (00:02:36) trapsize 3567
+\i (00:02:40) prepopup -154.731 244.334
+\i (00:02:42) pick grid -230.350 249.327
+\t (00:02:42) last pick:  -231.287 250.971
+\i (00:02:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (00:02:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (00:02:46) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup "Design Parameters"
+\i (00:02:46) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup "Design Parameters"
+\i (00:02:46) prmed 
+\i (00:02:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Grids
+\i (00:02:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Grids
+\i (00:02:47) define grid 
+\t (00:02:47) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:02:52) setwindow form.grid
+\i (00:02:52) FORM grid done  
+\i (00:02:53) setwindow pcb
+\i (00:02:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup "Design Parameters"
+\i (00:02:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup "Design Parameters"
+\i (00:02:53) prmed 
+\i (00:02:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Colors
+\i (00:02:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Colors
+\i (00:02:56) color192 
+\i (00:02:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Setup 2 "|" Colors
+\i (00:02:59) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:03:04) QtSignal CVDColorTable CVDColorButton0:2 clicked
+\i (00:03:05) QtSignal CVDDisplayGroup CVDGridButton clicked
+\i (00:03:11) QtSignal CVDSaveMenu CVDSaveColorViewAction triggered
+\i (00:03:11) colorview create 
+\i (00:03:16) setwindow form.colorview_create
+\i (00:03:16) FORM colorview_create color_browse  
+\i (00:03:29) fillin "E:/share_OrCAD/parameter/footprint_check_dimention.color"
+\i (00:03:30) FORM colorview_create save  
+\i (00:03:32) fillin yes 
+\i (00:03:35) setwindow form.prmedit
+\i (00:03:35) FORM prmedit done  
+\i (00:03:35) setwindow pcb
+\i (00:03:35) etchedit 
+\i (00:03:48) param out 
+\i (00:03:51) setwindow form.parm_out
+\i (00:03:51) FORM parm_out selectall  
+\i (00:03:53) FORM parm_out browse  
+\i (00:04:05) fillin "E:/share_OrCAD/parameter/footprint_check_Rlv1006.prm"
+\i (00:04:07) FORM parm_out export  
+\t (00:04:07) Starting Exporting Parameters...
+\t (00:04:08) Parameter file write completed.
+\i (00:04:10) FORM parm_out cancel  
+\i (00:04:10) setwindow pcb
+\i (00:04:10) etchedit 
+\i (00:04:20) QtFillin Yes
+\i (00:04:20) trapsize 3567
+\i (00:04:20) trapsize 3567
+\i (00:04:23) prepopup -145.457 -74.548
+\i (00:04:26) dimension edit 
+\i (00:04:26) updateport CVPane
+\i (00:04:26) prepopup -121.202 -60.994
+\i (00:04:28) pop dyn_option_select '@:@Linear dimension' 
+\t (00:04:28) Pick an element or point to dimension ...
+\i (00:04:30) prepopup -156.872 -60.994
+\i (00:04:32) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:04:32) last pick:  -177.000 -88.555
+\t (00:04:32) First point found ... pick the second point.
+\i (00:04:33) prepopup 157.730 -68.841
+\i (00:04:36) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:04:36) last pick:  177.000 -88.555
+\t (00:04:36) Pick location for the dimension value.
+\i (00:04:48) pick grid -0.641 -190.116
+\t (00:04:48) last pick:  0.000 -191.919
+\t (00:04:48) Pick an element or point to dimension ...
+\i (00:04:50) zoom in 1 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom in 12.913 -143.033
+\i (00:04:50) trapsize 1783
+\i (00:04:51) zoom out 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom out 12.914 -143.033
+\i (00:04:51) trapsize 3567
+\i (00:04:53) prepopup -83.393 -80.255
+\i (00:04:56) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:04:56) last pick:  -79.000 -88.555
+\t (00:04:56) Pick an element or point to dimension ...
+\t (00:04:56) First point found ... pick the second point.
+\i (00:04:57) prepopup 87.105 -63.134
+\i (00:05:01) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:05:01) last pick:  79.000 -88.555
+\t (00:05:01) Pick location for the dimension value.
+\i (00:05:04) pick grid -5.635 -155.160
+\t (00:05:04) last pick:  -4.921 -157.472
+\t (00:05:04) Pick an element or point to dimension ...
+\i (00:05:07) prepopup -171.853 81.683
+\i (00:05:18) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:05:18) last pick:  -177.000 88.555
+\t (00:05:18) Pick an element or point to dimension ...
+\t (00:05:18) First point found ... pick the second point.
+\i (00:05:20) prepopup -170.426 -83.109
+\i (00:05:23) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:05:23) last pick:  -177.000 -88.555
+\t (00:05:23) Pick location for the dimension value.
+\i (00:05:27) pick grid -290.274 3.211
+\t (00:05:27) last pick:  -290.339 4.921
+\t (00:05:27) Pick an element or point to dimension ...
+\i (00:05:30) prepopup -171.139 35.313
+\i (00:05:35) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:05:35) last pick:  -177.000 29.555
+\t (00:05:35) Pick an element or point to dimension ...
+\t (00:05:35) First point found ... pick the second point.
+\i (00:05:38) prepopup -172.566 -31.032
+\i (00:05:41) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:05:41) last pick:  -177.000 -29.555
+\t (00:05:41) Pick location for the dimension value.
+\i (00:05:42) pick grid -235.344 7.491
+\t (00:05:42) last pick:  -236.208 9.842
+\t (00:05:42) Pick an element or point to dimension ...
+\i (00:05:43) prepopup -350.198 185.836
+\i (00:05:44) done 
+\i (00:05:44) etchedit 
+\i (00:05:54) save 
+\i (00:05:56) fillin yes 
+\t (00:05:56) Symbol 'ind_acm7060_tdk.psm' created.
+\i (00:05:56) etchedit 
+\i (00:06:06) exit 
+\i (00:06:06) setwindow form.colorview_create
+\i (00:06:06) FORM colorview_create done  
+\t (00:06:06)     Journal end - Tue Nov 15 14:29:13 2022

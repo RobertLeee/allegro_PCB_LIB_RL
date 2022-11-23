@@ -1,0 +1,61 @@
+\t (00:00:02) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Oct  7 15:52:00 2022
+\t (00:00:02)         Host=LENOVO-10529-P1 User=RobertLi Pid=28040 CPUs=12
+\t (00:00:02) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\ul_TLV76750DRVR\AllegroV17_2\DRV0006A-IPC_A.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "DRV0006A-IPC_A"
+\d (00:00:02) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TLV76750DRVR/AllegroV17_2/DRV0006A-IPC_A.dra
+\i (00:00:03) trapsize 178
+\i (00:00:03) trapsize 183
+\i (00:00:03) trapsize 178
+\i (00:00:03) trapsize 200
+\i (00:00:03) trapsize 204
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 1.5347 1.0694
+\t (00:00:06) Grids are drawn 0.0500, 0.0500 apart for enhanced viewing.
+\i (00:00:06) trapsize 408
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 1.5347 1.0613
+\t (00:00:06) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:06) trapsize 816
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 1.5347 1.0449
+\t (00:00:07) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:07) trapsize 1633
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 1.5347 1.0450
+\t (00:00:07) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:07) trapsize 3265
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 10.4848 1.0450
+\t (00:00:07) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:07) trapsize 1633
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 10.4848 1.0450
+\t (00:00:07) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:07) trapsize 816
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 10.4848 1.0450
+\t (00:00:08) Grids are drawn 0.0500, 0.0500 apart for enhanced viewing.
+\i (00:00:08) trapsize 408
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 10.4766 1.0205
+\t (00:00:08) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:08) trapsize 816
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 10.4603 1.0042
+\t (00:00:08) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:08) trapsize 1633
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Fri Oct  7 15:52:08 2022

@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : CAP_CL05_SAM.dra                              )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Mon Nov 14 14:03:58 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : E:/share_OrCAD/parameter/footprint_check_Rlv1006.prm
+	Layout Name   : E:/share_OrCAD/pcb_lib/symbols/ul_CL05C100JB5NNNC/AllegroV17_2/CAP_CL05_SAM.dra
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+Reading...ifp_parm_type:
+Reading...ats_parm_type:
+Reading...ministat_parm_type:
+Reading...drf_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

@@ -1,0 +1,165 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Sep 15 11:13:33 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=20316 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "molex4_ra_mtg_MOL"
+\d (00:00:06) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_705550003/AllegroV17_2/molex4_ra_mtg_MOL.dra
+\i (00:00:06) trapsize 4521
+\i (00:00:06) trapsize 4647
+\i (00:00:06) trapsize 4521
+\i (00:00:07) trapsize 4768
+\i (00:00:07) trapsize 4942
+\i (00:00:07) trapsize 6713
+\i (00:00:07) generaledit 
+\i (00:00:10) trapsize 6728
+\i (00:00:13) trapsize 4942
+\i (00:00:27) step pkg map 
+\i (00:00:29) fillin yes 
+\i (00:00:41) pick grid 572.558 -12.442
+\t (00:00:41) last pick:  600.000 0.000
+\i (00:00:45) fillin yes 
+\t (00:00:45) XY Offset values updated from canvas pick location.
+\i (00:00:49) pick grid 815.697 -183.430
+\t (00:00:49) last pick:  800.000 -200.000
+\i (00:00:50) fillin yes 
+\t (00:00:50) XY Offset values updated from canvas pick location.
+\i (03:00:50) dxf in 
+\i (03:19:17) dxf in 
+   (03:19:17) Loading mfg.cxt 
+\i (03:19:19) setwindow form.dxfInMain
+\i (03:19:19) FORM dxfInMain browsedxf  
+\i (03:19:38) fillin "C:/Users/RobertLi/Downloads/tr.DXF"
+\i (03:19:53) FORM dxfInMain texttable YES 
+\i (03:19:53) FORM dxfInMain texttable NO 
+\i (03:20:39) FORM dxfInMain texttable YES 
+\i (03:20:39) FORM dxfInMain incremental YES 
+\i (03:20:47) fillin yes 
+\i (03:20:49) FORM dxfInMain fillshapes YES 
+\i (03:21:03) FORM dxfInMain browsedxf  
+\i (03:21:11) fillin "C:/Users/RobertLi/Downloads/tr (1).DXF"
+\i (03:21:12) fillin confirm
+\i (03:21:16) FORM dxfInMain liblayer  
+\i (03:21:22) fillin "ecad_mcad"
+\i (03:21:26) FORM dxfInMain liblayer  
+\i (03:21:33) fillin "menu_cancel"
+\i (03:21:34) FORM dxfInMain import  
+\t (03:21:34) Starting dxf2a...
+\i (03:21:35) setwindow form.pkgmap3d
+\i (03:21:35) FORM pkgmap3d done  
+\t (03:21:35) Opening existing design...
+\i (03:21:35) setwindow pcb
+\i (03:21:35) trapsize 4942
+\i (03:21:35) trapsize 5087
+\i (03:21:35) trapsize 4942
+\i (03:21:35) trapsize 4942
+\i (03:22:00) setwindow form.dxfInMain
+\i (03:22:00) FORM dxfInMain viewlog  
+\i (03:22:00) setwindow text
+\i (03:22:00) stick
+\i (03:22:15) setwindow form.dxfInMain
+\i (03:22:15) FORM dxfInMain browselyrcnv  
+\i (03:22:25) fillin "menu_cancel"
+\i (03:22:29) FORM dxfInMain cancel  
+\i (03:22:29) setwindow pcb
+\i (03:22:29) generaledit 
+\i (03:22:31) zoom out 1 
+\i (03:22:31) setwindow pcb
+\i (03:22:31) zoom out 398.604 -229.884
+\i (03:22:31) trapsize 9884
+\i (03:22:31) zoom out 1 
+\i (03:22:31) setwindow pcb
+\i (03:22:31) zoom out 398.604 -229.883
+\i (03:22:31) trapsize 19767
+\i (03:22:31) zoom out 1 
+\i (03:22:31) setwindow pcb
+\i (03:22:31) zoom out 75.000 -229.884
+\i (03:22:31) trapsize 33166
+\i (03:22:31) zoom out 1 
+\i (03:22:31) setwindow pcb
+\i (03:22:31) zoom out 1918.702 -1344.713
+\i (03:22:31) trapsize 33166
+\i (03:22:31) zoom out 1 
+\i (03:22:31) setwindow pcb
+\i (03:22:31) zoom out 1918.702 -1344.713
+\i (03:22:31) trapsize 33166
+\i (03:22:31) zoom out 1 
+\i (03:22:31) setwindow pcb
+\i (03:22:31) zoom out 1918.702 -1344.713
+\i (03:22:31) trapsize 33166
+\i (03:22:31) zoom in 1 
+\i (03:22:31) setwindow pcb
+\i (03:22:31) zoom in 1918.702 -1344.713
+\i (03:22:31) trapsize 16583
+\i (03:22:31) zoom in 1 
+\i (03:22:31) setwindow pcb
+\i (03:22:31) zoom in 129.013 -1344.713
+\i (03:22:31) trapsize 8292
+\i (03:22:31) zoom in 1 
+\i (03:22:31) setwindow pcb
+\i (03:22:31) zoom in 129.013 -1344.712
+\i (03:22:31) trapsize 4146
+\i (03:22:31) zoom in 1 
+\i (03:22:31) setwindow pcb
+\i (03:22:31) zoom in 129.013 -1344.712
+\i (03:22:31) trapsize 2073
+\i (03:22:32) zoom in 1 
+\i (03:22:32) setwindow pcb
+\i (03:22:32) zoom in 129.013 -1344.712
+\i (03:22:32) trapsize 1036
+\i (03:22:32) zoom in 1 
+\i (03:22:32) setwindow pcb
+\i (03:22:32) zoom in 129.013 -1344.712
+\i (03:22:32) trapsize 518
+\i (03:22:33) zoom in 1 
+\i (03:22:33) setwindow pcb
+\i (03:22:33) zoom in 129.014 -1344.711
+\i (03:22:33) trapsize 259
+\i (03:22:33) zoom out 1 
+\i (03:22:33) setwindow pcb
+\i (03:22:33) zoom out 114.815 -1337.041
+\i (03:22:33) trapsize 518
+\i (03:22:33) zoom out 1 
+\i (03:22:33) setwindow pcb
+\i (03:22:33) zoom out 111.186 -1336.315
+\i (03:22:33) trapsize 1036
+\i (03:22:33) zoom out 1 
+\i (03:22:33) setwindow pcb
+\i (03:22:33) zoom out 110.150 -1336.108
+\i (03:22:33) trapsize 2073
+\i (03:22:33) zoom out 1 
+\i (03:22:33) setwindow pcb
+\i (03:22:33) zoom out 107.249 -1335.694
+\i (03:22:33) trapsize 4146
+\i (03:22:33) zoom in 1 
+\i (03:22:33) setwindow pcb
+\i (03:22:33) zoom in 64.962 -1327.403
+\i (03:22:33) trapsize 2073
+\i (03:22:33) zoom in 1 
+\i (03:22:33) setwindow pcb
+\i (03:22:33) zoom in 64.548 -1327.402
+\i (03:22:33) trapsize 1036
+\i (03:22:34) zoom in 1 
+\i (03:22:34) setwindow pcb
+\i (03:22:34) zoom in 64.548 -1327.402
+\i (03:22:34) trapsize 518
+\i (03:22:34) zoom in 1 
+\i (03:22:34) setwindow pcb
+\i (03:22:34) zoom in 64.548 -1327.402
+\i (03:22:34) trapsize 259
+\i (03:22:34) zoom in 1 
+\i (03:22:34) setwindow pcb
+\i (03:22:34) zoom in 64.548 -1327.401
+\i (03:22:34) trapsize 130
+\i (03:22:34) zoom in 1 
+\i (03:22:34) setwindow pcb
+\i (03:22:34) zoom in 64.548 -1327.401
+\i (03:22:34) trapsize 65
+\i (03:22:39) exit 
+\e (03:22:39) Do you want to save the changes you made to E:/share_OrCAD/pcb_lib/symbols/ul_705550003/AllegroV17_2/molex4_ra_mtg_MOL.dra?
+\i (03:22:40) fillin no 
+\i (03:22:40) setwindow text
+\i (03:22:40) close 
+\t (03:22:40)     Journal end - Thu Sep 15 14:36:10 2022

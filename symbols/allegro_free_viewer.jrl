@@ -1,0 +1,124 @@
+\t (00:00:33) allegro_free_viewer 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:33)     Journal start - Thu Nov 10 16:24:28 2022
+\t (00:00:33)         Host=LENOVO-10529-P1 User=RobertLi Pid=15084 CPUs=12
+\t (00:00:33) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro_free_viewer.exe
+\t (00:00:33) 
+\d (00:00:33) Design opened: E:/share_OrCAD/pcb_lib/symbols/CAP_1608_TDK-L.dra
+\i (00:00:33) updateport PropPane
+\i (00:00:33) ucpedit 
+\i (00:00:57) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:01:01) QtSignal DisplayShadow OriginSaturationValue editingFinished "100"
+\i (00:01:01) QtSignal VisibilityLayersViewsWidget All_Off clicked
+\i (00:01:01) updateport SearchPane
+\i (00:01:01) updateport PropPane
+\i (00:01:13) QtSignal VisibilityLayersWidget VisLayersGeomsAccordion headerClicked 0
+\i (00:01:22) QtSignal VisibilityLayersWidget VisLayersObjectsAccordion headerClicked 0
+\i (00:01:24) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Top All +
+\i (00:01:24) QtSignal 1
+\i (00:01:24) updateport SearchPane
+\i (00:01:24) updateport PropPane
+\i (00:01:24) updateport CVPane
+\i (00:01:29) prepopup -37.842 -15.739
+\i (00:01:58) pick grid -32.634 -1.417
+\t (00:01:58) last pick:  -32.634 -1.417
+\i (00:01:58) prepopup -32.634 -1.417
+\i (00:02:44) QtFillin ""
+\i (00:03:12) QtSignal PropertyGridsWidget GridsMajorUnitOptionsList CurrentIndexChanged 0
+\i (00:03:12) updateport SearchPane
+\i (00:03:12) updateport PropPane
+\i (00:03:15) QtSignal PropertyGridsWidget GridsMajorUnitOptionsList CurrentIndexChanged 5
+\i (00:03:32) QtSignal PropertySelectionFilterWidget Voids clicked on
+\i (00:03:32) QtSignal PropertySelectionFilterWidget Vias clicked on
+\i (00:03:33) QtSignal PropertySelectionFilterWidget Trace_Segments clicked on
+\i (00:03:33) QtSignal PropertySelectionFilterWidget Fingers clicked on
+\i (00:03:36) QtSignal PropertySelectionFilterWidget DRC clicked on
+\i (00:03:36) QtSignal PropertySelectionFilterWidget Nets clicked on
+\i (00:03:37) QtSignal PropertySelectionFilterWidget DRC clicked
+\i (00:03:37) QtSignal PropertySelectionFilterWidget Text clicked
+\i (00:03:37) QtSignal PropertySelectionFilterWidget Voids clicked
+\i (00:03:38) QtSignal PropertySelectionFilterWidget Nets clicked
+\i (00:03:39) QtSignal PropertySelectionFilterWidget Fingers clicked
+\i (00:03:39) QtSignal PropertySelectionFilterWidget Vias clicked
+\i (00:03:40) QtSignal PropertySelectionFilterWidget Trace_Segments clicked
+\i (00:03:50) QtSignal PropertyGridsWidget GridsUnitsButton clicked
+\i (00:03:50) updateport SearchPane
+\i (00:03:50) updateport PropPane
+\i (00:03:51) QtSignal PropertyGridsWidget GridsUnitsButton clicked
+\i (00:03:51) updateport SearchPane
+\i (00:03:51) updateport PropPane
+\i (00:03:51) QtSignal PropertyGridsWidget GridsUnitsButton clicked
+\i (00:03:51) updateport SearchPane
+\i (00:03:51) updateport PropPane
+\i (00:03:57) QtSignal PropertyGridsWidget GridsUnitsButton clicked
+\i (00:03:57) updateport SearchPane
+\i (00:03:57) updateport PropPane
+\i (00:03:58) QtSignal PropertyGridsWidget GridsUnitsButton clicked
+\i (00:03:58) updateport SearchPane
+\i (00:03:58) updateport PropPane
+\i (00:04:07) QtSignal PropertyGridsWidget GridsMajorColorBox objCellColorChanged 82 "#ffffff"
+\i (00:04:09) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:09) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:11) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:11) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:11) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:11) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:11) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:11) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:11) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:11) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:12) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:12) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:19) pick grid -39.516 16.997
+\t (00:04:19) last pick:  -39.516 16.997
+\i (00:04:20) pick grid -27.798 -15.925
+\t (00:04:20) last pick:  -27.798 -15.925
+\i (00:04:21) pick grid 36.744 -7.183
+\t (00:04:21) last pick:  36.744 -7.183
+\i (00:04:22) pick grid -31.146 -3.835
+\t (00:04:22) last pick:  -31.146 -3.835
+\i (00:04:23) pick grid 35.442 -6.997
+\t (00:04:23) last pick:  35.442 -6.997
+\i (00:04:23) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:23) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:24) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:24) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:40) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:40) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:40) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:40) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:40) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:43) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:43) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:43) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:43) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:43) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:43) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:43) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:43) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:43) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:44) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:04:44) QtSignal ADTableContainerWidget PinsTable selectionChanged 1 13
+\i (00:04:45) QtSignal ADTableContainerWidget PinsTable selectionChanged 1 13
+\i (00:04:45) QtSignal ADTableContainerWidget PinsTableHeader sectionPressed "-1"
+\i (00:09:28) QtSignal ADTableContainerWidget PinsTable selectionChanged 1 13
+\i (00:09:28) QtSignal ADTableContainerWidget PinsTable selectionChanged 1 13
+\i (00:16:48) zoom in 1 
+\i (00:16:48) setwindow pcb
+\i (00:16:48) zoom in -17.754 3.605
+\i (00:16:48) trapsize 465
+\i (00:16:51) exit 
+\e (00:16:51) Do you want to save the changes you made to CAP_1608_TDK-L.dra?
+\i (00:16:51) updateport SearchPane
+\i (00:16:51) updateport PropPane
+\i (00:16:53) fillin no 
+\i (00:16:53) QtSignal ADTableContainerWidget ADTableTab currentChanged "Traces/Lines/Wires (15)"
+\i (00:16:53) QtSignal ADTableContainerWidget ADTableTab currentChanged
+\t (00:16:53)     Journal end - Thu Nov 10 16:40:48 2022

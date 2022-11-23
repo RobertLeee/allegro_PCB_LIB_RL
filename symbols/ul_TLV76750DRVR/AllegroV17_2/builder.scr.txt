@@ -1,0 +1,7 @@
+skill load "E:/share_OrCAD/pcb_lib/symbols/ul_TLV76750DRVR/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_TLV76750DRVR/AllegroV17_2" 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TLV76750DRVR/AllegroV17_2/DRV0006A-IPC_A.xml" 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TLV76750DRVR/AllegroV17_2/DRV0006A-IPC_B.xml" 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TLV76750DRVR/AllegroV17_2/DRV0006A-IPC_C.xml" 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TLV76750DRVR/AllegroV17_2/DRV0006A-MFG.xml" 
+exit 

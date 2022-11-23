@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : IND_ACM7060_TDK.dra                           )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Tue Nov 15 14:25:22 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : E:/share_OrCAD/parameter/footprint_check_Rlv1006.prm
+	Layout Name   : E:/share_OrCAD/pcb_lib/symbols/ul_ACM7060-701-2PL-TL01/AllegroV17_2/IND_ACM7060_TDK.dra
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+Reading...ifp_parm_type:
+Reading...ats_parm_type:
+Reading...ministat_parm_type:
+Reading...drf_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

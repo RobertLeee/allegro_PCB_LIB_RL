@@ -1,0 +1,71 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Nov 22 09:36:19 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=15008 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\IND_ACM7060_TDK.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) 
+   (00:00:03) load( "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skill\cmds\\clinecut.il")
+   (00:00:03)                                                            ^^
+   (00:00:03) PARSER WARNING at line 7 column 60 of file allegro.ilinit
+   (00:00:03) *WARNING* (Parser): character found after backslash is not meaningful - '\c'
+   (00:00:03) *Error* load: can't access file - "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skillcmds\\clinecut.il"
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "IND_ACM7060_TDK"
+\d (00:00:03) Design opened: E:/share_OrCAD/pcb_lib/symbols/IND_ACM7060_TDK.dra
+\t (00:00:03) Grids are drawn 1.968, 1.968 apart for enhanced viewing.
+\i (00:00:03) trapsize 1798
+\i (00:00:03) trapsize 1847
+\i (00:00:03) trapsize 1798
+\i (00:00:03) trapsize 2021
+\t (00:00:03) Grids are drawn 1.968, 1.968 apart for enhanced viewing.
+\i (00:00:03) trapsize 2062
+\i (00:00:03) generaledit 
+\i (00:04:09) pick grid -100.029 147.547
+\t (00:04:09) last pick:  -100.368 147.600
+\i (00:04:10) delete 
+\i (00:04:13) setwindow form.find
+\i (00:04:13) FORM find all_off  
+\i (00:04:13) FORM find all_off  
+\i (00:04:15) FORM find lines YES 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) pick grid 4.318 110.840
+\t (00:04:19) last pick:  3.936 111.192
+\t (00:04:19) Line "Package Geometry/Assembly_Top"
+\i (00:04:19) pick grid 4.318 110.840
+\t (00:04:19) last pick:  3.936 111.192
+\i (00:04:21) prepopup -78.582 151.672
+\i (00:04:21) done 
+\i (00:04:21) generaledit 
+\i (00:04:25) pick grid -186.641 170.231
+\t (00:04:25) last pick:  -186.960 170.232
+\i (00:04:26) move 
+\t (00:04:26) Select element(s) to move.
+\i (00:04:27) setwindow form.find
+\i (00:04:27) FORM find all_off  
+\i (00:04:27) FORM find all_off  
+\i (00:04:29) FORM find lines YES 
+\i (00:04:31) setwindow pcb
+\i (00:04:31) pick grid -78.582 55.573
+\t (00:04:31) last pick:  -78.720 55.104
+\t (00:04:31) last pick:  -78.720 55.104
+\t (00:04:31) Element has no origin, using pick.
+\t (00:04:31) Pick new location for the element(s).
+\i (00:04:53) pick grid -150.759 94.342
+\t (00:04:53) last pick:  -150.552 94.464
+\i (00:04:58) pick grid -150.347 100.529
+\t (00:04:58) last pick:  -150.552 100.368
+\t (00:04:58) last pick:  -150.552 100.368
+\t (00:04:58) Element has no origin, using pick.
+\t (00:04:58) Pick new location for the element(s).
+\i (00:05:07) pick grid -135.911 117.851
+\t (00:05:07) last pick:  -135.792 118.080
+\i (00:05:10) prepopup -140.861 150.434
+\i (00:05:11) done 
+\i (00:05:11) generaledit 
+\i (00:05:16) save 
+\i (00:05:19) fillin yes 
+\t (00:05:19) Symbol 'ind_acm7060_tdk.psm' created.
+\i (00:05:19) generaledit 
+\i (00:05:24) exit 
+\t (00:05:24)     Journal end - Tue Nov 22 09:41:41 2022

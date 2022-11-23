@@ -1,0 +1,67 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Sep 22 12:59:50 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=20008 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 116667
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_SML-LX0404SIUPGUSB/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_SML-LX0404SIUPGUSB/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_SML-LX0404SIUPGUSB/AllegroV17_2/LED_SML-LX0404_LUM.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 811
+\i (00:00:04) trapsize 833
+\i (00:00:04) trapsize 811
+\i (00:00:04) trapsize 936
+\i (00:00:04) trapsize 936
+\i (00:00:04) trapsize 93612
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (12 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "LED_SML-LX0404_LUM.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 81081
+\i (00:00:04) trapsize 83333
+\i (00:00:04) trapsize 81081
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\t (00:00:04) Performing DRC...
+\t (00:00:04) No DRC errors detected.
+\i (00:00:04) trapsize 22659
+\t (00:00:04) Creating TextBlocks
+\t (00:00:04) Creating Shapes on Package layers
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 12.0)
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\t (00:00:04) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_SML-LX0404SIUPGUSB/AllegroV17_2/led_sml-lx0404_lum.psm'.
+\t (00:00:04) Starting Create symbol...
+\t (00:00:05) Symbol Created
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\i (00:00:05) trapsize 1525
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 1751
+\i (00:00:05) trapsize 1807
+\i (00:00:05) trapsize 1751
+\i (00:00:05) trapsize 1751
+\d (00:00:05) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_SML-LX0404SIUPGUSB/AllegroV17_2/LED_SML-LX0404_LUM.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) scriptmode +i +n 
+\i (00:00:05) step pkg map 
+\i (00:00:08) fillin no 
+\i (00:00:08) setwindow form.pkgmap3d 
+\e (00:00:08) Can't find window; form.pkgmap3d
+\i (00:00:08) trapsize 1751
+\i (00:00:10) exit 
+\e (00:00:10) Do you want to save the changes you made to LED_SML-LX0404_LUM.dra?
+\i (00:00:11) fillin yes 
+\t (00:00:11) Symbol 'led_sml-lx0404_lum.psm' created.
+\t (00:00:12)     Journal end - Thu Sep 22 12:59:58 2022

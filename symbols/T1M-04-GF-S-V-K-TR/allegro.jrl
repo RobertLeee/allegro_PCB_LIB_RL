@@ -1,0 +1,34 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Oct  6 13:10:27 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=26048 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\T1M-04-GF-S-V-K-TR\SAMTEC_T1M-04-GF-S-V-K-TR.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:16) fillin yes 
+\i (00:00:16) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "SAMTEC_T1M-04-GF-S-V-K-TR"
+\d (00:00:16) Design opened: E:/share_OrCAD/pcb_lib/symbols/T1M-04-GF-S-V-K-TR/SAMTEC_T1M-04-GF-S-V-K-TR.dra
+\i (00:00:16) trapsize 3022
+\i (00:00:16) trapsize 3148
+\i (00:00:16) trapsize 3284
+\i (00:00:16) trapsize 3148
+\i (00:00:16) trapsize 2912
+\i (00:00:16) trapsize 2912
+\i (00:00:27) setwindow form.mini
+\i (00:00:27) FORM mini subcolor 0 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) updateport CVPane
+\i (00:00:28) setwindow form.mini
+\i (00:00:28) FORM mini subcolor 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) updateport CVPane
+\i (00:00:54) setwindow form.mini
+\i (00:00:54) FORM mini subcolor 0 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) updateport CVPane
+\i (00:00:54) setwindow form.mini
+\i (00:00:54) FORM mini subcolor 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) updateport CVPane
+\i (00:01:07) exit 
+\t (00:01:07)     Journal end - Thu Oct  6 13:11:31 2022

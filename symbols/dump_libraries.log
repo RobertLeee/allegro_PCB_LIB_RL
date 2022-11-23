@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Wed Sep 21 11:47:25 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/share_OrCAD/pcb_lib/symbols/SON65P200X200X80-7N.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  T_N20_40 being dumped.
+
+  S_R69T32D2M69_32P69_32 being dumped.
+
+  S_R100T160M100_160 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  ps_r69_32_d250 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                3
+Number of shape symbols dumped:            1
+
+Total number of symbols dumped:            1
+*****************************************************
+

@@ -1,0 +1,36 @@
+skill load "E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2" 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/DBV5-L.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist DBV5.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/DBV5-M.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist DBV5.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/DBV5.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist DBV5.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

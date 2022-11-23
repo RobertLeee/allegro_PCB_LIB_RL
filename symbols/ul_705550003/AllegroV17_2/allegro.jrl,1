@@ -1,0 +1,73 @@
+\t (00:00:04) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Thu Sep 15 10:54:19 2022
+\t (00:00:04)         Host=LENOVO-10529-P1 User=RobertLi Pid=10588 CPUs=12
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 116667
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_705550003/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_705550003/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_705550003/AllegroV17_2/molex4_ra_mtg_MOL.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 879
+\i (00:00:06) trapsize 905
+\i (00:00:06) trapsize 879
+\i (00:00:06) trapsize 974
+\i (00:00:06) trapsize 974
+\i (00:00:06) trapsize 97365
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (12 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Unknown pad shape type "diamond"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 93612
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 101432
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (12 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Opening Design "molex4_ra_mtg_MOL.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 87866
+\i (00:00:06) trapsize 90517
+\i (00:00:06) trapsize 87866
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\t (00:00:06) Performing DRC...
+\i (00:00:06) trapsize 93612
+\i (00:00:07) trapsize 91097
+\t (00:00:07) No DRC errors detected.
+\i (00:00:07) trapsize 38482
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 275.0)
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_705550003/AllegroV17_2/molex4_ra_mtg_mol.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:08) Symbol Created
+   (00:00:08) Loading cmds.cxt 
+   (00:00:08) Loading skillExt.cxt 
+\i (00:00:08) trapsize 4768
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 4768
+\i (00:00:08) trapsize 4907
+\i (00:00:08) trapsize 4908
+\i (00:00:08) trapsize 4768
+\i (00:00:08) trapsize 5051
+\d (00:00:08) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_705550003/AllegroV17_2/molex4_ra_mtg_MOL.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Thu Sep 15 10:54:23 2022

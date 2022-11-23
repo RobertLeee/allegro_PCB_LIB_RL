@@ -1,0 +1,29 @@
+\t (00:00:07) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Fri Oct  7 09:18:37 2022
+\t (00:00:07)         Host=LENOVO-10529-P1 User=RobertLi Pid=10412 CPUs=12
+\t (00:00:07) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\i (00:00:09) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ECLGA-14_MPM4710_RL1003"
+\d (00:00:09) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_MP2276GD-P/AllegroV17_2/ECLGA-14_MPM4710_RL1003.dra
+\i (00:00:10) trapsize 18
+\i (00:00:10) trapsize 19
+\i (00:00:10) trapsize 18
+\i (00:00:10) trapsize 21
+\i (00:00:10) trapsize 21
+\i (00:00:19) open 
+\i (00:01:55) fillin "E:/share_OrCAD/Proj/HD3_ATE_JIG/SWITCH_BOARD/allegro/hd3_mtest_jig_sw_board_pcba_rev1007.brd"
+\i (00:01:55) cd "E:/share_OrCAD/Proj/HD3_ATE_JIG/SWITCH_BOARD/allegro"
+\t (00:01:55) Opening existing design...
+\t (00:01:55) Grids are drawn 0.200, 0.200 apart for enhanced viewing.
+\i (00:01:55) trapsize 166
+\i (00:01:55) trapsize 171
+\t (00:01:55) Grids are drawn 12.800, 12.800 apart for enhanced viewing.
+\t (00:01:55) Grids are drawn 0.200, 0.200 apart for enhanced viewing.
+\i (00:01:55) trapsize 139
+\i (00:01:55) setwindow form.mini
+\i (00:01:55) FORM mini tree  'Components by refdes' 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) trapsize 139
+\t (00:01:55)     Journal end - Fri Oct  7 09:20:26 2022

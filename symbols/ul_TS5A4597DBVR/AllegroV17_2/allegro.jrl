@@ -1,0 +1,19 @@
+\t (01:29:26) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (01:29:26)     Journal start - Wed Sep 14 10:14:12 2022
+\t (01:29:26)         Host=LENOVO-10529-P1 User=RobertLi Pid=27204 CPUs=12
+\t (01:29:26) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (01:29:26) 
+\d (01:29:26) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TS5A4597DBVR/AllegroV17_2/DBV5.dra
+\i (01:29:26) generaledit 
+\i (01:29:47) step pkg map 
+\i (01:29:49) fillin yes 
+\i (04:47:23) open 
+\i (04:47:37) fillin yes 
+\e (04:47:37) Do you want to save the changes you made to DBV5.dra?
+\i (04:47:39) fillin no 
+\i (04:47:58) fillin "E:/share_OrCAD/pcb_lib/symbols/SS4-50-3.00-X-D-K-TR/SAMTEC_SS4-50-300-X-D-K-TR.dra"
+\i (04:47:58) cd "E:/share_OrCAD/pcb_lib/symbols/SS4-50-3.00-X-D-K-TR"
+\t (04:47:58) Opening existing design...
+\i (04:48:04) fillin yes 
+\i (04:48:04) trapsize 8401
+\t (04:48:04)     Journal end - Wed Sep 14 13:32:50 2022

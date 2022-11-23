@@ -1,0 +1,189 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Nov 14 11:46:48 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=21108 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) 
+   (00:00:03) load( "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skill\cmds\\clinecut.il")
+   (00:00:03)                                                            ^^
+   (00:00:03) PARSER WARNING at line 7 column 60 of file allegro.ilinit
+   (00:00:03) *WARNING* (Parser): character found after backslash is not meaningful - '\c'
+   (00:00:03) *Error* load: can't access file - "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skillcmds\\clinecut.il"
+\t (00:00:06) Starting new design...
+\i (00:00:07) trapsize 116667
+\i (00:00:07) replay builder.scr.txt 
+\i (00:00:07) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/builder.ile" ' 
+   (00:00:07) t
+\i (00:00:07) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2" ' 
+   (00:00:07) t
+\i (00:00:07) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/RES_1608_SAM-L.xml" ' 
+\t (00:00:07) Reading Footprint XML
+\t (00:00:07) Creating padstacks
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 766
+\i (00:00:07) trapsize 787
+\i (00:00:07) trapsize 974
+\i (00:00:07) trapsize 974
+\i (00:00:07) trapsize 97365
+\t (00:00:07) Performing DRC...
+\t (00:00:07) Multithreaded DRC update (12 threads).
+\t (00:00:07) No DRC errors detected.
+\t (00:00:07) Opening Design "RES_1608_SAM-L.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 76642
+\i (00:00:07) trapsize 78652
+\i (00:00:07) trapsize 76642
+\i (00:00:07) trapsize 97365
+\i (00:00:07) trapsize 97365
+\i (00:00:07) trapsize 97365
+\t (00:00:07) Performing DRC...
+\t (00:00:07) No DRC errors detected.
+\i (00:00:07) trapsize 23157
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/res_1608_sam-l.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\i (00:00:07) trapsize 511
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 586
+\i (00:00:08) trapsize 604
+\i (00:00:08) trapsize 586
+\i (00:00:08) trapsize 586
+\d (00:00:08) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/RES_1608_SAM-L.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) scriptmode +i +n 
+\i (00:00:08) step pkg map 
+\i (00:00:09) fillin yes 
+\i (00:00:10) setwindow form.pkgmap3d 
+\i (00:00:10) FORM pkgmap3d stplist RES_1608_SAM.step 
+\i (00:00:10) FORM pkgmap3d rotation_x 0 
+\i (00:00:10) FORM pkgmap3d save_current 
+\i (00:00:10) FORM pkgmap3d done 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) save 
+\i (00:00:10) fillin yes 
+\t (00:00:10) Symbol 'res_1608_sam-l.psm' created.
+\i (00:00:10) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/RES_1608_SAM-M.xml" ' 
+\t (00:00:10) Reading Footprint XML
+\t (00:00:10) Creating padstacks
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 16286
+\i (00:00:10) trapsize 16777
+\i (00:00:11) trapsize 16286
+\i (00:00:11) trapsize 22265
+\i (00:00:11) trapsize 22265
+\i (00:00:11) trapsize 22265
+\t (00:00:11) Performing DRC...
+\t (00:00:11) No DRC errors detected.
+\t (00:00:11) Opening Design "RES_1608_SAM-M.dra"
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 16286
+\i (00:00:11) trapsize 16777
+\i (00:00:11) trapsize 16286
+\i (00:00:11) trapsize 23157
+\i (00:00:11) trapsize 23157
+\i (00:00:11) trapsize 23157
+\t (00:00:11) Performing DRC...
+\i (00:00:11) trapsize 22265
+\t (00:00:12) No DRC errors detected.
+\i (00:00:12) trapsize 22452
+\t (00:00:12) Creating TextBlocks
+\t (00:00:12) Creating Shapes on Package layers
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+\t (00:00:12) Creating Pins
+\t (00:00:12) Creating Vias
+\t (00:00:12) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/res_1608_sam-m.psm'.
+\t (00:00:12) Starting Create symbol...
+\t (00:00:12) Symbol Created
+\i (00:00:12) trapsize 616
+\t (00:00:12) Opening existing design...
+\i (00:00:12) trapsize 616
+\i (00:00:12) trapsize 634
+\i (00:00:12) trapsize 616
+\i (00:00:12) trapsize 640
+\d (00:00:12) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/RES_1608_SAM-M.dra
+\t (00:00:12) Symbol Saved
+   (00:00:12) t
+\i (00:00:12) scriptmode +i +n 
+\i (00:00:12) step pkg map 
+\i (00:00:13) fillin yes 
+\i (00:00:14) setwindow form.pkgmap3d 
+\i (00:00:14) FORM pkgmap3d stplist RES_1608_SAM.step 
+\i (00:00:14) FORM pkgmap3d rotation_x 0 
+\i (00:00:14) FORM pkgmap3d save_current 
+\i (00:00:14) FORM pkgmap3d done 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) save 
+\i (00:00:14) fillin yes 
+\t (00:00:14) Symbol 'res_1608_sam-m.psm' created.
+\i (00:00:14) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/RES_1608_SAM.xml" ' 
+\t (00:00:14) Reading Footprint XML
+\t (00:00:14) Creating padstacks
+\t (00:00:14) Starting new design...
+\i (00:00:14) trapsize 16286
+\i (00:00:14) trapsize 16777
+\i (00:00:14) trapsize 16286
+\i (00:00:14) trapsize 22452
+\i (00:00:14) trapsize 22452
+\i (00:00:14) trapsize 22452
+\t (00:00:14) Performing DRC...
+\t (00:00:14) No DRC errors detected.
+\t (00:00:14) Opening Design "RES_1608_SAM.dra"
+\t (00:00:14) Starting new design...
+\i (00:00:15) trapsize 16286
+\i (00:00:15) trapsize 16777
+\i (00:00:15) trapsize 16286
+\i (00:00:15) trapsize 23352
+\i (00:00:15) trapsize 23352
+\i (00:00:15) trapsize 23352
+\t (00:00:15) Performing DRC...
+\t (00:00:15) No DRC errors detected.
+\i (00:00:15) trapsize 23243
+\t (00:00:15) Creating TextBlocks
+\t (00:00:15) Creating Shapes on Package layers
+   (00:00:15) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+   (00:00:15) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+   (00:00:15) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+   (00:00:15) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 19.685)
+\t (00:00:15) Creating Pins
+\t (00:00:15) Creating Vias
+\t (00:00:15) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/res_1608_sam.psm'.
+\t (00:00:15) Starting Create symbol...
+\t (00:00:15) Symbol Created
+\i (00:00:15) trapsize 586
+\t (00:00:15) Opening existing design...
+\i (00:00:16) trapsize 586
+\i (00:00:16) trapsize 604
+\i (00:00:16) trapsize 586
+\i (00:00:16) trapsize 610
+\d (00:00:16) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_RC1608J104CS/AllegroV17_2/RES_1608_SAM.dra
+\t (00:00:16) Symbol Saved
+   (00:00:16) t
+\i (00:00:16) scriptmode +i +n 
+\i (00:00:16) step pkg map 
+\i (00:00:17) fillin yes 
+\i (00:00:17) setwindow form.pkgmap3d 
+\i (00:00:17) FORM pkgmap3d stplist RES_1608_SAM.step 
+\i (00:00:17) FORM pkgmap3d rotation_x 0 
+\i (00:00:17) FORM pkgmap3d save_current 
+\i (00:00:17) FORM pkgmap3d done 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) save 
+\i (00:00:17) fillin yes 
+\t (00:00:17) Symbol 'res_1608_sam.psm' created.
+\i (00:00:17) exit 
+\t (00:00:18)     Journal end - Mon Nov 14 11:47:03 2022

@@ -1,0 +1,188 @@
+\t (00:00:04) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Fri Sep 23 12:30:23 2022
+\t (00:00:04)         Host=LENOVO-10529-P1 User=RobertLi Pid=18524 CPUs=12
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 116667
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "C:/Users/RobertLi/OneDrive - Clarius Mobile Health Corp/Documents/Orcad/ul_CL05C100JB5NNNC/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:05) skill 'changeWorkingDir "C:/Users/RobertLi/OneDrive - Clarius Mobile Health Corp/Documents/Orcad/ul_CL05C100JB5NNNC/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "C:/Users/RobertLi/OneDrive - Clarius Mobile Health Corp/Documents/Orcad/ul_CL05C100JB5NNNC/AllegroV17_2/CAP_CL05_SAM-L.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 974
+\i (00:00:05) trapsize 1003
+\i (00:00:05) trapsize 1014
+\i (00:00:05) trapsize 974
+\i (00:00:05) trapsize 970
+\i (00:00:05) trapsize 970
+\i (00:00:05) trapsize 970
+\i (00:00:05) trapsize 97043
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (12 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "CAP_CL05_SAM-L.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 100287
+\i (00:00:05) trapsize 101432
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 97365
+\t (00:00:05) Performing DRC...
+\t (00:00:05) No DRC errors detected.
+\i (00:00:05) trapsize 23056
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'C:/Users/RobertLi/OneDrive - Clarius Mobile Health Corp/Documents/Orcad/ul_CL05C100JB5NNNC/AllegroV17_2/cap_cl05_sam-l.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:06) Symbol Created
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\i (00:00:06) trapsize 647
+\i (00:00:06) trapsize 621
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 621
+\i (00:00:06) trapsize 640
+\i (00:00:06) trapsize 621
+\i (00:00:06) trapsize 645
+\d (00:00:06) Design opened: C:/Users/RobertLi/OneDrive - Clarius Mobile Health Corp/Documents/Orcad/ul_CL05C100JB5NNNC/AllegroV17_2/CAP_CL05_SAM-L.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) scriptmode +i +n 
+\i (00:00:06) step pkg map 
+\i (00:00:08) fillin yes 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist CAP_CL05_SAM.step 
+\i (00:00:08) FORM pkgmap3d rotation_x 0 
+\i (00:00:08) FORM pkgmap3d save_current 
+\i (00:00:08) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'cap_cl05_sam-l.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "C:/Users/RobertLi/OneDrive - Clarius Mobile Health Corp/Documents/Orcad/ul_CL05C100JB5NNNC/AllegroV17_2/CAP_CL05_SAM-M.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 17131
+\i (00:00:08) trapsize 17679
+\i (00:00:09) trapsize 17131
+\i (00:00:09) trapsize 23056
+\i (00:00:09) trapsize 23056
+\i (00:00:09) trapsize 23056
+\t (00:00:09) Performing DRC...
+\t (00:00:09) No DRC errors detected.
+\t (00:00:09) Opening Design "CAP_CL05_SAM-M.dra"
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 17131
+\i (00:00:09) trapsize 17679
+\i (00:00:09) trapsize 17131
+\i (00:00:09) trapsize 23056
+\i (00:00:09) trapsize 23056
+\i (00:00:09) trapsize 23056
+\t (00:00:09) Performing DRC...
+\i (00:00:09) trapsize 22167
+\t (00:00:10) No DRC errors detected.
+\i (00:00:10) trapsize 22354
+\t (00:00:10) Creating TextBlocks
+\t (00:00:10) Creating Shapes on Package layers
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+\t (00:00:10) Creating Pins
+\t (00:00:10) Creating Vias
+\t (00:00:10) Creating package symbol 'C:/Users/RobertLi/OneDrive - Clarius Mobile Health Corp/Documents/Orcad/ul_CL05C100JB5NNNC/AllegroV17_2/cap_cl05_sam-m.psm'.
+\t (00:00:10) Starting Create symbol...
+\t (00:00:10) Symbol Created
+\i (00:00:10) trapsize 668
+\t (00:00:10) Opening existing design...
+\i (00:00:10) trapsize 668
+\i (00:00:10) trapsize 689
+\i (00:00:10) trapsize 668
+\i (00:00:10) trapsize 695
+\d (00:00:10) Design opened: C:/Users/RobertLi/OneDrive - Clarius Mobile Health Corp/Documents/Orcad/ul_CL05C100JB5NNNC/AllegroV17_2/CAP_CL05_SAM-M.dra
+\t (00:00:10) Symbol Saved
+   (00:00:10) t
+\i (00:00:10) scriptmode +i +n 
+\i (00:00:10) step pkg map 
+\i (00:00:11) fillin yes 
+\i (00:00:11) setwindow form.pkgmap3d 
+\i (00:00:11) FORM pkgmap3d stplist CAP_CL05_SAM.step 
+\i (00:00:11) FORM pkgmap3d rotation_x 0 
+\i (00:00:11) FORM pkgmap3d save_current 
+\i (00:00:11) FORM pkgmap3d done 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) save 
+\i (00:00:12) fillin yes 
+\t (00:00:12) Symbol 'cap_cl05_sam-m.psm' created.
+\i (00:00:12) skill 'LB_createFootprint "C:/Users/RobertLi/OneDrive - Clarius Mobile Health Corp/Documents/Orcad/ul_CL05C100JB5NNNC/AllegroV17_2/CAP_CL05_SAM.xml" ' 
+\t (00:00:12) Reading Footprint XML
+\t (00:00:12) Creating padstacks
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 17131
+\i (00:00:12) trapsize 17679
+\i (00:00:12) trapsize 17131
+\i (00:00:12) trapsize 23250
+\i (00:00:12) trapsize 23250
+\i (00:00:12) trapsize 23250
+\t (00:00:12) Performing DRC...
+\t (00:00:12) No DRC errors detected.
+\t (00:00:12) Opening Design "CAP_CL05_SAM.dra"
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 17131
+\i (00:00:12) trapsize 17679
+\i (00:00:12) trapsize 17131
+\i (00:00:12) trapsize 23250
+\i (00:00:12) trapsize 23250
+\i (00:00:12) trapsize 23250
+\t (00:00:12) Performing DRC...
+\t (00:00:12) No DRC errors detected.
+\i (00:00:12) trapsize 23142
+\t (00:00:12) Creating TextBlocks
+\t (00:00:12) Creating Shapes on Package layers
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:12) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+\t (00:00:12) Creating Pins
+\t (00:00:12) Creating Vias
+\t (00:00:12) Creating package symbol 'C:/Users/RobertLi/OneDrive - Clarius Mobile Health Corp/Documents/Orcad/ul_CL05C100JB5NNNC/AllegroV17_2/cap_cl05_sam.psm'.
+\t (00:00:12) Starting Create symbol...
+\t (00:00:13) Symbol Created
+\i (00:00:13) trapsize 621
+\t (00:00:13) Opening existing design...
+\i (00:00:13) trapsize 621
+\i (00:00:13) trapsize 640
+\i (00:00:13) trapsize 621
+\i (00:00:13) trapsize 645
+\d (00:00:13) Design opened: C:/Users/RobertLi/OneDrive - Clarius Mobile Health Corp/Documents/Orcad/ul_CL05C100JB5NNNC/AllegroV17_2/CAP_CL05_SAM.dra
+\t (00:00:13) Symbol Saved
+   (00:00:13) t
+\i (00:00:14) scriptmode +i +n 
+\i (00:00:14) step pkg map 
+\i (00:00:14) fillin yes 
+\i (00:00:15) setwindow form.pkgmap3d 
+\i (00:00:15) FORM pkgmap3d stplist CAP_CL05_SAM.step 
+\i (00:00:15) FORM pkgmap3d rotation_x 0 
+\i (00:00:15) FORM pkgmap3d save_current 
+\i (00:00:15) FORM pkgmap3d done 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) save 
+\i (00:00:15) fillin yes 
+\t (00:00:15) Symbol 'cap_cl05_sam.psm' created.
+\i (00:00:15) exit 
+\t (00:00:15)     Journal end - Fri Sep 23 12:30:34 2022

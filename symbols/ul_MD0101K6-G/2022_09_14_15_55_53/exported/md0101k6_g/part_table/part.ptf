@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MD0101K6_G'
+CLASS = IC
+
+{========================================================================================}
+:PACK_TYPE | VALUE = MANUFACTURER_PART_NUMBER | COPYRIGHT | MFR_NAME | JEDEC_TYPE | DIGI-KEY_PART_NUMBER_1 | PART_NUMBER ;
+{========================================================================================}
+ 'SMD' | 'MD0101K6-G'(!) = 'MD0101K6-G' | 'Copyright (C) 2022 Ultra Librarian. All rights reserved.' | 'Microchip' | 'DFN18_5X5_MCH' | 'MD0101K6-G-ND' | 'MD0101K6-G'
+
+END_PART
+
+END.

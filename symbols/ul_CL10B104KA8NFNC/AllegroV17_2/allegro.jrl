@@ -1,0 +1,120 @@
+\t (00:00:04) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Nov 14 12:29:46 2022
+\t (00:00:04)         Host=LENOVO-10529-P1 User=RobertLi Pid=11864 CPUs=12
+\t (00:00:04) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\ul_CL10B104KA8NFNC\AllegroV17_2\CAP_CL10_SAM.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+   (00:00:04) 
+   (00:00:04) load( "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skill\cmds\\clinecut.il")
+   (00:00:04)                                                            ^^
+   (00:00:04) PARSER WARNING at line 7 column 60 of file allegro.ilinit
+   (00:00:04) *WARNING* (Parser): character found after backslash is not meaningful - '\c'
+   (00:00:04) *Error* load: can't access file - "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skillcmds\\clinecut.il"
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "CAP_CL10_SAM"
+\d (00:00:04) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_CL10B104KA8NFNC/AllegroV17_2/CAP_CL10_SAM.dra
+\i (00:00:05) trapsize 543
+\i (00:00:05) trapsize 557
+\i (00:00:05) trapsize 543
+\i (00:00:05) trapsize 610
+\i (00:00:05) trapsize 622
+\i (00:00:05) etchedit 
+\i (00:00:18) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: footprint_check_dimention"
+\i (00:00:18) color -globvis off 
+\i (00:00:18) color -vis 'BOARD GEOMETRY/DIMENSION' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/PIN_NUMBER' 
+\i (00:00:18) color -vis PIN/TOP 
+\i (00:00:18) color -vis PIN/BOTTOM 
+\i (00:00:18) trapsize 622
+\i (00:00:18) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: footprint_check_dimention"
+\i (00:00:18) etchedit 
+\i (00:00:36) prepopup -41.182 13.577
+\i (00:00:41) pick grid -24.137 48.788
+\t (00:00:41) last pick:  -24.100 48.800
+\i (00:00:42) dimension edit 
+\i (00:00:43) updateport CVPane
+\i (00:00:43) prepopup -30.358 56.253
+\i (00:00:44) pop dyn_option_select '@:@Linear dimension' 
+\t (00:00:44) Pick an element or point to dimension ...
+\i (00:00:45) prepopup -42.302 8.849
+\i (00:00:49) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:00:49) last pick:  -45.496 15.748
+\t (00:00:49) First point found ... pick the second point.
+\i (00:00:51) prepopup 45.290 14.696
+\i (00:00:58) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:00:58) last pick:  45.496 15.748
+\t (00:00:58) Pick location for the dimension value.
+\i (00:01:04) prepopup -8.086 48.166
+\i (00:01:05) oops 
+\t (00:01:05) last pick:  -45.496 15.748
+\t (00:01:05) First point found ... pick the second point.
+\i (00:01:13) param in 
+\i (00:01:15) setwindow form.parm_in
+\i (00:01:15) FORM parm_in browse  
+\i (00:01:27) fillin "E:/share_OrCAD/parameter/footprint_check_Rlv1006.prm"
+\i (00:01:29) FORM parm_in execute  
+\t (00:01:29) Starting Importing parameter file...
+\t (00:01:29) Opening existing design...
+\i (00:01:29) setwindow pcb
+\i (00:01:29) trapsize 622
+\i (00:01:29) trapsize 641
+\i (00:01:29) trapsize 622
+\i (00:01:29) trapsize 647
+\t (00:01:31) Parameter file read completed.
+\i (00:01:31) setwindow form.parm_in
+\i (00:01:31) FORM parm_in cancel  
+\i (00:01:31) setwindow pcb
+\i (00:01:31) etchedit 
+\i (00:01:33) prepopup -43.222 13.850
+\i (00:01:35) pick grid -31.834 52.932
+\t (00:01:35) last pick:  -29.526 54.131
+\i (00:01:37) dimension edit 
+\i (00:01:37) updateport CVPane
+\i (00:01:37) prepopup -28.210 64.061
+\i (00:01:38) pop dyn_option_select '@:@Linear dimension' 
+\t (00:01:38) Pick an element or point to dimension ...
+\i (00:01:40) prepopup -43.739 13.333
+\i (00:01:44) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:01:44) last pick:  -45.496 15.748
+\t (00:01:44) First point found ... pick the second point.
+\i (00:01:46) prepopup 42.835 13.592
+\i (00:01:49) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:01:49) last pick:  45.496 15.748
+\t (00:01:49) Pick location for the dimension value.
+\i (00:02:01) pick grid 0.519 61.732
+\t (00:02:01) last pick:  0.000 63.973
+\t (00:02:01) Pick an element or point to dimension ...
+\i (00:02:03) prepopup -20.057 14.497
+\i (00:02:05) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:02:05) last pick:  -19.684 15.748
+\t (00:02:05) Pick an element or point to dimension ...
+\t (00:02:05) First point found ... pick the second point.
+\i (00:02:07) prepopup 20.189 14.368
+\i (00:02:09) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:02:09) last pick:  19.684 15.748
+\t (00:02:09) Pick location for the dimension value.
+\i (00:02:12) pick grid 2.330 46.720
+\t (00:02:12) last pick:  0.000 44.289
+\t (00:02:12) Pick an element or point to dimension ...
+\i (00:05:59) prepopup -44.257 14.886
+\i (00:06:03) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:06:03) last pick:  -45.496 15.748
+\t (00:06:03) Pick an element or point to dimension ...
+\t (00:06:03) First point found ... pick the second point.
+\i (00:06:05) prepopup -43.739 -15.008
+\i (00:06:07) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:06:07) last pick:  -45.496 -15.748
+\t (00:06:07) Pick location for the dimension value.
+\i (00:06:10) pick grid -61.598 -1.549
+\t (00:06:10) last pick:  -63.973 0.000
+\t (00:06:10) Pick an element or point to dimension ...
+\i (00:06:29) prepopup -55.904 39.214
+\i (00:06:39) done 
+\i (00:06:39) etchedit 
+\i (00:09:46) save 
+\i (00:09:56) fillin yes 
+\t (00:09:56) Symbol 'cap_cl10_sam.psm' created.
+\i (00:09:56) etchedit 
+\i (22:47:55) exit 
+\t (22:47:55)     Journal end - Tue Nov 15 11:17:37 2022

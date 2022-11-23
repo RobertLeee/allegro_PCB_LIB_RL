@@ -1,0 +1,189 @@
+\t (00:00:04) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Fri Sep 23 10:23:40 2022
+\t (00:00:04)         Host=LENOVO-10529-P1 User=RobertLi Pid=2188 CPUs=12
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 116667
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_06035C220JAT2A/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_06035C220JAT2A/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_06035C220JAT2A/AllegroV17_2/0603_AVX-L.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 974
+\i (00:00:05) trapsize 1003
+\i (00:00:05) trapsize 1014
+\i (00:00:05) trapsize 974
+\i (00:00:05) trapsize 970
+\i (00:00:05) trapsize 970
+\i (00:00:05) trapsize 970
+\i (00:00:05) trapsize 97043
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (12 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "0603_AVX-L.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 100287
+\i (00:00:05) trapsize 101432
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 97365
+\i (00:00:05) trapsize 97365
+\t (00:00:05) Performing DRC...
+\t (00:00:05) No DRC errors detected.
+\i (00:00:05) trapsize 23193
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_06035C220JAT2A/AllegroV17_2/0603_avx-l.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:06) Symbol Created
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\i (00:00:06) trapsize 691
+\i (00:00:06) trapsize 663
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 663
+\i (00:00:06) trapsize 684
+\i (00:00:07) trapsize 663
+\i (00:00:07) trapsize 689
+\d (00:00:07) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_06035C220JAT2A/AllegroV17_2/0603_AVX-L.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) scriptmode +i +n 
+\i (00:00:07) step pkg map 
+\i (00:00:57) fillin yes 
+\i (00:00:57) setwindow form.pkgmap3d 
+\i (00:00:57) FORM pkgmap3d stplist 0603_AVX.step 
+\i (00:00:57) FORM pkgmap3d rotation_x 0 
+\i (00:00:57) FORM pkgmap3d save_current 
+\i (00:00:57) FORM pkgmap3d done 
+\i (00:00:57) setwindow pcb 
+\i (00:00:57) save 
+\i (00:00:57) fillin yes 
+\t (00:00:58) Symbol '0603_avx-l.psm' created.
+\i (00:00:58) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_06035C220JAT2A/AllegroV17_2/0603_AVX-M.xml" ' 
+\t (00:00:58) Reading Footprint XML
+\t (00:00:58) Creating padstacks
+\t (00:00:58) Starting new design...
+\i (00:00:58) trapsize 17473
+\i (00:00:58) trapsize 18033
+\i (00:00:58) trapsize 17473
+\i (00:00:58) trapsize 23193
+\i (00:00:58) trapsize 23193
+\i (00:00:58) trapsize 23193
+\t (00:00:58) Performing DRC...
+\t (00:00:58) No DRC errors detected.
+\t (00:00:58) Opening Design "0603_AVX-M.dra"
+\t (00:00:58) Starting new design...
+\i (00:00:59) trapsize 17473
+\i (00:00:59) trapsize 18033
+\i (00:00:59) trapsize 17473
+\i (00:00:59) trapsize 23193
+\i (00:00:59) trapsize 23193
+\i (00:00:59) trapsize 23193
+\t (00:00:59) Performing DRC...
+\i (00:00:59) trapsize 22299
+\t (00:00:59) No DRC errors detected.
+\i (00:00:59) trapsize 22486
+\t (00:00:59) Creating TextBlocks
+\t (00:00:59) Creating Shapes on Package layers
+   (00:00:59) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:00:59) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:00:59) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:00:59) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+\t (00:00:59) Creating Pins
+\t (00:00:59) Creating Vias
+\t (00:00:59) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_06035C220JAT2A/AllegroV17_2/0603_avx-m.psm'.
+\t (00:00:59) Starting Create symbol...
+\t (00:00:59) Symbol Created
+\i (00:00:59) trapsize 762
+\t (00:00:59) Opening existing design...
+\i (00:00:59) trapsize 762
+\i (00:00:59) trapsize 787
+\i (00:00:59) trapsize 762
+\i (00:00:59) trapsize 793
+\d (00:00:59) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_06035C220JAT2A/AllegroV17_2/0603_AVX-M.dra
+\t (00:01:00) Symbol Saved
+   (00:01:00) t
+\i (00:01:00) scriptmode +i +n 
+\i (00:01:00) step pkg map 
+\i (00:01:03) fillin yes 
+\i (00:01:03) setwindow form.pkgmap3d 
+\i (00:01:03) FORM pkgmap3d stplist 0603_AVX.step 
+\i (00:01:03) FORM pkgmap3d rotation_x 0 
+\i (00:01:03) FORM pkgmap3d save_current 
+\i (00:01:03) FORM pkgmap3d done 
+\i (00:01:03) setwindow pcb 
+\i (00:01:03) save 
+\i (00:01:03) fillin yes 
+\t (00:01:04) Symbol '0603_avx-m.psm' created.
+\i (00:01:04) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_06035C220JAT2A/AllegroV17_2/0603_AVX.xml" ' 
+\t (00:01:04) Reading Footprint XML
+\t (00:01:04) Creating padstacks
+\t (00:01:04) Starting new design...
+\i (00:01:04) trapsize 17473
+\i (00:01:04) trapsize 18033
+\i (00:01:04) trapsize 17473
+\i (00:01:04) trapsize 23388
+\i (00:01:04) trapsize 23388
+\i (00:01:04) trapsize 23388
+\t (00:01:04) Performing DRC...
+\t (00:01:04) No DRC errors detected.
+\t (00:01:04) Opening Design "0603_AVX.dra"
+\t (00:01:04) Starting new design...
+\i (00:01:04) trapsize 17473
+\i (00:01:04) trapsize 18033
+\i (00:01:04) trapsize 17473
+\i (00:01:04) trapsize 23388
+\i (00:01:04) trapsize 23388
+\i (00:01:04) trapsize 23388
+\t (00:01:04) Performing DRC...
+\t (00:01:05) No DRC errors detected.
+\i (00:01:05) trapsize 23279
+\t (00:01:05) Creating TextBlocks
+\t (00:01:05) Creating Shapes on Package layers
+   (00:01:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:01:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:01:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:01:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+\e (00:01:05) ERROR(SPMHDB-69): Incomplete arc segment data.
+\t (00:01:05) Creating Pins
+\t (00:01:05) Creating Vias
+\t (00:01:05) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_06035C220JAT2A/AllegroV17_2/0603_avx.psm'.
+\t (00:01:05) Starting Create symbol...
+\t (00:01:05) Symbol Created
+\i (00:01:05) trapsize 621
+\t (00:01:05) Opening existing design...
+\i (00:01:05) trapsize 621
+\i (00:01:05) trapsize 640
+\i (00:01:05) trapsize 621
+\i (00:01:06) trapsize 645
+\d (00:01:06) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_06035C220JAT2A/AllegroV17_2/0603_AVX.dra
+\t (00:01:06) Symbol Saved
+   (00:01:06) t
+\i (00:01:06) scriptmode +i +n 
+\i (00:01:06) step pkg map 
+\i (00:01:08) fillin yes 
+\i (00:01:08) setwindow form.pkgmap3d 
+\i (00:01:08) FORM pkgmap3d stplist 0603_AVX.step 
+\i (00:01:08) FORM pkgmap3d rotation_x 0 
+\i (00:01:08) FORM pkgmap3d save_current 
+\i (00:01:08) FORM pkgmap3d done 
+\i (00:01:09) setwindow pcb 
+\i (00:01:09) save 
+\i (00:01:09) fillin yes 
+\t (00:01:09) Symbol '0603_avx.psm' created.
+\i (00:01:09) exit 
+\t (00:01:09)     Journal end - Fri Sep 23 10:24:45 2022

@@ -1,0 +1,36 @@
+skill load "E:/share_OrCAD/pcb_lib/symbols/ul_ESDM3551MXT5G/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_ESDM3551MXT5G/AllegroV17_2" 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_ESDM3551MXT5G/AllegroV17_2/X3DFN2_152AF_ONS-L.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist X3DFN2_152AF_ONS.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_ESDM3551MXT5G/AllegroV17_2/X3DFN2_152AF_ONS-M.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist X3DFN2_152AF_ONS.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_ESDM3551MXT5G/AllegroV17_2/X3DFN2_152AF_ONS.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist X3DFN2_152AF_ONS.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

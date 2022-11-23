@@ -1,0 +1,118 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Nov 14 13:43:02 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=26860 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\share_OrCAD\pcb_lib\symbols\ul_RC0603FR-0710KL\AllegroV17_2\RC0603N_YAG.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) 
+   (00:00:03) load( "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skill\cmds\\clinecut.il")
+   (00:00:03)                                                            ^^
+   (00:00:03) PARSER WARNING at line 7 column 60 of file allegro.ilinit
+   (00:00:03) *WARNING* (Parser): character found after backslash is not meaningful - '\c'
+   (00:00:03) *Error* load: can't access file - "C:C:\\Cadence\\SPB_17.4\\share\\pcb\\examples\\skillcmds\\clinecut.il"
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "RC0603N_YAG"
+\d (00:00:03) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_RC0603FR-0710KL/AllegroV17_2/RC0603N_YAG.dra
+\i (00:00:04) trapsize 543
+\i (00:00:04) trapsize 557
+\i (00:00:04) trapsize 543
+\i (00:00:04) trapsize 610
+\i (00:00:04) trapsize 622
+\i (00:00:04) etchedit 
+\i (00:00:14) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: Visibility_RL_TOP"
+\i (00:00:14) color -globvis off 
+\i (00:00:14) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:14) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:14) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:00:14) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:00:14) color -vis ETCH/TOP 
+\i (00:00:14) color -vis 'PACKAGE GEOMETRY/MODEL_OUTLINE' 
+\i (00:00:14) color -vis 'PACKAGE GEOMETRY/PASTEMASK_TOP' 
+\i (00:00:14) color -vis 'PACKAGE GEOMETRY/DFA_BOUND_TOP' 
+\i (00:00:14) color -vis 'PACKAGE GEOMETRY/SOLDERMASK_TOP' 
+\i (00:00:14) color -vis 'PACKAGE GEOMETRY/BODY_CENTER' 
+\i (00:00:14) color -vis PIN/TOP 
+\i (00:00:14) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:00:14) color -vis 'VIA CLASS/TOP' 
+\i (00:00:14) color -vis CAVITY/TOP 
+\i (00:00:15) trapsize 622
+\i (00:00:15) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: Visibility_RL_TOP"
+\i (00:00:15) etchedit 
+\i (00:00:17) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: footprint_check_dimention"
+\i (00:00:17) color -globvis off 
+\i (00:00:17) color -vis 'BOARD GEOMETRY/DIMENSION' 
+\i (00:00:17) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:17) color -vis 'PACKAGE GEOMETRY/PIN_NUMBER' 
+\i (00:00:18) color -vis PIN/TOP 
+\i (00:00:18) color -vis PIN/BOTTOM 
+\i (00:00:18) trapsize 622
+\i (00:00:18) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: footprint_check_dimention"
+\i (00:00:18) etchedit 
+\i (00:00:32) param in 
+\i (00:00:34) setwindow form.parm_in
+\i (00:00:34) FORM parm_in browse  
+\i (00:00:51) fillin "E:/share_OrCAD/parameter/footprint_check_Rlv1006.prm"
+\i (00:00:52) FORM parm_in execute  
+\t (00:00:52) Starting Importing parameter file...
+\t (00:00:52) Opening existing design...
+\i (00:00:52) setwindow pcb
+\i (00:00:52) trapsize 622
+\i (00:00:52) trapsize 641
+\i (00:00:53) trapsize 622
+\i (00:00:53) trapsize 647
+\t (00:00:54) Parameter file read completed.
+\i (00:00:58) setwindow form.parm_in
+\i (00:00:58) FORM parm_in cancel  
+\i (00:00:58) setwindow pcb
+\i (00:00:58) etchedit 
+\i (00:08:09) prepopup -37.916 14.109
+\i (00:08:13) dimension edit 
+\i (00:08:13) updateport CVPane
+\i (00:08:14) prepopup -43.998 31.579
+\i (00:08:15) pop dyn_option_select '@:@Linear dimension' 
+\t (00:08:16) Pick an element or point to dimension ...
+\i (00:08:17) prepopup -42.057 11.780
+\i (00:08:20) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:08:20) last pick:  -45.500 16.000
+\t (00:08:20) First point found ... pick the second point.
+\i (00:08:22) prepopup 43.482 15.015
+\i (00:08:25) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:08:25) last pick:  45.500 16.000
+\t (00:08:25) Pick location for the dimension value.
+\i (00:08:31) pick grid -2.458 52.932
+\t (00:08:32) last pick:  0.000 54.131
+\t (00:08:32) Pick an element or point to dimension ...
+\i (00:08:33) prepopup -15.916 15.274
+\i (00:08:38) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:08:38) last pick:  -15.500 16.000
+\t (00:08:38) Pick an element or point to dimension ...
+\t (00:08:38) First point found ... pick the second point.
+\i (00:08:40) prepopup 16.048 14.368
+\i (00:08:44) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:08:44) last pick:  15.500 16.000
+\t (00:08:44) Pick location for the dimension value.
+\i (00:08:46) pick grid -1.293 37.014
+\t (00:08:46) last pick:  0.000 39.368
+\t (00:08:46) Pick an element or point to dimension ...
+\i (00:08:48) prepopup -44.127 14.756
+\i (00:08:51) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:08:51) last pick:  -45.500 16.000
+\t (00:08:51) Pick an element or point to dimension ...
+\t (00:08:51) First point found ... pick the second point.
+\i (00:08:53) prepopup -44.904 -15.655
+\i (00:08:57) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:08:57) last pick:  -45.500 -16.000
+\t (00:08:57) Pick location for the dimension value.
+\i (00:08:58) pick grid -61.598 -10.349
+\t (00:08:58) last pick:  -63.973 -9.842
+\t (00:08:58) Pick an element or point to dimension ...
+\i (00:08:59) prepopup -40.504 66.261
+\i (00:09:00) done 
+\i (00:09:00) etchedit 
+\t (00:10:52) Performing autosave...
+\t (00:10:52) Autosave successful
+\i (02:50:51) exit 
+\e (02:50:51) Do you want to save the changes you made to E:/share_OrCAD/pcb_lib/symbols/ul_RC0603FR-0710KL/AllegroV17_2/RC0603N_YAG.dra?
+\i (02:50:55) fillin yes 
+\t (02:50:55) Symbol 'rc0603n_yag.psm' created.
+\t (02:50:55)     Journal end - Mon Nov 14 16:33:54 2022

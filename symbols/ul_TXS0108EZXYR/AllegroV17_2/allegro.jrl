@@ -1,0 +1,74 @@
+\t (00:00:02) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Sep 23 13:29:43 2022
+\t (00:00:02)         Host=LENOVO-10529-P1 User=RobertLi Pid=23380 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Starting new design...
+\i (00:00:03) trapsize 116667
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_TXS0108EZXYR/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_TXS0108EZXYR/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TXS0108EZXYR/AllegroV17_2/ZXY20.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 974
+\i (00:00:03) trapsize 1003
+\i (00:00:03) trapsize 1014
+\i (00:00:03) trapsize 974
+\i (00:00:03) trapsize 970
+\i (00:00:03) trapsize 970
+\i (00:00:03) trapsize 970
+\i (00:00:03) trapsize 97043
+\t (00:00:03) Performing DRC...
+\t (00:00:03) Multithreaded DRC update (12 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "ZXY20.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 100287
+\i (00:00:04) trapsize 101432
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\t (00:00:04) Performing DRC...
+\t (00:00:04) No DRC errors detected.
+\i (00:00:04) trapsize 19742
+\t (00:00:04) Creating TextBlocks
+\t (00:00:04) Creating Shapes on Package layers
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 24.0)
+\e (00:00:04) ERROR(SPMHDB-185): Filled SHAPE may not exist on layer 'CONSTRAINT REGION/ALL'.
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\t (00:00:04) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_TXS0108EZXYR/AllegroV17_2/zxy20.psm'.
+\t (00:00:04) Starting Create symbol...
+\t (00:00:04) Symbol Created
+   (00:00:04) Loading cmds.cxt 
+   (00:00:04) Loading skillExt.cxt 
+\i (00:00:04) trapsize 836
+\t (00:00:04) Opening existing design...
+\i (00:00:04) trapsize 802
+\i (00:00:04) trapsize 828
+\i (00:00:04) trapsize 802
+\i (00:00:04) trapsize 836
+\d (00:00:04) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TXS0108EZXYR/AllegroV17_2/ZXY20.dra
+\t (00:00:04) Symbol Saved
+   (00:00:04) t
+\i (00:00:04) scriptmode +i +n 
+\i (00:00:04) step pkg map 
+\i (00:00:06) fillin yes 
+\i (00:00:06) setwindow form.pkgmap3d 
+\i (00:00:06) FORM pkgmap3d stplist ZXY20.step 
+\i (00:00:07) FORM pkgmap3d rotation_x 0 
+\i (00:00:07) FORM pkgmap3d save_current 
+\i (00:00:07) FORM pkgmap3d done 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) save 
+\i (00:00:07) fillin yes 
+\t (00:00:07) Symbol 'zxy20.psm' created.
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Fri Sep 23 13:29:48 2022

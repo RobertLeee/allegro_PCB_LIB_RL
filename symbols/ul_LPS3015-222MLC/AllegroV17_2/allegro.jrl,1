@@ -1,0 +1,61 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Oct 13 12:37:11 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=28368 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\e (00:00:03) Retrieval of 'OrCAD_PCB_Editor_Basics' license failed: ''. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:04) fillin confirm
+\i (00:00:50) fillin OrCAD_PCB_Editor_Basics
+\t (00:00:50) Starting new design...
+\i (00:00:51) trapsize 116667
+\i (00:00:51) replay builder.scr.txt 
+\i (00:00:51) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_LPS3015-222MLC/AllegroV17_2/builder.ile" ' 
+   (00:00:51) t
+\i (00:00:51) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_LPS3015-222MLC/AllegroV17_2" ' 
+   (00:00:51) t
+\i (00:00:51) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_LPS3015-222MLC/AllegroV17_2/IND_LPS3015.xml" ' 
+\t (00:00:51) Reading Footprint XML
+\t (00:00:51) Creating padstacks
+\t (00:00:51) Starting new design...
+\i (00:00:51) trapsize 773
+\i (00:00:51) trapsize 793
+\i (00:00:51) trapsize 773
+\i (00:00:51) trapsize 974
+\i (00:00:51) trapsize 974
+\i (00:00:51) trapsize 97365
+\t (00:00:51) Performing DRC...
+\t (00:00:51) Multithreaded DRC update (12 threads).
+\t (00:00:51) No DRC errors detected.
+\t (00:00:51) Opening Design "IND_LPS3015.dra"
+\t (00:00:51) Starting new design...
+\i (00:00:51) trapsize 77263
+\i (00:00:51) trapsize 79305
+\i (00:00:51) trapsize 77263
+\i (00:00:51) trapsize 97365
+\i (00:00:51) trapsize 97365
+\i (00:00:51) trapsize 97365
+\t (00:00:51) Performing DRC...
+\t (00:00:51) No DRC errors detected.
+\i (00:00:51) trapsize 20997
+\t (00:00:51) Creating TextBlocks
+\t (00:00:51) Creating Shapes on Package layers
+   (00:00:51) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 59.0)
+\t (00:00:51) Creating Pins
+\t (00:00:51) Creating Vias
+\t (00:00:51) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_LPS3015-222MLC/AllegroV17_2/ind_lps3015.psm'.
+\t (00:00:51) Starting Create symbol...
+\t (00:00:51) Symbol Created
+   (00:00:51) Loading cmds.cxt 
+   (00:00:51) Loading skillExt.cxt 
+\i (00:00:51) trapsize 848
+\t (00:00:51) Opening existing design...
+\i (00:00:51) trapsize 965
+\i (00:00:52) trapsize 994
+\i (00:00:52) trapsize 965
+\i (00:00:52) trapsize 965
+\d (00:00:52) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_LPS3015-222MLC/AllegroV17_2/IND_LPS3015.dra
+\t (00:00:52) Symbol Saved
+   (00:00:52) t
+\i (00:00:52) exit 
+\t (00:00:52)     Journal end - Thu Oct 13 12:38:00 2022

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CAP_GRT15_MUR-L.dra                           )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Thu Sep 22 12:28:07 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/share_OrCAD/pcb_lib/symbols/ul_GRT155R61E474KE01/AllegroV17_2
+    Name      = cap_grt15_mur-l.psm
+    User      = RobertLi
+    Machine   = LENOVO-10529-P1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

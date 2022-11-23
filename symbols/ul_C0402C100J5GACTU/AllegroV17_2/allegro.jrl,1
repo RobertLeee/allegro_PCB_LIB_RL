@@ -1,0 +1,186 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Oct  5 15:06:34 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=13224 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\e (00:00:03) Retrieval of 'OrCAD_PCB_Editor_Basics' license failed: ''. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:16) fillin confirm
+\i (00:00:34) fillin OrCAD_PCB_Editor_Basics
+\t (00:00:34) Starting new design...
+\i (00:00:34) trapsize 116667
+\i (00:00:34) replay builder.scr.txt 
+\i (00:00:34) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2/builder.ile" ' 
+   (00:00:34) t
+\i (00:00:34) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2" ' 
+   (00:00:34) t
+\i (00:00:34) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2/CAPC10555_55N_KEM-L.xml" ' 
+\t (00:00:34) Reading Footprint XML
+\t (00:00:34) Creating padstacks
+\t (00:00:34) Starting new design...
+\i (00:00:35) trapsize 806
+\i (00:00:35) trapsize 829
+\i (00:00:35) trapsize 974
+\i (00:00:35) trapsize 974
+\i (00:00:35) trapsize 97365
+\t (00:00:35) Performing DRC...
+\t (00:00:35) Multithreaded DRC update (12 threads).
+\t (00:00:35) No DRC errors detected.
+\t (00:00:35) Opening Design "CAPC10555_55N_KEM-L.dra"
+\t (00:00:35) Starting new design...
+\i (00:00:35) trapsize 80645
+\i (00:00:35) trapsize 82873
+\i (00:00:35) trapsize 80645
+\i (00:00:35) trapsize 97365
+\i (00:00:35) trapsize 97365
+\i (00:00:35) trapsize 97365
+\t (00:00:35) Performing DRC...
+\t (00:00:35) No DRC errors detected.
+\i (00:00:35) trapsize 23044
+\t (00:00:35) Creating TextBlocks
+\t (00:00:35) Creating Shapes on Package layers
+   (00:00:35) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:35) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:35) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:35) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+\t (00:00:35) Creating Pins
+\t (00:00:35) Creating Vias
+\t (00:00:35) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2/capc10555_55n_kem-l.psm'.
+\t (00:00:35) Starting Create symbol...
+\t (00:00:36) Symbol Created
+   (00:00:36) Loading cmds.cxt 
+   (00:00:36) Loading skillExt.cxt 
+\i (00:00:36) trapsize 538
+\i (00:00:36) trapsize 588
+\t (00:00:36) Opening existing design...
+\i (00:00:36) trapsize 588
+\i (00:00:36) trapsize 606
+\i (00:00:36) trapsize 588
+\i (00:00:36) trapsize 612
+\d (00:00:36) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2/CAPC10555_55N_KEM-L.dra
+\t (00:00:36) Symbol Saved
+   (00:00:36) t
+\i (00:00:36) scriptmode +i +n 
+\i (00:00:36) step pkg map 
+\i (00:00:38) fillin yes 
+\i (00:00:38) setwindow form.pkgmap3d 
+\i (00:00:38) FORM pkgmap3d stplist CAPC10555_55N_KEM.step 
+\i (00:00:39) FORM pkgmap3d rotation_x 0 
+\i (00:00:39) FORM pkgmap3d save_current 
+\i (00:00:39) FORM pkgmap3d done 
+\i (00:00:39) setwindow pcb 
+\i (00:00:39) save 
+\i (00:00:39) fillin yes 
+\t (00:00:39) Symbol 'capc10555_55n_kem-l.psm' created.
+\i (00:00:39) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2/CAPC10555_55N_KEM-M.xml" ' 
+\t (00:00:39) Reading Footprint XML
+\t (00:00:39) Creating padstacks
+\t (00:00:39) Starting new design...
+\i (00:00:39) trapsize 16452
+\i (00:00:39) trapsize 16951
+\i (00:00:39) trapsize 16452
+\i (00:00:39) trapsize 23044
+\i (00:00:39) trapsize 23044
+\i (00:00:39) trapsize 23044
+\t (00:00:39) Performing DRC...
+\t (00:00:39) No DRC errors detected.
+\t (00:00:39) Opening Design "CAPC10555_55N_KEM-M.dra"
+\t (00:00:39) Starting new design...
+\i (00:00:39) trapsize 16452
+\i (00:00:39) trapsize 16951
+\i (00:00:40) trapsize 16452
+\i (00:00:40) trapsize 23044
+\i (00:00:40) trapsize 23044
+\i (00:00:40) trapsize 23044
+\t (00:00:40) Performing DRC...
+\t (00:00:40) No DRC errors detected.
+\i (00:00:40) trapsize 23124
+\t (00:00:40) Creating TextBlocks
+\t (00:00:40) Creating Shapes on Package layers
+   (00:00:40) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:40) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:40) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:40) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+\t (00:00:40) Creating Pins
+\t (00:00:40) Creating Vias
+\t (00:00:40) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2/capc10555_55n_kem-m.psm'.
+\t (00:00:40) Starting Create symbol...
+\t (00:00:40) Symbol Created
+\i (00:00:40) trapsize 588
+\t (00:00:40) Opening existing design...
+\i (00:00:40) trapsize 588
+\i (00:00:40) trapsize 606
+\i (00:00:41) trapsize 588
+\i (00:00:41) trapsize 612
+\d (00:00:41) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2/CAPC10555_55N_KEM-M.dra
+\t (00:00:41) Symbol Saved
+   (00:00:41) t
+\i (00:00:41) scriptmode +i +n 
+\i (00:00:41) step pkg map 
+\i (00:00:42) fillin yes 
+\i (00:00:42) setwindow form.pkgmap3d 
+\i (00:00:42) FORM pkgmap3d stplist CAPC10555_55N_KEM.step 
+\i (00:00:42) FORM pkgmap3d rotation_x 0 
+\i (00:00:42) FORM pkgmap3d save_current 
+\i (00:00:42) FORM pkgmap3d done 
+\i (00:00:42) setwindow pcb 
+\i (00:00:42) save 
+\i (00:00:42) fillin yes 
+\t (00:00:42) Symbol 'capc10555_55n_kem-m.psm' created.
+\i (00:00:42) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2/CAPC10555_55N_KEM.xml" ' 
+\t (00:00:42) Reading Footprint XML
+\t (00:00:42) Creating padstacks
+\t (00:00:42) Starting new design...
+\i (00:00:42) trapsize 16452
+\i (00:00:43) trapsize 16951
+\i (00:00:43) trapsize 16452
+\i (00:00:43) trapsize 23124
+\i (00:00:43) trapsize 23124
+\i (00:00:43) trapsize 23124
+\t (00:00:43) Performing DRC...
+\t (00:00:43) No DRC errors detected.
+\t (00:00:43) Opening Design "CAPC10555_55N_KEM.dra"
+\t (00:00:43) Starting new design...
+\i (00:00:43) trapsize 16452
+\i (00:00:43) trapsize 16951
+\i (00:00:43) trapsize 16452
+\i (00:00:43) trapsize 23124
+\i (00:00:43) trapsize 23124
+\i (00:00:43) trapsize 23124
+\t (00:00:43) Performing DRC...
+\t (00:00:43) No DRC errors detected.
+\i (00:00:43) trapsize 23084
+\t (00:00:43) Creating TextBlocks
+\t (00:00:43) Creating Shapes on Package layers
+   (00:00:43) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:43) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:43) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+   (00:00:43) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 21.6535)
+\t (00:00:43) Creating Pins
+\t (00:00:43) Creating Vias
+\t (00:00:43) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2/capc10555_55n_kem.psm'.
+\t (00:00:43) Starting Create symbol...
+\t (00:00:43) Symbol Created
+\i (00:00:43) trapsize 588
+\t (00:00:44) Opening existing design...
+\i (00:00:44) trapsize 588
+\i (00:00:44) trapsize 606
+\i (00:00:44) trapsize 588
+\i (00:00:44) trapsize 612
+\d (00:00:44) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_C0402C100J5GACTU/AllegroV17_2/CAPC10555_55N_KEM.dra
+\t (00:00:44) Symbol Saved
+   (00:00:44) t
+\i (00:00:44) scriptmode +i +n 
+\i (00:00:44) step pkg map 
+\i (00:00:45) fillin yes 
+\i (00:00:46) setwindow form.pkgmap3d 
+\i (00:00:46) FORM pkgmap3d stplist CAPC10555_55N_KEM.step 
+\i (00:00:46) FORM pkgmap3d rotation_x 0 
+\i (00:00:46) FORM pkgmap3d save_current 
+\i (00:00:46) FORM pkgmap3d done 
+\i (00:00:46) setwindow pcb 
+\i (00:00:46) save 
+\i (00:00:46) fillin yes 
+\t (00:00:46) Symbol 'capc10555_55n_kem.psm' created.
+\i (00:00:46) exit 
+\t (00:00:46)     Journal end - Wed Oct  5 15:07:17 2022

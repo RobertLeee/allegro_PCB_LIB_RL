@@ -1,0 +1,85 @@
+Tue Oct  4 10:09:53 2022				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Tue Oct  4 10:09:53 2022
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : ECLGA-14_MPM4710.dra                          )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Tue Oct  4 10:09:53 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Oct  4 10:09:53 2022				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'E:/share_OrCAD/pcb_lib/symbols/ul_MP2276GD-P/AllegroV17_2/ECLGA-14_MPM4710.dra'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'YES'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'YES'
+Ripup Etch                             = 'YES'
+Reset custom drill data                = 'YES'
+Symbol list file                       = 'C:/Users/RobertLi/AppData/Local/Temp/#Taaaaaw02236.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.4/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/allegrolib/symbols 
+           . 
+           E:/share_OrCAD/pcb_lib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.4/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.4/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/allegrolib/symbols 
+           E:/share_OrCAD/pcb_lib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+
+
+------ Pad Stack Refresh Messages ------
+
+WARNING(SPMHNI-255): Symbol 'ú' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'ú' not found (in list file).
+WARNING(SPMHNI-255): Symbol '' not found (in list file).
+
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 0 out 0
+    Design updated.
+

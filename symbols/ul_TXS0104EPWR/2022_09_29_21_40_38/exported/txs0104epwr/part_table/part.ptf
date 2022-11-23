@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TXS0104EPWR'
+CLASS = IC
+
+{========================================================================================}
+:PACK_TYPE | VALUE = MANUFACTURER_PART_NUMBER | COPYRIGHT | MFR_NAME | JEDEC_TYPE | PART_NUMBER ;
+{========================================================================================}
+ 'SMD' | 'TXS0104EPWR'(!) = 'TXS0104EPWR' | 'Copyright (C) 2022 Ultra Librarian. All rights reserved.' | 'Texas Instruments' | 'PW14' | 'TXS0104EPWR'
+
+END_PART
+
+END.

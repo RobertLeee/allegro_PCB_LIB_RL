@@ -1,0 +1,63 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Sep 20 14:29:32 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=25352 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\e (00:00:03) Retrieval of 'OrCAD_PCB_Editor_Basics' license failed: ''. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:09) fillin confirm
+\i (00:07:47) fillin OrCAD_PCB_Editor_Basics
+\t (00:07:47) Starting new design...
+\i (00:07:48) trapsize 116667
+\i (00:07:48) replay builder.scr.txt 
+\i (00:07:48) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_5-103635-1/AllegroV17_2/builder.ile" ' 
+   (00:07:48) t
+\i (00:07:48) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_5-103635-1/AllegroV17_2" ' 
+   (00:07:48) t
+\i (00:07:48) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_5-103635-1/AllegroV17_2/CONN_5-103635-1_TYCO.xml" ' 
+\t (00:07:48) Reading Footprint XML
+\t (00:07:48) Creating padstacks
+\t (00:07:48) Starting new design...
+\i (00:07:48) trapsize 879
+\i (00:07:48) trapsize 905
+\i (00:07:48) trapsize 879
+\i (00:07:48) trapsize 974
+\i (00:07:48) trapsize 974
+\i (00:07:48) trapsize 97365
+\t (00:07:48) Performing DRC...
+\t (00:07:48) Multithreaded DRC update (12 threads).
+\t (00:07:48) No DRC errors detected.
+\t (00:07:48) Opening Design "CONN_5-103635-1_TYCO.dra"
+\t (00:07:48) Starting new design...
+\i (00:07:48) trapsize 87866
+\i (00:07:48) trapsize 90517
+\i (00:07:49) trapsize 87866
+\i (00:07:49) trapsize 97365
+\i (00:07:49) trapsize 97365
+\i (00:07:49) trapsize 97365
+\t (00:07:49) Performing DRC...
+\t (00:07:49) No DRC errors detected.
+\i (00:07:49) trapsize 26907
+\t (00:07:49) Creating TextBlocks
+\t (00:07:49) Creating Shapes on Package layers
+   (00:07:49) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 292.0)
+\t (00:07:49) Creating Pins
+\t (00:07:49) Creating Vias
+\i (00:07:49) trapsize 26184
+\i (00:07:55) fillin yes 
+\t (00:07:55) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_5-103635-1/AllegroV17_2/conn_5-103635-1_tyco.psm'.
+\t (00:07:55) Starting Create symbol...
+\t (00:07:55) Symbol Created
+   (00:07:55) Loading cmds.cxt 
+   (00:07:55) Loading skillExt.cxt 
+\i (00:07:55) trapsize 6354
+\t (00:07:55) Opening existing design...
+\i (00:07:55) trapsize 6354
+\i (00:07:55) trapsize 6541
+\i (00:07:55) trapsize 6354
+\i (00:07:55) trapsize 6732
+\d (00:07:55) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_5-103635-1/AllegroV17_2/CONN_5-103635-1_TYCO.dra
+\t (00:07:55) Symbol Saved
+   (00:07:55) t
+\i (00:07:55) exit 
+\t (00:07:55)     Journal end - Tue Sep 20 14:37:24 2022

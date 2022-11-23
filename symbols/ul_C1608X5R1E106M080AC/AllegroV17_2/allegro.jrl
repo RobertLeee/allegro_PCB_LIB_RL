@@ -1,0 +1,76 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Sep 22 12:36:54 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=19420 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 116667
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_C1608X5R1E106M080AC/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_C1608X5R1E106M080AC/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_C1608X5R1E106M080AC/AllegroV17_2/CAP_1608_TDK-L.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 811
+\i (00:00:04) trapsize 833
+\i (00:00:04) trapsize 811
+\i (00:00:04) trapsize 936
+\i (00:00:04) trapsize 936
+\i (00:00:04) trapsize 93612
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (12 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "CAP_1608_TDK-L.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 81081
+\i (00:00:04) trapsize 83333
+\i (00:00:04) trapsize 81081
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\t (00:00:04) Performing DRC...
+\t (00:00:05) No DRC errors detected.
+\i (00:00:05) trapsize 23179
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 35.0)
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_C1608X5R1E106M080AC/AllegroV17_2/cap_1608_tdk-l.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:05) Symbol Created
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\i (00:00:05) trapsize 573
+\i (00:00:05) trapsize 658
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 658
+\i (00:00:05) trapsize 679
+\i (00:00:05) trapsize 658
+\i (00:00:05) trapsize 685
+\d (00:00:05) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_C1608X5R1E106M080AC/AllegroV17_2/CAP_1608_TDK-L.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) scriptmode +i +n 
+\i (00:00:05) step pkg map 
+\i (00:00:07) fillin no 
+\i (00:00:07) setwindow form.pkgmap3d 
+\e (00:00:07) Can't find window; form.pkgmap3d
+\i (00:00:07) trapsize 685
+\i (00:00:14) show measure 
+\i (00:00:16) pick grid -32.730 -0.040
+\t (00:00:16) last pick:  -32.700 0.000
+\i (00:00:18) pick grid 32.173 0.507
+\t (00:00:18) last pick:  32.200 0.500
+\i (00:00:34) exit 
+\e (00:00:34) Do you want to save the changes you made to CAP_1608_TDK-L.dra?
+\i (00:00:38) fillin yes 
+\t (00:00:38) Symbol 'cap_1608_tdk-l.psm' created.
+\t (00:00:38)     Journal end - Thu Sep 22 12:37:30 2022

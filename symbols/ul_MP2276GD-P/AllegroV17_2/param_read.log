@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : ECLGA-14_MPM4710_RL1003.dra                   )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Thu Oct  6 16:01:40 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : E:/share_OrCAD/Proj/footprint_design_para_RLv1001.prm
+	Layout Name   : E:/share_OrCAD/pcb_lib/symbols/ul_MP2276GD-P/AllegroV17_2/ECLGA-14_MPM4710_RL1003.dra
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...text_size_table:
+Reading...ministat_parm_type:
+Reading...ifp_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

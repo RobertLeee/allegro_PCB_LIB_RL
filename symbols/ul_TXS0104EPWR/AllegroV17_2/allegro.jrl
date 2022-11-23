@@ -1,0 +1,176 @@
+\t (00:00:03) allegro 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Sep 29 14:42:10 2022
+\t (00:00:03)         Host=LENOVO-10529-P1 User=RobertLi Pid=28120 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 116667
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "E:/share_OrCAD/pcb_lib/symbols/ul_TXS0104EPWR/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_TXS0104EPWR/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TXS0104EPWR/AllegroV17_2/PW14-L.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 2059
+\i (00:00:04) trapsize 2211
+\i (00:00:04) trapsize 2211
+\i (00:00:04) trapsize 2211
+\i (00:00:04) trapsize 221053
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (12 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "PW14-L.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 205882
+\i (00:00:04) trapsize 221053
+\i (00:00:04) trapsize 205882
+\i (00:00:04) trapsize 205882
+\i (00:00:04) trapsize 205882
+\i (00:00:04) trapsize 205882
+\t (00:00:04) Performing DRC...
+\t (00:00:04) No DRC errors detected.
+\i (00:00:04) trapsize 41088
+\t (00:00:04) Creating TextBlocks
+\t (00:00:04) Creating Shapes on Package layers
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\t (00:00:04) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_TXS0104EPWR/AllegroV17_2/pw14-l.psm'.
+\t (00:00:04) Starting Create symbol...
+\t (00:00:04) Symbol Created
+   (00:00:04) Loading cmds.cxt 
+   (00:00:04) Loading skillExt.cxt 
+\i (00:00:04) trapsize 3049
+\t (00:00:04) Opening existing design...
+\i (00:00:04) trapsize 2400
+\i (00:00:04) trapsize 2537
+\i (00:00:04) trapsize 2400
+\i (00:00:04) trapsize 3049
+\d (00:00:04) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TXS0104EPWR/AllegroV17_2/PW14-L.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) scriptmode +i +n 
+\i (00:00:05) step pkg map 
+\i (00:00:06) fillin yes 
+\i (00:00:07) setwindow form.pkgmap3d 
+\i (00:00:07) FORM pkgmap3d stplist PW14.step 
+\i (00:00:07) FORM pkgmap3d rotation_x 0 
+\i (00:00:07) FORM pkgmap3d save_current 
+\i (00:00:07) FORM pkgmap3d done 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) save 
+\i (00:00:07) fillin yes 
+\t (00:00:07) Symbol 'pw14-l.psm' created.
+\i (00:00:07) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TXS0104EPWR/AllegroV17_2/PW14-M.xml" ' 
+\t (00:00:07) Reading Footprint XML
+\t (00:00:07) Creating padstacks
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 32338
+\i (00:00:07) trapsize 34184
+\i (00:00:07) trapsize 32338
+\i (00:00:07) trapsize 32338
+\i (00:00:07) trapsize 32338
+\i (00:00:07) trapsize 32338
+\t (00:00:07) Performing DRC...
+\t (00:00:07) No DRC errors detected.
+\t (00:00:07) Opening Design "PW14-M.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 32338
+\i (00:00:07) trapsize 34184
+\i (00:00:08) trapsize 32338
+\i (00:00:08) trapsize 32338
+\i (00:00:08) trapsize 32338
+\i (00:00:08) trapsize 32338
+\t (00:00:08) Performing DRC...
+\t (00:00:08) No DRC errors detected.
+\i (00:00:08) trapsize 32400
+\t (00:00:08) Creating TextBlocks
+\t (00:00:08) Creating Shapes on Package layers
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+\t (00:00:08) Creating Pins
+\t (00:00:08) Creating Vias
+\t (00:00:08) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_TXS0104EPWR/AllegroV17_2/pw14-m.psm'.
+\t (00:00:08) Starting Create symbol...
+\t (00:00:08) Symbol Created
+\i (00:00:08) trapsize 2886
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 2886
+\i (00:00:08) trapsize 3051
+\i (00:00:08) trapsize 2886
+\i (00:00:08) trapsize 3025
+\d (00:00:08) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TXS0104EPWR/AllegroV17_2/PW14-M.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) scriptmode +i +n 
+\i (00:00:08) step pkg map 
+\i (00:00:10) fillin yes 
+\i (00:00:10) setwindow form.pkgmap3d 
+\i (00:00:10) FORM pkgmap3d stplist PW14.step 
+\i (00:00:10) FORM pkgmap3d rotation_x 0 
+\i (00:00:10) FORM pkgmap3d save_current 
+\i (00:00:10) FORM pkgmap3d done 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) save 
+\i (00:00:10) fillin yes 
+\t (00:00:10) Symbol 'pw14-m.psm' created.
+\i (00:00:10) skill 'LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TXS0104EPWR/AllegroV17_2/PW14.xml" ' 
+\t (00:00:10) Reading Footprint XML
+\t (00:00:10) Creating padstacks
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 32400
+\i (00:00:10) trapsize 34250
+\i (00:00:10) trapsize 32400
+\i (00:00:11) trapsize 32400
+\i (00:00:11) trapsize 32400
+\i (00:00:11) trapsize 32400
+\t (00:00:11) Performing DRC...
+\t (00:00:11) No DRC errors detected.
+\t (00:00:11) Opening Design "PW14.dra"
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 32400
+\i (00:00:11) trapsize 34250
+\i (00:00:11) trapsize 32400
+\i (00:00:11) trapsize 32400
+\i (00:00:11) trapsize 32400
+\i (00:00:11) trapsize 32400
+\t (00:00:11) Performing DRC...
+\t (00:00:11) No DRC errors detected.
+\i (00:00:11) trapsize 33098
+\t (00:00:11) Creating TextBlocks
+\t (00:00:11) Creating Shapes on Package layers
+   (00:00:11) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+   (00:00:11) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 47.0)
+\t (00:00:11) Creating Pins
+\t (00:00:11) Creating Vias
+\t (00:00:11) Creating package symbol 'E:/share_OrCAD/pcb_lib/symbols/ul_TXS0104EPWR/AllegroV17_2/pw14.psm'.
+\t (00:00:11) Starting Create symbol...
+\t (00:00:11) Symbol Created
+\i (00:00:11) trapsize 2608
+\t (00:00:11) Opening existing design...
+\i (00:00:12) trapsize 2608
+\i (00:00:12) trapsize 2757
+\i (00:00:12) trapsize 2608
+\i (00:00:12) trapsize 2734
+\d (00:00:12) Design opened: E:/share_OrCAD/pcb_lib/symbols/ul_TXS0104EPWR/AllegroV17_2/PW14.dra
+\t (00:00:12) Symbol Saved
+   (00:00:12) t
+\i (00:00:12) scriptmode +i +n 
+\i (00:00:12) step pkg map 
+\i (00:00:13) fillin yes 
+\i (00:00:13) setwindow form.pkgmap3d 
+\i (00:00:13) FORM pkgmap3d stplist PW14.step 
+\i (00:00:13) FORM pkgmap3d rotation_x 0 
+\i (00:00:13) FORM pkgmap3d save_current 
+\i (00:00:13) FORM pkgmap3d done 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) save 
+\i (00:00:13) fillin yes 
+\t (00:00:13) Symbol 'pw14.psm' created.
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Thu Sep 29 14:42:21 2022

@@ -1,0 +1,78 @@
+\t (00:00:29) allegro_free_viewer_classic 17.4 S032 Windows SPB 64-bit Edition
+\t (00:00:29)     Journal start - Thu Nov 10 16:06:21 2022
+\t (00:00:29)         Host=LENOVO-10529-P1 User=RobertLi Pid=33652 CPUs=12
+\t (00:00:29) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro_free_viewer_classic.exe
+\t (00:00:29) 
+\d (00:00:29) Design opened: E:/share_OrCAD/pcb_lib/symbols/RES_1005_SAM-L.dra
+\i (00:00:31) trapsize 552
+\i (00:00:33) trapsize 887
+\i (00:00:39) color192 
+\i (00:00:44) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:00:51) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Top Etch 1
+\i (00:00:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 2
+\i (00:00:51) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:55) QtSignal CVDLayerTable VertHeader clickedCheckBox Top 1
+\i (00:00:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:01:02) show measure 
+\i (00:01:03) prepopup -25.107 -7.919
+\i (00:01:07) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:01:07) last pick:  -25.685 -8.842
+\i (00:01:11) prepopup -23.688 -6.854
+\i (00:01:25) prepopup 19.075 -2.951
+\i (00:01:30) pop dyn_option_select 'Snap pick to@:@Pad Edge' 
+\t (00:01:30) last pick:  19.075 -8.842
+\i (00:13:48) open 
+\i (00:14:15) fillin "CAP_1608_TDK-L.dra"
+\t (00:14:15) Opening existing design...
+\i (00:14:15) trapsize 1059
+\d (00:14:15) Design opened: E:/share_OrCAD/pcb_lib/symbols/CAP_1608_TDK-L.dra
+\i (00:14:23) color192 
+\i (00:14:27) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:14:30) QtSignal CVDLayerTable VertHeader clickedCheckBox Top 1
+\i (00:14:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:14:38) show measure 
+\i (00:14:39) prepopup -34.465 -12.583
+\i (00:14:47) pop dyn_option_select 'Snap pick to@:@Pin' 
+\t (00:14:47) last pick:  -32.500 0.000
+\i (00:14:50) prepopup 34.993 1.181
+\i (00:14:56) pop dyn_option_select 'Snap pick to@:@Pad Edge' 
+\t (00:14:56) last pick:  39.500 1.181
+\i (00:16:54) prepopup -38.489 -10.465
+\i (00:17:03) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\i (00:17:04) zoom in 1 
+\i (00:17:04) setwindow pcb
+\i (00:17:04) zoom in -38.912 -14.701
+\i (00:17:04) trapsize 529
+\i (00:17:05) zoom in 1 
+\i (00:17:05) setwindow pcb
+\i (00:17:05) zoom in -38.912 -14.701
+\i (00:17:05) trapsize 265
+\i (00:17:09) pick grid -39.547 -16.395
+\t (00:17:09) last pick:  -39.500 -16.400
+\i (00:17:11) prepopup -39.547 -16.395
+\i (00:17:15) pop dyn_option_select 'Snap pick to@:@Segment' 
+\i (00:17:17) pick grid -39.335 -16.236
+\t (00:17:17) last pick:  -39.300 -16.200
+\i (00:17:19) show measure 
+\i (00:17:20) show measure 
+\i (00:17:22) prepopup -39.070 -16.024
+\i (00:17:26) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\i (00:17:29) zoom out 1 
+\i (00:17:29) setwindow pcb
+\i (00:17:29) zoom out -38.170 -15.865
+\i (00:17:29) trapsize 529
+\i (00:17:31) prepopup -39.335 -16.289
+\i (00:17:36) pop dyn_option_select 'Snap pick to@:@Pad Edge' 
+\t (00:17:36) last pick:  -39.500 -16.289
+\i (00:17:38) setwindow text
+\i (00:17:38) close
+\i (00:17:40) setwindow pcb
+\i (00:17:40) show measure 
+\i (00:17:42) prepopup -39.123 -15.548
+\i (00:17:45) pop dyn_option_select 'Snap pick to@:@Pad Edge Vertex' 
+\t (00:17:45) last pick:  -39.500 -16.500
+\i (00:17:47) setwindow text
+\i (00:17:47) close
+\i (00:17:50) setwindow pcb
+\i (00:17:50) exit 
+\t (00:17:50)     Journal end - Thu Nov 10 16:23:42 2022

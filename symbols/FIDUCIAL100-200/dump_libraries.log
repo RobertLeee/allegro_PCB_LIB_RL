@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Tue Oct 11 10:32:52 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/share_OrCAD/pcb_lib/symbols/Fiducial100-200_RL.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  C100M200 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                1
+
+Total number of symbols dumped:            0
+*****************************************************
+

@@ -1,0 +1,4 @@
+skill load "E:/share_OrCAD/pcb_lib/symbols/ul_TPS63002DRCR/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "E:/share_OrCAD/pcb_lib/symbols/ul_TPS63002DRCR/AllegroV17_2" 
+skill LB_createFootprint "E:/share_OrCAD/pcb_lib/symbols/ul_TPS63002DRCR/AllegroV17_2/DRC0010J.xml" 
+exit 

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : mthole210-320.dra                             )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Tue Oct 11 12:05:45 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = E:/share_OrCAD/pcb_lib/symbols
+    Name      = mthole210-320.bsm
+    User      = RobertLi
+    Machine   = LENOVO-10529-P1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
